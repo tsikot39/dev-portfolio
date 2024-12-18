@@ -158,11 +158,11 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I have worked with him for over 15 years and have witnessed his passion and dedication to building projects.",
+    name: "Nowell Edles",
+    designation: "ISA II",
+    company: "PCMC",
+    image: starbucks,
   },
   {
     testimonial:
