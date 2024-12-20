@@ -158,7 +158,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I have worked with him for over 15 years and have witnessed his passion and dedication to building projects. He is very interested in learning new technologies.",
+      "I have worked with him for over 15 years and have witnessed his passion and dedication to building projects. He has a strong enthusiasm for exploring new technologies.",
     name: "Nowell Edles",
     designation: "ISA II",
     company: "PCMC",
