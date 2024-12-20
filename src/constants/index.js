@@ -158,7 +158,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I have worked with him for over 15 years and have witnessed his passion and dedication to building projects.",
+      "I have worked with him for over 15 years and have witnessed his passion and dedication to building projects. He is very interested in learning new technologies.",
     name: "Nowell Edles",
     designation: "ISA II",
     company: "PCMC",
@@ -166,19 +166,19 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "He developed a Patient Information System for us, which has been very useful and has made our work much easier. We are still using it to this day.",
     name: "Emily Sanchez",
     designation: "MSS Head",
     company: "PCMC",
-    image: "starbucks",
+    image: starbucks,
   },
   {
     testimonial:
-      "After he optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "He developed an Employee Information System with a pooling feature for managing employee information and other tasks. We have been using it for years.",
     name: "Mary Grace Morales",
     designation: "HR Head",
     company: "PCMC",
-    image: "starbucks",
+    image: starbucks,
   },
 ];
 
