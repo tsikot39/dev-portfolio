@@ -39,6 +39,7 @@ import pms from "./pms.png";
 import dpa from "./dpa.png";
 import ord from "./ord.png";
 import ris from "./ris.png";
+import xoom from "./xoom.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -81,6 +82,7 @@ export {
   dpa,
   ord,
   ris,
+  xoom,
   jobit,
   tripguide,
 };
