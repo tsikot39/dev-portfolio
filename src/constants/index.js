@@ -32,6 +32,7 @@ import {
   dpa,
   ord,
   ris,
+  xoom,
 } from "../assets";
 
 export const navLinks = [
@@ -213,7 +214,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: storeit,
+    image: xoom,
     source_code_link: "https://jbc-xoom.vercel.app/",
   },
   {
