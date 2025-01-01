@@ -49,13 +49,12 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I am a software developer with over 15 years of experience in developing
-        web and desktop applications, leading technical teams, and optimizing IT
-        infrastructure. Proficient in a wide range of technologies, including
-        Next.js, React, Node.js, JavaScript, C#, ASP.NET, VB.NET, and SQL. I
-        have a strong background in healthcare information systems, database
-        management, and business logic implementation. I hold a B.Sc. in
-        Computer Science and am currently pursuing a Software Development
-        Diploma.
+        web and desktop applications. Proficient in a wide range of
+        technologies, including Next.js, React, Node.js, JavaScript, C#,
+        ASP.NET, VB.NET, and SQL. I have a strong background in healthcare
+        information systems, database management, and business logic
+        implementation. I hold a B.Sc. in Computer Science and am currently
+        pursuing a Software Development Diploma.
         {/* I'm a skilled software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js, and
         Three.js. I'm a quick learner and collaborate closely with clients to
