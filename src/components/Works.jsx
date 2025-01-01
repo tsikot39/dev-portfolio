@@ -107,8 +107,8 @@ const Works = () => {
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
           The following projects demonstrate my skills and expertise through
-          hands-on experience. Each project includes a brief description and
-          links to code repositories or live sites.
+          practical and real-world applications. Each project includes a brief
+          description and links to code repositories or live sites.
         </motion.p>
       </div>
 
