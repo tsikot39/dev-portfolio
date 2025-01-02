@@ -54,7 +54,8 @@ const About = () => {
         ASP.NET, VB.NET, and SQL. I have a strong background in healthcare
         information systems, database management, and business logic
         implementation. I hold a B.Sc. in Computer Science and am currently
-        pursuing a Software Development Diploma.
+        pursuing a Software Development Diploma at Bow Valley College, expected
+        to graduate in April 2025.
         {/* I'm a skilled software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js, and
         Three.js. I'm a quick learner and collaborate closely with clients to
