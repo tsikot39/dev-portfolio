@@ -185,39 +185,6 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Xoom",
-    description:
-      "A video conferencing app that enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwindcss",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "getstream",
-        color: "green-text-gradient",
-      },
-      {
-        name: "clerk",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: xoom,
-    source_code_link: "https://jbc-xoom.vercel.app/",
-  },
-  {
     name: "StoreIt",
     description:
       "An intuitive platform for effortless file storage, organization, and sharing, built with Next.js 15 and powered by the Appwrite Node SDK for seamless management..",
@@ -319,6 +286,39 @@ const projects = [
     ],
     image: livedocs,
     source_code_link: "https://jbc-livedocs.vercel.app/",
+  },
+  {
+    name: "Xoom",
+    description:
+      "A video conferencing app that enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "shadcn",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "getstream",
+        color: "green-text-gradient",
+      },
+      {
+        name: "clerk",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: xoom,
+    source_code_link: "https://jbc-xoom.vercel.app/",
   },
   {
     name: "YC Directory",
