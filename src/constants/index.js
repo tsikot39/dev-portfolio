@@ -218,9 +218,9 @@ const projects = [
     source_code_link: "https://jbc-store-it.vercel.app/",
   },
   {
-    name: "Care Pulse",
+    name: "CarePulse",
     description:
-      "A patient management app for easy registration, booking, and appointment management, featuring admin tools and SMS notifications, built on Next.js.",
+      "A patient management system for easy registration, booking, and appointment management, featuring admin tools and SMS notifications, built on Next.js.",
     tags: [
       {
         name: "next.js",
