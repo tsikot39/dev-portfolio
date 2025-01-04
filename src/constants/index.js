@@ -33,6 +33,7 @@ import {
   ord,
   ris,
   xoom,
+  imaginify,
 } from "../assets";
 
 export const navLinks = [
@@ -319,6 +320,47 @@ const projects = [
     ],
     image: xoom,
     source_code_link: "https://jbc-xoom.vercel.app/",
+  },
+  {
+    name: "Imaginify",
+    description:
+      "An AI image SaaS platform with advanced image processing, secure payments, image search, and AI features like restoration, recoloring, object removal, generative filling, and background removal.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "clerk",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "cloudinary",
+        color: "green-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "shadcn",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "green-text-gradient",
+      },
+    ],
+    image: imaginify,
+    source_code_link: "https://jbc-imaginify.vercel.app/",
   },
   {
     name: "YC Directory",

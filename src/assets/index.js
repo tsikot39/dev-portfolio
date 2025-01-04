@@ -40,6 +40,7 @@ import dpa from "./dpa.png";
 import ord from "./ord.png";
 import ris from "./ris.png";
 import xoom from "./xoom.png";
+import imaginify from "./imaginify.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -83,6 +84,7 @@ export {
   ord,
   ris,
   xoom,
+  imaginify,
   jobit,
   tripguide,
 };
