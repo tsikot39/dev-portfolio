@@ -186,7 +186,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "StoreIt",
+    name: "Storage Management Solution",
     description:
       "An intuitive platform for effortless file storage, organization, and sharing, built with Next.js 15 and powered by the Appwrite Node SDK for seamless management..",
     tags: [
@@ -219,7 +219,7 @@ const projects = [
     source_code_link: "https://jbc-store-it.vercel.app/",
   },
   {
-    name: "CarePulse",
+    name: "Patient Management System",
     description:
       "A patient management system for easy registration, booking, and appointment management, featuring admin tools and SMS notifications, built on Next.js.",
     tags: [
@@ -252,7 +252,7 @@ const projects = [
     source_code_link: "https://jbc-carepulse.vercel.app/",
   },
   {
-    name: "Live Docs",
+    name: "Realtime Collaboration Management App",
     description:
       "A Google Docs clone, uses Liveblocks for real-time collaboration, TailwindCSS for styling, and Next.js to showcase expertise in impactful real-time applications.",
     tags: [
@@ -289,7 +289,7 @@ const projects = [
     source_code_link: "https://jbc-livedocs.vercel.app/",
   },
   {
-    name: "Xoom",
+    name: "Video Conferencing App",
     description:
       "A video conferencing app that enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
     tags: [
@@ -322,7 +322,7 @@ const projects = [
     source_code_link: "https://jbc-xoom.vercel.app/",
   },
   {
-    name: "Imaginify",
+    name: "AI-Powered Image Processor App",
     description:
       "An AI image SaaS platform with advanced image processing, secure payments, image search, and AI features like restoration, recoloring, object removal, generative filling, and background removal.",
     tags: [
@@ -363,7 +363,7 @@ const projects = [
     source_code_link: "https://jbc-imaginify.vercel.app/",
   },
   {
-    name: "YC Directory",
+    name: "Pitch Startup Platform",
     description:
       "A Next.js 15 platform for entrepreneurs to pitch ideas, join competitions, and explore others with a sleek, user-friendly design.",
     tags: [
