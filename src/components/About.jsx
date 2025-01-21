@@ -51,16 +51,12 @@ const About = () => {
         I am a software developer with over 15 years of experience in developing
         web and desktop applications. Proficient in a wide range of
         technologies, including Next.js, React, Node.js, JavaScript, C#,
-        ASP.NET, VB.NET, and SQL. I have a strong background in healthcare
-        information systems, database management, and business logic
+        ASP.NET, VB.NET, SQL, and NoSQL databases. I have a strong background in
+        healthcare information systems, database management, and business logic
         implementation. I hold a B.Sc. in Computer Science and am currently
         pursuing a Software Development Diploma at Bow Valley College, expected
-        to graduate in April 2025.
-        {/* I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life! */}
+        to graduate in April 2025. With certificates from IBM Software
+        Development courses.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
