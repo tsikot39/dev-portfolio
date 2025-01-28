@@ -196,12 +196,16 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "appwrite",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "appwrite",
         color: "pink-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "blue-text-gradient",
       },
     ],
     image: movies,
