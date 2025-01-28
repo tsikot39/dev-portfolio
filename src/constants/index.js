@@ -34,6 +34,7 @@ import {
   ris,
   xoom,
   imaginify,
+  movies,
 } from "../assets";
 
 export const navLinks = [
@@ -185,6 +186,27 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Movies Application",
+    description:
+      "Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, TMDB Movies API for movies data, and styled with Tailwind CSS.",
+    tags: [
+      {
+        name: "react.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: movies,
+    source_code_link: "https://jbc-movies-app.vercel.app/",
+  },
   {
     name: "Storage Management Solution",
     description:

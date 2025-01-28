@@ -41,6 +41,7 @@ import ord from "./ord.png";
 import ris from "./ris.png";
 import xoom from "./xoom.png";
 import imaginify from "./imaginify.png";
+import movies from "./movies.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -85,6 +86,7 @@ export {
   ris,
   xoom,
   imaginify,
+  movies,
   jobit,
   tripguide,
 };
