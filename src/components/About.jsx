@@ -48,8 +48,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a software developer with over 15 years of experience in developing
-        web and desktop applications. Proficient in a wide range of
+        I am a full stack developer with over 15 years of experience in
+        developing web and desktop applications. Proficient in a wide range of
         technologies, including Next.js, React.js, Node.js, JavaScript, C#,
         ASP.NET, VB.NET, SQL, and NoSQL databases. I have a strong background in
         healthcare information systems, database management, and business logic
