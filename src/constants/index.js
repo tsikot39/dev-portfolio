@@ -493,7 +493,7 @@ const projects = [
     source_code_link: "https://github.com/tsikot39/Task-Management-Tool",
   },
   {
-    name: "Forkify",
+    name: "Recipe Web Application",
     description:
       "A web app to search over a million recipes, bookmark favorites, and add personal recipes, built with HTML, SASS, JavaScript, Parcel, and API integration.",
     tags: [
@@ -518,7 +518,7 @@ const projects = [
     source_code_link: "https://jbc-forkify.vercel.app/",
   },
   {
-    name: "Omnifood",
+    name: "Conceptual AI-powered Meal Subscriptions Platform",
     description:
       "A responsive, elegantly designed website offering a personalized daily meal delivery service crafted using JavaScript, HTML and CSS.",
     tags: [
