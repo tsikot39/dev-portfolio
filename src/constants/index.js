@@ -70,7 +70,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Software Engineer",
+    title: ".NET Developer",
     icon: creator,
   },
 ];
