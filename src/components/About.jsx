@@ -55,8 +55,7 @@ const About = () => {
         healthcare information systems, database management, and business logic
         implementation. I hold a B.Sc. in Computer Science and am currently
         pursuing a Software Development Diploma at Bow Valley College, expected
-        to graduate in April 2025. With IBM and Meta Full Stack Developer
-        Professional Certificates.
+        to graduate in April 2025. With IBM and Meta Professional Certificates.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
