@@ -62,15 +62,15 @@ const services = [
     icon: web,
   },
   {
-    title: "Next.js Developer",
+    title: ".NET Developer",
     icon: mobile,
   },
   {
-    title: "React Developer",
+    title: "Next.js Developer",
     icon: backend,
   },
   {
-    title: ".NET Developer",
+    title: "React Developer",
     icon: creator,
   },
 ];
@@ -81,7 +81,7 @@ const technologies = [
     icon: html,
   },
   {
-    name: "CSS 3",
+    name: "CSS",
     icon: css,
   },
   {

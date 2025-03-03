@@ -50,8 +50,8 @@ const About = () => {
       >
         I am a full stack developer with over 15 years of experience in
         developing web and desktop applications. Proficient in a wide range of
-        technologies, including Next.js, React, Node.js, JavaScript, C#,
-        ASP.NET, VB.NET, SQL, and NoSQL databases. I have a strong background in
+        technologies, including C#, .NET Ecosystem, Next.js, React, Node.js,
+        JavaScript, SQL, and NoSQL databases. I have a strong background in
         healthcare information systems, database management, and business logic
         implementation. I hold a B.Sc. in Computer Science and am currently
         pursuing a Software Development Diploma at Bow Valley College, expected
