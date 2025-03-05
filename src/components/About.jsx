@@ -51,12 +51,11 @@ const About = () => {
         I am a full stack developer with over 15 years of experience in
         developing web and desktop applications. Proficient in a wide range of
         technologies, including Next.js, React, Node.js, JavaScript, C#, .NET
-        Ecosystem, SQL, NoSQL and DevOps. I have a strong background in
-        healthcare information systems, database management, and business logic
-        implementation. I hold a B.Sc. in Computer Science and am currently
-        pursuing a Software Development Diploma at Bow Valley College, expected
-        to graduate in April 2025. With Professional Certificates from leading
-        tech companies, including IBM, Meta, AWS, and Microsoft.
+        Ecosystem and SQL. I have a strong background in healthcare information
+        systems, database management, and business logic implementation. I hold
+        a B.Sc. in Computer Science and am currently pursuing a Software
+        Development Diploma at Bow Valley College, expected to graduate in April
+        2025.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
