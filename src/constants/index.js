@@ -132,7 +132,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Senior Computer Programmer",
+    title: "Computer Programmer",
     company_name: "Philippine Children's Medical Center",
     icon: starbucks,
     iconBg: "#383E56",
