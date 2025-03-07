@@ -55,7 +55,8 @@ const About = () => {
         systems, database management, and business logic implementation. I hold
         a B.Sc. in Computer Science and am currently pursuing a Software
         Development Diploma at Bow Valley College, expected to graduate in April
-        2025.
+        2025. With professional certificates from leading tech companies,
+        including IBM, Meta, Microsoft and AWS, obtained through Coursera.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
