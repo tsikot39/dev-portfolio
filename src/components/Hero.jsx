@@ -22,8 +22,9 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Bringing your ideas to life with custom web and desktop
-            <br className="sm:block hidden" />
-            applications
+            applications.
+            {/* <br className="sm:block hidden" />
+            applications */}
           </p>
         </div>
       </div>

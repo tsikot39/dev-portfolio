@@ -42,6 +42,7 @@ import ris from "./ris.png";
 import xoom from "./xoom.png";
 import imaginify from "./imaginify.png";
 import movies from "./movies.png";
+import course_app from "./course_app.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -87,6 +88,7 @@ export {
   xoom,
   imaginify,
   movies,
+  course_app,
   jobit,
   tripguide,
 };

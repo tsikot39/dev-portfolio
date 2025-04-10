@@ -35,6 +35,7 @@ import {
   xoom,
   imaginify,
   movies,
+  course_app,
 } from "../assets";
 
 export const navLinks = [
@@ -186,6 +187,35 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Course Management Android App",
+    description:
+      "Course App is a Kotlin-based Android app for students to manage schedules, explore courses, and view instructor info with a modern Jetpack Compose UI.",
+    tags: [
+      {
+        name: "kotlin",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "jetpackcompose",
+        color: "green-text-gradient",
+      },
+      {
+        name: "material3",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "SQLite",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "androidstudio",
+        color: "green-text-gradient",
+      },
+    ],
+    image: course_app,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
   {
     name: "Movies Application",
     description:
