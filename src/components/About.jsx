@@ -48,15 +48,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a Software Developer with over 15 years of experience in developing
-        web and desktop applications. Proficient in a wide range of
-        technologies, including Next.js, React, Node.js, .NET ecosystem and SQL.
-        I have a strong background in healthcare information systems, database
-        management, and business logic implementation. I hold a B.Sc. in
-        Computer Science and am currently pursuing a Software Development
-        Diploma at Bow Valley College, expected to graduate in April 2025. With
-        professional certificates from leading tech companies, including IBM,
-        Meta, Microsoft and AWS, obtained through Coursera and Udemy.
+        I'm a Full Stack Developer with over 15 years of experience in
+        developing web and desktop applications. Proficient in a wide range of
+        technologies, including Next.js, React, Node.js, TypeScript, .NET
+        ecosystem and SQL. I have a strong background in healthcare information
+        systems, database management, and business logic implementation. I hold
+        a B.Sc. in Computer Science and am currently pursuing a Software
+        Development Diploma at Bow Valley College, expected to graduate in April
+        2025. With professional certificates from leading tech companies,
+        including IBM, Meta, Microsoft and AWS, obtained through Coursera and
+        Udemy.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
