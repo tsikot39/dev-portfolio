@@ -214,7 +214,7 @@ const projects = [
       },
     ],
     image: course_app,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
+    source_code_link: "https://github.com/tsikot39/group5_mobiledev_project",
   },
   {
     name: "Movies Application",
