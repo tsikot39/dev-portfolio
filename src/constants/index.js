@@ -67,11 +67,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "SaaS",
+    title: "SaaS Solutions",
     icon: backend,
   },
   {
-    title: "AI",
+    title: "AI Applications",
     icon: creator,
   },
 ];
