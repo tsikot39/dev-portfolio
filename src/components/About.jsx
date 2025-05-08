@@ -48,14 +48,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a Full Stack Developer with over 15 years of experience in
-        developing web and desktop applications. Proficient in a wide range of
-        technologies, including Next.js, React, Node.js, TypeScript, .NET
-        ecosystem and SQL. I have a strong background in healthcare information
-        systems, database management, and business logic implementation. I hold
-        a B.Sc. in Computer Science and a Software Development Diploma. With
-        professional certificates from leading tech companies, including IBM,
-        Meta, Microsoft and AWS, obtained through Coursera and Udemy.
+        Full Stack Developer with 15+ years of experience building scalable web
+        and desktop applications. Skilled in Next.js, React, Node.js,
+        TypeScript, C#, VB.NET, ASP.NET and SQL. Specialized in healthcare
+        systems, backend integration, and DevOps. Holds a B.Sc. in Computer
+        Science and a Software Development Diploma. Certified by IBM, Meta,
+        Microsoft, and AWS through Coursera and Udemy
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
