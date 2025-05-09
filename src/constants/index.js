@@ -139,10 +139,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "November 2006 - July 2023",
     points: [
-      "Developed and maintained web and desktop applications, prioritizing high performance and user experience.",
-      "Led the implementation and deployment of a hospital-wide information system, enhancing operational efficiency.",
-      "Led technical teams, overseeing project deliverables, and ensuring timely completion.",
-      "Conducted comprehensive training sessions, elevating the technological proficiency of users.",
+      "Developed full-stack hospital information systems that reduced patient record processing time by 40%",
+      "Led a cross-functional team of 5 developers to implement mission-critical web and desktop applications using C#, VB.NET, ASP.NET and SQL Server.",
+      "Trained over 500 healthcare and admin staff on software usage, improving system adoption by 60%.",
     ],
   },
   {
@@ -153,8 +152,8 @@ const experiences = [
     date: "July 2001 - September 2006",
     points: [
       "Managed and optimized network infrastructure, ensuring reliability and performance.",
-      "Set up and configured computing devices, aligning with user needs and organizational standards.",
-      "Implemented system upgrades and maintenance, securing the IT in infrastructure.",
+      "Configured systems and devices, aligning with user needs and IT standards.",
+      "Conducted system upgrades and maintenance, strengthening infrastructure security.",
     ],
   },
 ];
