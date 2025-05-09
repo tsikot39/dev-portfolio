@@ -53,7 +53,7 @@ const About = () => {
         TypeScript, C#, VB.NET, ASP.NET and SQL. Specialized in healthcare
         systems, backend integration, and DevOps. Holds a B.Sc. in Computer
         Science and a Software Development Diploma. Certified by IBM, Meta,
-        Microsoft, and AWS through Coursera and Udemy
+        Microsoft, and AWS through Coursera and Udemy.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
