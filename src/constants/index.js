@@ -187,35 +187,6 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Course Management Android App",
-    description:
-      "Course App is a Kotlin-based Android app for students to manage schedules, explore courses, and view instructor info with a modern Jetpack Compose UI.",
-    tags: [
-      {
-        name: "kotlin",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "jetpackcompose",
-        color: "green-text-gradient",
-      },
-      {
-        name: "material3",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "SQLite",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "androidstudio",
-        color: "green-text-gradient",
-      },
-    ],
-    image: course_app,
-    source_code_link: "https://github.com/tsikot39/group5_mobiledev_project",
-  },
-  {
     name: "Movies Application",
     description:
       "Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, TMDB Movies API for movies data, and styled with Tailwind CSS.",
@@ -447,6 +418,81 @@ const projects = [
     source_code_link: "https://jbc-ycdirectory.vercel.app/",
   },
   {
+    name: "Recipe Web Application",
+    description:
+      "A web app to search over a million recipes, bookmark favorites, and add personal recipes, built with HTML, SASS, JavaScript, Parcel, and API integration.",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "sass",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "api",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: forkify,
+    source_code_link: "https://jbc-forkify.vercel.app/",
+  },
+  {
+    name: "Conceptual AI-powered Meal Subscriptions Platform",
+    description:
+      "A responsive, elegantly designed website offering a personalized daily meal delivery service crafted using JavaScript, HTML and CSS.",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: omnifood,
+    source_code_link: "https://jbc-omnifood.vercel.app/",
+  },
+  {
+    name: "Course Management Android App",
+    description:
+      "Course App is a Kotlin-based Android app for students to manage schedules, explore courses, and view instructor info with a modern Jetpack Compose UI.",
+    tags: [
+      {
+        name: "kotlin",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "jetpackcompose",
+        color: "green-text-gradient",
+      },
+      {
+        name: "material3",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "SQLite",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "androidstudio",
+        color: "green-text-gradient",
+      },
+    ],
+    image: course_app,
+    source_code_link: "https://github.com/tsikot39/group5_mobiledev_project",
+  },
+  {
     name: "Bow Course Registration System",
     description:
       "A MERN stack platform where students register for courses, view schedules, and admins efficiently manage programs and enrollments.",
@@ -520,52 +566,6 @@ const projects = [
     ],
     image: tasktool,
     source_code_link: "https://github.com/tsikot39/Task-Management-Tool",
-  },
-  {
-    name: "Recipe Web Application",
-    description:
-      "A web app to search over a million recipes, bookmark favorites, and add personal recipes, built with HTML, SASS, JavaScript, Parcel, and API integration.",
-    tags: [
-      {
-        name: "javascript",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "html",
-        color: "green-text-gradient",
-      },
-      {
-        name: "sass",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "api",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: forkify,
-    source_code_link: "https://jbc-forkify.vercel.app/",
-  },
-  {
-    name: "Conceptual AI-powered Meal Subscriptions Platform",
-    description:
-      "A responsive, elegantly designed website offering a personalized daily meal delivery service crafted using JavaScript, HTML and CSS.",
-    tags: [
-      {
-        name: "javascript",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "html",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: omnifood,
-    source_code_link: "https://jbc-omnifood.vercel.app/",
   },
   {
     name: "Patient Information System",
