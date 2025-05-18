@@ -50,10 +50,16 @@ const About = () => {
       >
         Full Stack Developer with 15+ years of experience building scalable web
         and desktop applications. Skilled in Next.js, React, Node.js,
-        TypeScript, C#, VB.NET, ASP.NET and SQL. Specialized in healthcare
+        TypeScript, C#, VB.NET, ASP.NET, and SQL. Specialized in healthcare
         systems, backend integration, and DevOps. Holds a B.Sc. in Computer
-        Science and a Software Development Diploma. Certified by IBM, Meta,
-        Microsoft, and AWS through Coursera and Udemy.
+        Science and a Software Development Diploma. Versatile and
+        results-driven, with a strong ability to develop and maintain full-stack
+        systems across modern frameworks and architectures. Known for effective
+        problem-solving, adaptability to emerging technologies, and a commitment
+        to continuous learning. A collaborative team player, capable of
+        delivering technical solutions that align with business goals. With
+        professional certificates from leading tech companies, including IBM,
+        Meta, Microsoft and AWS, obtained through Coursera and Udemy.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
