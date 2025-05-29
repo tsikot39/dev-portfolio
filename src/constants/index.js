@@ -259,14 +259,26 @@ const projects = [
   {
     name: "Movies Application",
     description:
-      "Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, TMDB Movies API for movies data, and styled with Tailwind CSS.",
+      "React Movies is a web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
     tags: [
       {
-        name: "react.js",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
+        name: "vite",
+        color: "green-text-gradient",
+      },
+      {
         name: "typescript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react hooks",
         color: "green-text-gradient",
       },
       {
@@ -274,7 +286,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "tmdb api",
         color: "blue-text-gradient",
       },
     ],
