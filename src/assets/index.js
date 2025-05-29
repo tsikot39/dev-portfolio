@@ -43,6 +43,7 @@ import xoom from "./xoom.png";
 import imaginify from "./imaginify.png";
 import movies from "./movies.png";
 import course_app from "./course_app.png";
+import expense_tracker from "./expense_tracker.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -89,6 +90,7 @@ export {
   imaginify,
   movies,
   course_app,
+  expense_tracker,
   jobit,
   tripguide,
 };

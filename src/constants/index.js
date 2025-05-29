@@ -36,6 +36,7 @@ import {
   imaginify,
   movies,
   course_app,
+  expense_tracker,
 } from "../assets";
 
 export const navLinks = [
@@ -67,11 +68,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Node.js",
+    title: "TypeScript",
     icon: backend,
   },
   {
-    title: "TypeScript",
+    title: "Node.js",
     icon: creator,
   },
 ];
@@ -186,6 +187,75 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Expense Tracker",
+    description:
+      "The Expense Tracker is a comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "shadcn",
+        color: "green-text-gradient",
+      },
+      {
+        name: "recharts",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "next-themes",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "lucide react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "next.js api routes",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongoose",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nextauth.js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "bcryptjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react hook form",
+        color: "green-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: expense_tracker,
+    source_code_link: "https://jbc-expense-tracker.vercel.app/",
+  },
   {
     name: "Movies Application",
     description:
