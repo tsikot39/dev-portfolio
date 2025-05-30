@@ -259,7 +259,7 @@ const projects = [
   {
     name: "Movies Application",
     description:
-      "React Movies is a web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
+      "Movies Application is a web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
     tags: [
       {
         name: "react",
@@ -296,31 +296,51 @@ const projects = [
   {
     name: "Storage Management Solution",
     description:
-      "An intuitive platform for effortless file storage, organization, and sharing, built with Next.js 15 and powered by the Appwrite Node SDK for seamless management..",
+      "Store It is a modern, user-friendly cloud storage management application designed to help users efficiently organize, store, and manage their digital files. The application provides a seamless experience for uploading, categorizing, and accessing files from anywhere, with a focus on intuitive user interface and robust security features.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "typescript",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "typescript",
         color: "pink-text-gradient",
       },
       {
-        name: "shadcn",
+        name: "tailwind css",
         color: "blue-text-gradient",
       },
       {
-        name: "chart.js",
+        name: "shadcn",
         color: "green-text-gradient",
       },
       {
-        name: "appwrite",
+        name: "recharts",
         color: "pink-text-gradient",
+      },
+      {
+        name: "react hook form",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react dropzone",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js server actions",
+        color: "green-text-gradient",
       },
     ],
     image: storeit,
