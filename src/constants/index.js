@@ -492,38 +492,50 @@ const projects = [
   {
     name: "AI-Powered Image Processor App",
     description:
-      "An AI image SaaS platform with advanced image processing, secure payments, image search, and AI features like restoration, recoloring, object removal, generative filling, and background removal.",
+      "Imaginify is a powerful AI-powered SaaS platform that offers advanced image processing capabilities. The application allows users to transform and enhance images using various AI techniques, including restoration, recoloring, object removal, generative filling, and background removal. With a user-friendly interface and a credit-based system, Imaginify provides both free and premium access to its powerful image transformation tools.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
+        name: "react",
+        color: "green-text-gradient",
+      },
+      {
         name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
         color: "pink-text-gradient",
       },
       {
-        name: "clerk",
+        name: "tailwind css",
         color: "blue-text-gradient",
-      },
-      {
-        name: "cloudinary",
-        color: "green-text-gradient",
-      },
-      {
-        name: "stripe",
-        color: "pink-text-gradient",
       },
       {
         name: "shadcn",
+        color: "green-text-gradient",
+      },
+      {
+        name: "next.js server actions",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "mongodb",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "clerk",
+        color: "green-text-gradient",
+      },
+      {
+        name: "cloudinary",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "webhooks",
         color: "green-text-gradient",
       },
     ],
