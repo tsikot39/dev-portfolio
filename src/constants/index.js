@@ -406,18 +406,30 @@ const projects = [
   {
     name: "Realtime Collaboration Management App",
     description:
-      "A Google Docs clone, uses Liveblocks for real-time collaboration, TailwindCSS for styling, and Next.js to showcase expertise in impactful real-time applications.",
+      "LiveDocs is a modern, real-time collaborative document editing platform that allows multiple users to work on the same document simultaneously. It provides a rich text editing experience with role-based access control, threaded comments, and a clean, intuitive user interface.",
     tags: [
       {
-        name: "nextjs",
+        name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "typescript",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "lexicaleditor",
+        name: "typescript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "clerk",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "liveblocks",
+        color: "green-text-gradient",
+      },
+      {
+        name: "lexical",
         color: "pink-text-gradient",
       },
       {
@@ -425,16 +437,12 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "clerk",
+        name: "tailwind css",
         color: "green-text-gradient",
       },
       {
-        name: "liveblocks",
+        name: "lucide react",
         color: "pink-text-gradient",
-      },
-      {
-        name: "tailwindcss",
-        color: "blue-text-gradient",
       },
     ],
     image: livedocs,
