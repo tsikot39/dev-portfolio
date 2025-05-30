@@ -349,14 +349,14 @@ const projects = [
   {
     name: "Patient Management System",
     description:
-      "A patient management system for easy registration, booking, and appointment management, featuring admin tools and SMS notifications, built on Next.js.",
+      "CarePulse is a modern, web-based patient management system designed to streamline healthcare appointment scheduling and management. The application provides separate interfaces for patients and administrators, enabling efficient healthcare service delivery and management.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "appwrite",
+        name: "react",
         color: "green-text-gradient",
       },
       {
@@ -364,11 +364,35 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "tailwind css",
         color: "blue-text-gradient",
       },
       {
         name: "shadcn",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react hook form",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tanstack table",
+        color: "green-text-gradient",
+      },
+      {
+        name: "next themes",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js server actions",
         color: "green-text-gradient",
       },
       {
