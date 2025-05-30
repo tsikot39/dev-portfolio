@@ -451,31 +451,39 @@ const projects = [
   {
     name: "Video Conferencing App",
     description:
-      "A video conferencing app that enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
+      "Xoom is a modern video conferencing application inspired by Zoom. It provides a seamless platform for users to create, join, and manage virtual meetings. The application offers a user-friendly interface with features for scheduling meetings, recording sessions, and managing personal meeting rooms.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "typescript",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "typescript",
         color: "pink-text-gradient",
       },
       {
-        name: "shadcn",
+        name: "tailwind css",
         color: "blue-text-gradient",
       },
       {
-        name: "getstream",
+        name: "shadcn",
         color: "green-text-gradient",
       },
       {
-        name: "clerk",
+        name: "next.js api routes",
         color: "pink-text-gradient",
+      },
+      {
+        name: "stream.io",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "clerk",
+        color: "green-text-gradient",
       },
     ],
     image: xoom,
