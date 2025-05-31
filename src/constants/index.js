@@ -590,22 +590,34 @@ const projects = [
   {
     name: "Recipe Web Application",
     description:
-      "A web app to search over a million recipes, bookmark favorites, and add personal recipes, built with HTML, SASS, JavaScript, Parcel, and API integration.",
+      "Forkify is a sophisticated recipe search and management application that allows users to search for recipes, view detailed instructions, adjust serving sizes, bookmark favorites, and even add their own recipes. The application provides an intuitive and responsive user interface for discovering and managing cooking recipes.",
     tags: [
       {
-        name: "javascript",
+        name: "html5",
         color: "blue-text-gradient",
       },
       {
-        name: "html",
+        name: "css3/sass",
         color: "green-text-gradient",
       },
       {
-        name: "sass",
+        name: "javascript",
         color: "pink-text-gradient",
       },
       {
-        name: "api",
+        name: "parcel",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "forkify api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "local storage api",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "fracty",
         color: "blue-text-gradient",
       },
     ],
