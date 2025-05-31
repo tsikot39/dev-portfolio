@@ -545,27 +545,43 @@ const projects = [
   {
     name: "Pitch Startup Platform",
     description:
-      "A Next.js 15 platform for entrepreneurs to pitch ideas, join competitions, and explore others with a sleek, user-friendly design.",
+      "YC Directory is a platform designed for entrepreneurs to showcase their startups, connect with other entrepreneurs, and participate in virtual pitch competitions. The application serves as a directory for startups, allowing users to submit their ideas, vote on pitches, and gain visibility in the entrepreneurial community.",
     tags: [
       {
         name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "sanity",
+        name: "react",
         color: "green-text-gradient",
-      },
-      {
-        name: "tailwindcss",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "blue-text-gradient",
       },
       {
         name: "typescript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "shadcn",
         color: "green-text-gradient",
+      },
+      {
+        name: "markdown support",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "sanity cms",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nextauth.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "next.js api routes",
+        color: "pink-text-gradient",
       },
     ],
     image: ycdirectory,
