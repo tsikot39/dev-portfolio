@@ -597,7 +597,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "css3/sass",
+        name: "css3",
         color: "green-text-gradient",
       },
       {
@@ -627,18 +627,18 @@ const projects = [
   {
     name: "Conceptual AI-powered Meal Subscriptions Platform",
     description:
-      "A responsive, elegantly designed website offering a personalized daily meal delivery service crafted using JavaScript, HTML and CSS.",
+      "Omnifood is a modern, responsive website for a fictional AI-powered food subscription service that delivers healthy meals to customers. The service aims to solve the problem of poor diet due to busy lifestyles by using AI to create personalized meal plans and delivering freshly cooked meals to customers' doors.",
     tags: [
       {
-        name: "javascript",
+        name: "html5",
         color: "blue-text-gradient",
       },
       {
-        name: "html",
+        name: "css3",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "javascript",
         color: "pink-text-gradient",
       },
     ],
