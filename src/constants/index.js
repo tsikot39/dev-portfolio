@@ -60,19 +60,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Application",
+    title: "Node.js",
     icon: web,
   },
   {
-    title: "Desktop Application",
+    title: "React",
     icon: mobile,
   },
   {
-    title: "Console Application",
+    title: "Next.js",
     icon: backend,
   },
   {
-    title: "Windows Forms Application",
+    title: "C#",
     icon: creator,
   },
 ];

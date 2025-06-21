@@ -48,14 +48,15 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        End-to-End Full Stack Developer with 15+ years of experience building
-        scalable web and desktop applications, skilled in modern frameworks like
-        Next.js, React, and Node.js, alongside C#, .NET, and SQL. Specialized in
-        backend integration, DevOps, and healthcare systems. A strong
-        collaborator, adept at effective problem-solving, adaptable to emerging
-        technologies, and committed to continuous learning, holding
-        certifications from leading tech companies including IBM, Meta, AWS,
-        Google, and Microsoft.
+        An End-to-End Full Stack Developer with 15+ years of experience. Holding
+        a foundational B.Sc. in Computer Science and recently enhancing my
+        expertise with a Software Development Diploma, I excel at building
+        scalable web and desktop applications, proficient in modern frameworks
+        like Node.js, React, and Next.js, alongside C#, ASP.NET, and SQL. My
+        expertise spans healthcare systems, full stack development, and complex
+        business logic implementation. I am a strong collaborator, adept at
+        effective problem-solving, continuously learning, and adaptable to
+        emerging technologies.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
