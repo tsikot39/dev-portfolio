@@ -48,13 +48,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        An End-to-End Full Stack Developer with 15+ years of experience. Holding
-        a foundational B.Sc. in Computer Science and recently enhancing my
+        A Senior Full Stack Developer with 15+ years of experience. Holding a
+        foundational B.Sc. in Computer Science and recently enhancing my
         expertise with a Software Development Diploma, I excel at building
-        scalable web and desktop applications, proficient in modern frameworks
-        like Node.js, React, and Next.js, alongside C#, ASP.NET, and SQL. My
-        expertise spans healthcare systems, full stack development, and complex
-        business logic implementation. I am a strong collaborator, adept at
+        scalable web and desktop applications. Proficient in modern frameworks
+        like Node.js, React, and Next.js, alongside C#, ASP.NET, and SQL, my
+        expertise lies in designing and implementing robust backend solutions
+        and intricate business logic, driving scalable full-stack applications
+        across diverse industries. I am a strong collaborator, adept at
         effective problem-solving, continuously learning, and adaptable to
         emerging technologies.
       </motion.p>
