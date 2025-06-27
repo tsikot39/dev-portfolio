@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        A Senior Full Stack Developer with 15+ years of experience. Holding a
+        A Senior Software Developer with 15+ years of experience. Holding a
         foundational B.Sc. in Computer Science and recently enhancing my
         expertise with a Software Development Diploma, I excel at building
         scalable web and desktop applications. Proficient in modern frameworks
