@@ -60,7 +60,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Next.js/React/Node.js",
+    title: "Node.js/React/Next.js",
     icon: web,
   },
   {
