@@ -37,6 +37,7 @@ import {
   movies,
   course_app,
   expense_tracker,
+  quote_generator,
 } from "../assets";
 
 export const navLinks = [
@@ -60,7 +61,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Node.js/React/Next.js",
+    title: "Node.js/Next.js/React",
     icon: web,
   },
   {
@@ -698,6 +699,35 @@ const projects = [
     ],
     image: bowcourse,
     source_code_link: "https://github.com/tsikot39/bow-course",
+  },
+  {
+    name: "Quote Generator",
+    description:
+      "A simple, elegant web application that displays random inspirational quotes with an intuitive user interface. The app fetches quotes from an external API and provides functionality to share quotes on Twitter. It features a clean, modern design with responsive layout and smooth loading animations.",
+    tags: [
+      {
+        name: "html5",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript (es6+)",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "fontawesome",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "quotes api",
+        color: "green-text-gradient",
+      },
+    ],
+    image: quote_generator,
+    source_code_link: "https://jbc-quote-generator.vercel.app/",
   },
   {
     name: "Inventory Management System",

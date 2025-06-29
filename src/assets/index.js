@@ -44,6 +44,7 @@ import imaginify from "./imaginify.png";
 import movies from "./movies.png";
 import course_app from "./course_app.png";
 import expense_tracker from "./expense_tracker.png";
+import quote_generator from "./quote_generator.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -91,6 +92,7 @@ export {
   movies,
   course_app,
   expense_tracker,
+  quote_generator,
   jobit,
   tripguide,
 };
