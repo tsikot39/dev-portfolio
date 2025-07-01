@@ -45,6 +45,7 @@ import movies from "./movies.png";
 import course_app from "./course_app.png";
 import expense_tracker from "./expense_tracker.png";
 import quote_generator from "./quote_generator.png";
+import infinite_scroll from "./infinite_scroll.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -93,6 +94,7 @@ export {
   course_app,
   expense_tracker,
   quote_generator,
+  infinite_scroll,
   jobit,
   tripguide,
 };

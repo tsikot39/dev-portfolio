@@ -38,6 +38,7 @@ import {
   course_app,
   expense_tracker,
   quote_generator,
+  infinite_scroll,
 } from "../assets";
 
 export const navLinks = [
@@ -699,6 +700,35 @@ const projects = [
     ],
     image: bowcourse,
     source_code_link: "https://github.com/tsikot39/bow-course",
+  },
+  {
+    name: "Infinite Scroll",
+    description:
+      "The application fetches high-quality random photos from the Unsplash API and displays them in a masonry-style layout. As users scroll near the bottom of the page, the app automatically loads the next batch of images, creating an infinite scrolling experience. Each image is clickable and links directly to its source page on Unsplash, allowing users to explore the photographer's profile and download the original image.",
+    tags: [
+      {
+        name: "html5",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript (es6+)",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "unsplash api",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "svg loader animation",
+        color: "green-text-gradient",
+      },
+    ],
+    image: infinite_scroll,
+    source_code_link: "https://jbc-infinite-scroll.vercel.app/",
   },
   {
     name: "Quote Generator",
