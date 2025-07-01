@@ -590,6 +590,60 @@ const projects = [
     source_code_link: "https://jbc-ycdirectory.vercel.app/",
   },
   {
+    name: "Course Management Android App",
+    description:
+      "Course App is a Kotlin-based Android app for students to manage schedules, explore courses, and view instructor info with a modern Jetpack Compose UI.",
+    tags: [
+      {
+        name: "kotlin",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "jetpackcompose",
+        color: "green-text-gradient",
+      },
+      {
+        name: "material3",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "SQLite",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "androidstudio",
+        color: "green-text-gradient",
+      },
+    ],
+    image: course_app,
+    source_code_link: "https://github.com/tsikot39/group5_mobiledev_project",
+  },
+  {
+    name: "Bow Course Registration System",
+    description:
+      "A MERN stack platform where students register for courses, view schedules, and admins efficiently manage programs and enrollments.",
+    tags: [
+      {
+        name: "mongodb",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react.js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "node.js",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: bowcourse,
+    source_code_link: "https://github.com/tsikot39/bow-course",
+  },
+  {
     name: "Recipe Web Application",
     description:
       "Forkify is a sophisticated recipe search and management application that allows users to search for recipes, view detailed instructions, adjust serving sizes, bookmark favorites, and even add their own recipes. The application provides an intuitive and responsive user interface for discovering and managing cooking recipes.",
@@ -646,60 +700,6 @@ const projects = [
     ],
     image: omnifood,
     source_code_link: "https://jbc-omnifood.vercel.app/",
-  },
-  {
-    name: "Course Management Android App",
-    description:
-      "Course App is a Kotlin-based Android app for students to manage schedules, explore courses, and view instructor info with a modern Jetpack Compose UI.",
-    tags: [
-      {
-        name: "kotlin",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "jetpackcompose",
-        color: "green-text-gradient",
-      },
-      {
-        name: "material3",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "SQLite",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "androidstudio",
-        color: "green-text-gradient",
-      },
-    ],
-    image: course_app,
-    source_code_link: "https://github.com/tsikot39/group5_mobiledev_project",
-  },
-  {
-    name: "Bow Course Registration System",
-    description:
-      "A MERN stack platform where students register for courses, view schedules, and admins efficiently manage programs and enrollments.",
-    tags: [
-      {
-        name: "mongodb",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "express.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "react.js",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "node.js",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: bowcourse,
-    source_code_link: "https://github.com/tsikot39/bow-course",
   },
   {
     name: "Infinite Scroll",
