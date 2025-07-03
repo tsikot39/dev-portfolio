@@ -63,19 +63,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Node.js/Next.js/React",
+    title: "Node.js, Python, C#, VB.NET, ASP.NET",
     icon: web,
   },
   {
-    title: "SQL/NoSQL Databases",
+    title: "Next.js, React, HTML, CSS, JavaScript",
     icon: mobile,
   },
   {
-    title: "CI/CD (GitHub Actions)",
+    title: "SQL & NoSQL Databases",
     icon: backend,
   },
   {
-    title: "Docker, AWS Cloud",
+    title: "CI/CD, Docker, AWS Cloud",
     icon: creator,
   },
 ];
@@ -193,67 +193,63 @@ const projects = [
   {
     name: "Expense Tracker",
     description:
-      "The Expense Tracker is a comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
+      "A comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "react",
-        color: "green-text-gradient",
-      },
-      {
         name: "typescript",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "tailwind css",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "shadcn",
-        color: "green-text-gradient",
+        color: "blue-text-gradient",
       },
       {
         name: "recharts",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "next-themes",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "lucide react",
-        color: "green-text-gradient",
+        color: "blue-text-gradient",
       },
       {
         name: "next.js api routes",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "mongodb",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "mongoose",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nextauth.js",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "bcryptjs",
         color: "blue-text-gradient",
       },
       {
-        name: "react hook form",
+        name: "nextauth.js",
         color: "green-text-gradient",
       },
       {
-        name: "zod",
+        name: "bcryptjs",
         color: "pink-text-gradient",
+      },
+      {
+        name: "react hook form",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "green-text-gradient",
       },
     ],
     image: expense_tracker,
@@ -262,7 +258,7 @@ const projects = [
   {
     name: "Movies Application",
     description:
-      "Movies Application is a web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
+      "A modern web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
     tags: [
       {
         name: "react",
@@ -299,51 +295,47 @@ const projects = [
   {
     name: "Storage Management Solution",
     description:
-      "Store It is a modern, user-friendly cloud storage management application designed to help users efficiently organize, store, and manage their digital files. The application provides a seamless experience for uploading, categorizing, and accessing files from anywhere, with a focus on intuitive user interface and robust security features.",
+      "A modern, user-friendly cloud storage management application designed to help users efficiently organize, store, and manage their digital files. The application provides a seamless experience for uploading, categorizing, and accessing files from anywhere, with a focus on intuitive user interface and robust security features.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "react",
-        color: "green-text-gradient",
-      },
-      {
         name: "typescript",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "tailwind css",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "shadcn",
-        color: "green-text-gradient",
+        color: "blue-text-gradient",
       },
       {
         name: "recharts",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "react hook form",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "green-text-gradient",
-      },
-      {
-        name: "react dropzone",
         color: "pink-text-gradient",
       },
       {
-        name: "appwrite",
+        name: "zod",
         color: "blue-text-gradient",
       },
       {
-        name: "next.js server actions",
+        name: "react dropzone",
         color: "green-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "next.js server actions",
+        color: "blue-text-gradient",
       },
     ],
     image: storeit,
@@ -352,55 +344,51 @@ const projects = [
   {
     name: "Patient Management System",
     description:
-      "CarePulse is a modern, web-based patient management system designed to streamline healthcare appointment scheduling and management. The application provides separate interfaces for patients and administrators, enabling efficient healthcare service delivery and management.",
+      "A modern, web-based patient management system designed to streamline healthcare appointment scheduling and management. The application provides separate interfaces for patients and administrators, enabling efficient healthcare service delivery and management.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "react",
-        color: "green-text-gradient",
-      },
-      {
         name: "typescript",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "tailwind css",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "shadcn",
-        color: "green-text-gradient",
+        color: "blue-text-gradient",
       },
       {
         name: "react hook form",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "zod",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "tanstack table",
-        color: "green-text-gradient",
-      },
-      {
-        name: "next themes",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "appwrite",
         color: "blue-text-gradient",
       },
       {
-        name: "next.js server actions",
+        name: "next themes",
         color: "green-text-gradient",
       },
       {
-        name: "twilio",
+        name: "appwrite",
         color: "pink-text-gradient",
+      },
+      {
+        name: "next.js server actions",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "twilio",
+        color: "green-text-gradient",
       },
     ],
     image: carepulse,
@@ -409,43 +397,39 @@ const projects = [
   {
     name: "Realtime Collaboration Management App",
     description:
-      "LiveDocs is a modern, real-time collaborative document editing platform that allows multiple users to work on the same document simultaneously. It provides a rich text editing experience with role-based access control, threaded comments, and a clean, intuitive user interface.",
+      "A modern, real-time collaborative document editing platform that allows multiple users to work on the same document simultaneously. It provides a rich text editing experience with role-based access control, threaded comments, and a clean, intuitive user interface.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "react",
-        color: "green-text-gradient",
-      },
-      {
         name: "typescript",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "clerk",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "liveblocks",
-        color: "green-text-gradient",
-      },
-      {
-        name: "lexical",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind css",
+        name: "lexical",
         color: "green-text-gradient",
       },
       {
-        name: "lucide react",
+        name: "shadcn",
         color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "lucide react",
+        color: "green-text-gradient",
       },
     ],
     image: livedocs,
@@ -454,39 +438,35 @@ const projects = [
   {
     name: "Video Conferencing App",
     description:
-      "Xoom is a modern video conferencing application inspired by Zoom. It provides a seamless platform for users to create, join, and manage virtual meetings. The application offers a user-friendly interface with features for scheduling meetings, recording sessions, and managing personal meeting rooms.",
+      "A modern video conferencing application inspired by Zoom. It provides a seamless platform for users to create, join, and manage virtual meetings. The application offers a user-friendly interface with features for scheduling meetings, recording sessions, and managing personal meeting rooms.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "react",
-        color: "green-text-gradient",
-      },
-      {
         name: "typescript",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "tailwind css",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "green-text-gradient",
-      },
-      {
-        name: "next.js api routes",
         color: "pink-text-gradient",
       },
       {
-        name: "stream.io",
+        name: "shadcn",
         color: "blue-text-gradient",
       },
       {
-        name: "clerk",
+        name: "next.js api routes",
         color: "green-text-gradient",
+      },
+      {
+        name: "stream.io",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "clerk",
+        color: "blue-text-gradient",
       },
     ],
     image: xoom,
@@ -495,51 +475,47 @@ const projects = [
   {
     name: "AI-Powered Image Processor App",
     description:
-      "Imaginify is a powerful AI-powered SaaS platform that offers advanced image processing capabilities. The application allows users to transform and enhance images using various AI techniques, including restoration, recoloring, object removal, generative filling, and background removal. With a user-friendly interface and a credit-based system, Imaginify provides both free and premium access to its powerful image transformation tools.",
+      "A powerful AI-powered SaaS platform that offers advanced image processing capabilities. The application allows users to transform and enhance images using various AI techniques, including restoration, recoloring, object removal, generative filling, and background removal. With a user-friendly interface and a credit-based system, Imaginify provides both free and premium access to its powerful image transformation tools.",
     tags: [
       {
         name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "react",
-        color: "green-text-gradient",
-      },
-      {
         name: "typescript",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "tailwind css",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "shadcn",
-        color: "green-text-gradient",
+        color: "blue-text-gradient",
       },
       {
         name: "next.js server actions",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "mongodb",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "clerk",
-        color: "green-text-gradient",
-      },
-      {
-        name: "cloudinary",
         color: "pink-text-gradient",
       },
       {
-        name: "stripe",
+        name: "clerk",
         color: "blue-text-gradient",
       },
       {
-        name: "webhooks",
+        name: "cloudinary",
         color: "green-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "webhooks",
+        color: "blue-text-gradient",
       },
     ],
     image: imaginify,
@@ -548,43 +524,39 @@ const projects = [
   {
     name: "Pitch Startup Platform",
     description:
-      "YC Directory is a platform designed for entrepreneurs to showcase their startups, connect with other entrepreneurs, and participate in virtual pitch competitions. The application serves as a directory for startups, allowing users to submit their ideas, vote on pitches, and gain visibility in the entrepreneurial community.",
+      "A platform designed for entrepreneurs to showcase their startups, connect with other entrepreneurs, and participate in virtual pitch competitions. The application serves as a directory for startups, allowing users to submit their ideas, vote on pitches, and gain visibility in the entrepreneurial community.",
     tags: [
       {
         name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "react",
-        color: "green-text-gradient",
-      },
-      {
         name: "typescript",
-        color: "pink-text-gradient",
+        color: "green-text-gradient",
       },
       {
         name: "tailwind css",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
       {
         name: "shadcn",
-        color: "green-text-gradient",
-      },
-      {
-        name: "markdown support",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "sanity cms",
         color: "blue-text-gradient",
       },
       {
-        name: "nextauth.js",
+        name: "markdown support",
         color: "green-text-gradient",
       },
       {
-        name: "next.js api routes",
+        name: "sanity cms",
         color: "pink-text-gradient",
+      },
+      {
+        name: "nextauth.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next.js api routes",
+        color: "green-text-gradient",
       },
     ],
     image: ycdirectory,
