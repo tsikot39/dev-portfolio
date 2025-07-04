@@ -678,7 +678,7 @@ const projects = [
   {
     name: "Light/Dark Mode",
     description:
-      "A responsive web application that demonstrates a modern light/dark mode toggle implementation. The application features a clean, professional design with smooth transitions between light and dark themes, making it perfect for showcasing modern web development techniques and user interface best practices.",
+      "A web application that demonstrates a modern light/dark mode toggle implementation. The application features a clean, professional design with smooth transitions between light and dark themes, making it perfect for showcasing modern web development techniques and user interface best practices.",
     tags: [
       {
         name: "html5",
