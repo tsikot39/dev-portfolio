@@ -40,6 +40,7 @@ import {
   quote_generator,
   infinite_scroll,
   pong,
+  light_dark_mode,
 } from "../assets";
 
 export const navLinks = [
@@ -673,6 +674,31 @@ const projects = [
     ],
     image: omnifood,
     source_code_link: "https://jbc-omnifood.vercel.app/",
+  },
+  {
+    name: "Light/Dark Mode",
+    description:
+      "A responsive web application that demonstrates a modern light/dark mode toggle implementation. The application features a clean, professional design with smooth transitions between light and dark themes, making it perfect for showcasing modern web development techniques and user interface best practices.",
+    tags: [
+      {
+        name: "html5",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "vanilla javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "fontawesome",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: light_dark_mode,
+    source_code_link: "https://jbc-light-dark-mode.vercel.app/",
   },
   {
     name: "Pong",

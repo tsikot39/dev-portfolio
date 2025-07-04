@@ -47,6 +47,7 @@ import expense_tracker from "./expense_tracker.png";
 import quote_generator from "./quote_generator.png";
 import infinite_scroll from "./infinite_scroll.png";
 import pong from "./pong.png";
+import light_dark_mode from "./light_dark_mode.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -97,6 +98,7 @@ export {
   quote_generator,
   infinite_scroll,
   pong,
+  light_dark_mode,
   jobit,
   tripguide,
 };
