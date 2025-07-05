@@ -48,6 +48,7 @@ import quote_generator from "./quote_generator.png";
 import infinite_scroll from "./infinite_scroll.png";
 import pong from "./pong.png";
 import light_dark_mode from "./light_dark_mode.png";
+import discord_bot from "./discord_bot.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -99,6 +100,7 @@ export {
   infinite_scroll,
   pong,
   light_dark_mode,
+  discord_bot,
   jobit,
   tripguide,
 };

@@ -41,6 +41,7 @@ import {
   infinite_scroll,
   pong,
   light_dark_mode,
+  discord_bot,
 } from "../assets";
 
 export const navLinks = [
@@ -191,6 +192,47 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Discord Weather Bot",
+    description:
+      "A feature-rich Discord bot that provides weather forecasts and astronomical information for any location worldwide. This Discord bot integrates with the WeatherAPI.com service to deliver real-time weather forecasts and astronomical data directly to my Discord server. The bot supports slash commands for easy interaction and provides beautifully formatted responses with embed messages.",
+    tags: [
+      {
+        name: "node.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "discord.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "axios",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "dotenv",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nodemon",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "weatherapi.com api",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "discord api",
+        color: "green-text-gradient",
+      },
+    ],
+    image: discord_bot,
+    source_code_link: "https://github.com/tsikot39/discord-bot",
+  },
   {
     name: "Expense Tracker",
     description:
