@@ -49,6 +49,7 @@ import infinite_scroll from "./infinite_scroll.png";
 import pong from "./pong.png";
 import light_dark_mode from "./light_dark_mode.png";
 import discord_bot from "./discord_bot.png";
+import typing_test from "./typing_test.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -101,6 +102,7 @@ export {
   pong,
   light_dark_mode,
   discord_bot,
+  typing_test,
   jobit,
   tripguide,
 };

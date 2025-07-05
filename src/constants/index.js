@@ -42,6 +42,7 @@ import {
   pong,
   light_dark_mode,
   discord_bot,
+  typing_test,
 } from "../assets";
 
 export const navLinks = [
@@ -824,6 +825,31 @@ const projects = [
     ],
     image: quote_generator,
     source_code_link: "https://jbc-quote-generator.vercel.app/",
+  },
+  {
+    name: "Typing Test",
+    description:
+      "A web-based typing speed test application that measures your typing speed in Words Per Minute (WPM) with real-time feedback on accuracy. The application provides a clean, minimalist interface for testing and improving typing skills.",
+    tags: [
+      {
+        name: "html5",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "vanilla javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "json",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: typing_test,
+    source_code_link: "https://jbc-typing-test.vercel.app/",
   },
   {
     name: "Inventory Management System",
