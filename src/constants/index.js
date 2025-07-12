@@ -43,6 +43,7 @@ import {
   light_dark_mode,
   discord_bot,
   typing_test,
+  pet_care,
 } from "../assets";
 
 export const navLinks = [
@@ -193,6 +194,67 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Pet Care Platform - API & Dashboard",
+    description:
+      "A comprehensive full-stack web application that serves a dual purpose: it's both a functional pet care marketplace and an interactive API testing dashboard. This platform connects pet owners with professional pet sitters and care providers while providing developers and stakeholders with a complete view of the underlying API operations.",
+    tags: [
+      {
+        name: "node.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "multer",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "joi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "jest",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "swagger",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "winston",
+        color: "green-text-gradient",
+      },
+      {
+        name: "morgan",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "html5",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "vanilla javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "rest api",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: pet_care,
+    source_code_link: "https://github.com/tsikot39/pet-care-platform",
+  },
   {
     name: "Discord Weather Bot",
     description:
