@@ -819,12 +819,16 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "vanilla javascript",
+        name: "javascript",
         color: "pink-text-gradient",
       },
       {
         name: "html5 canvas api",
         color: "blue-text-gradient",
+      },
+      {
+        name: "web sockets",
+        color: "green-text-gradient",
       },
     ],
     image: pong,
