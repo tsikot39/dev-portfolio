@@ -297,6 +297,35 @@ const projects = [
     source_code_link: "https://github.com/tsikot39/discord-bot",
   },
   {
+    name: "Multiplayer Pong",
+    description:
+      "A full-stack multiplayer pong game using web sockets that support lots of concurrent games happening in real time side by side. It uses namespaces and rooms to allow hundreds of players to play our game in real time. Each player controls a paddle to bounce a ball back and forth against a computer opponent. The game features smooth animations, responsive controls, and an adaptive AI opponent that becomes more challenging as the game progresses.",
+    tags: [
+      {
+        name: "html5",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "html5 canvas api",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "web sockets",
+        color: "green-text-gradient",
+      },
+    ],
+    image: pong,
+    source_code_link: "https://jbc-pong.vercel.app/",
+  },
+  {
     name: "Expense Tracker",
     description:
       "A comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
@@ -804,35 +833,6 @@ const projects = [
     ],
     image: light_dark_mode,
     source_code_link: "https://jbc-light-dark-mode.vercel.app/",
-  },
-  {
-    name: "Pong",
-    description:
-      "A classic Pong game implementation built with vanilla JavaScript and HTML5 Canvas. It recreates the iconic 1972 arcade game where a player controls a paddle to bounce a ball back and forth against a computer opponent. The game features smooth animations, responsive controls, and an adaptive AI opponent that becomes more challenging as the game progresses.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "html5 canvas api",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "web sockets",
-        color: "green-text-gradient",
-      },
-    ],
-    image: pong,
-    source_code_link: "https://jbc-pong.vercel.app/",
   },
   {
     name: "Infinite Scroll",
