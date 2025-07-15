@@ -195,67 +195,6 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Pet Care Platform - API & Dashboard",
-    description:
-      "A comprehensive full-stack web application that serves a dual purpose: it's both a functional pet care marketplace and an interactive API testing dashboard. This platform connects pet owners with professional pet sitters and care providers while providing developers and stakeholders with a complete view of the underlying API operations.",
-    tags: [
-      {
-        name: "node.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "express.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "multer",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "joi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "jest",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "swagger",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "winston",
-        color: "green-text-gradient",
-      },
-      {
-        name: "morgan",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "vanilla javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "rest api",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: pet_care,
-    source_code_link: "https://github.com/tsikot39/pet-care-platform",
-  },
-  {
     name: "Discord Weather Bot",
     description:
       "A feature-rich Discord bot that provides weather forecasts and astronomical information for any location worldwide. This Discord bot integrates with the WeatherAPI.com service to deliver real-time weather forecasts and astronomical data directly to my Discord server. The bot supports slash commands for easy interaction and provides beautifully formatted responses with embed messages.",
@@ -295,35 +234,6 @@ const projects = [
     ],
     image: discord_bot,
     source_code_link: "https://github.com/tsikot39/discord-bot",
-  },
-  {
-    name: "Multiplayer Pong",
-    description:
-      "A full-stack multiplayer pong game using web sockets that support lots of concurrent games happening in real time side by side. It uses namespaces and rooms to allow hundreds of players to play our game in real time. Each player controls a paddle to bounce a ball back and forth against a computer opponent. The game features smooth animations, responsive controls, and an adaptive AI opponent that becomes more challenging as the game progresses.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "html5 canvas api",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "web sockets",
-        color: "green-text-gradient",
-      },
-    ],
-    image: pong,
-    source_code_link: "https://jbc-pong.vercel.app/",
   },
   {
     name: "Expense Tracker",
@@ -698,6 +608,67 @@ const projects = [
     source_code_link: "https://jbc-ycdirectory.vercel.app/",
   },
   {
+    name: "Pet Care Platform - API & Dashboard",
+    description:
+      "A comprehensive full-stack web application that serves a dual purpose: it's both a functional pet care marketplace and an interactive API testing dashboard. This platform connects pet owners with professional pet sitters and care providers while providing developers and stakeholders with a complete view of the underlying API operations.",
+    tags: [
+      {
+        name: "node.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "express.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "multer",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "joi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "jest",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "swagger",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "winston",
+        color: "green-text-gradient",
+      },
+      {
+        name: "morgan",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "html5",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "vanilla javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "rest api",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: pet_care,
+    source_code_link: "https://github.com/tsikot39/pet-care-platform",
+  },
+  {
     name: "Course Management Android App",
     description:
       "Course App is a Kotlin-based Android app for students to manage schedules, explore courses, and view instructor info with a modern Jetpack Compose UI.",
@@ -808,6 +779,35 @@ const projects = [
     ],
     image: omnifood,
     source_code_link: "https://jbc-omnifood.vercel.app/",
+  },
+  {
+    name: "Multiplayer Pong",
+    description:
+      "A full-stack multiplayer pong game using web sockets that support lots of concurrent games happening in real time side by side. It uses namespaces and rooms to allow hundreds of players to play our game in real time. Each player controls a paddle to bounce a ball back and forth against a computer opponent. The game features smooth animations, responsive controls, and an adaptive AI opponent that becomes more challenging as the game progresses.",
+    tags: [
+      {
+        name: "html5",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "html5 canvas api",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "web sockets",
+        color: "green-text-gradient",
+      },
+    ],
+    image: pong,
+    source_code_link: "https://jbc-pong.vercel.app/",
   },
   {
     name: "Light/Dark Mode",
