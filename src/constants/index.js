@@ -67,7 +67,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Node.js, Python, C#, VB.NET, ASP.NET",
+    title: "Node.js, C#, VB.NET, ASP.NET",
     icon: web,
   },
   {
