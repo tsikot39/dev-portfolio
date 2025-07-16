@@ -51,6 +51,7 @@ import light_dark_mode from "./light_dark_mode.png";
 import discord_bot from "./discord_bot.png";
 import typing_test from "./typing_test.png";
 import pet_care from "./pet_care.png";
+import event_management from "./event_management.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -105,6 +106,7 @@ export {
   discord_bot,
   typing_test,
   pet_care,
+  event_management,
   jobit,
   tripguide,
 };

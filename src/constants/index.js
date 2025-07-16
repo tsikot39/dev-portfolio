@@ -44,6 +44,7 @@ import {
   discord_bot,
   typing_test,
   pet_care,
+  event_management,
 } from "../assets";
 
 export const navLinks = [
@@ -194,6 +195,51 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Event Management & Ticketing Platform",
+    description:
+      "A comprehensive Next.js-based event management and ticketing platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nextauth.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "shadcn ui",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "radix ui",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "lucide react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: event_management,
+    source_code_link: "https://jbc-event-management.vercel.app/",
+  },
   {
     name: "Discord Weather Bot",
     description:
