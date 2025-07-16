@@ -236,6 +236,10 @@ const projects = [
         name: "typescript",
         color: "pink-text-gradient",
       },
+      {
+        name: "google oauth",
+        color: "blue-text-gradient",
+      },
     ],
     image: event_management,
     source_code_link: "https://jbc-event-management.vercel.app/",
