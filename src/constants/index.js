@@ -245,47 +245,6 @@ const projects = [
     source_code_link: "https://jbc-event-management.vercel.app/",
   },
   {
-    name: "Discord Weather Bot",
-    description:
-      "A feature-rich Discord bot that provides weather forecasts and astronomical information for any location worldwide. This Discord bot integrates with the WeatherAPI.com service to deliver real-time weather forecasts and astronomical data directly to my Discord server. The bot supports slash commands for easy interaction and provides beautifully formatted responses with embed messages.",
-    tags: [
-      {
-        name: "node.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "discord.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "axios",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "dotenv",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nodemon",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "weatherapi.com api",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "discord api",
-        color: "green-text-gradient",
-      },
-    ],
-    image: discord_bot,
-    source_code_link: "https://github.com/tsikot39/discord-bot",
-  },
-  {
     name: "Expense Tracker",
     description:
       "A comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
@@ -746,6 +705,47 @@ const projects = [
     ],
     image: course_app,
     source_code_link: "https://github.com/tsikot39/group5_mobiledev_project",
+  },
+  {
+    name: "Discord Weather Bot",
+    description:
+      "A feature-rich Discord bot that provides weather forecasts and astronomical information for any location worldwide. This Discord bot integrates with the WeatherAPI.com service to deliver real-time weather forecasts and astronomical data directly to my Discord server. The bot supports slash commands for easy interaction and provides beautifully formatted responses with embed messages.",
+    tags: [
+      {
+        name: "node.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "discord.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "axios",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "dotenv",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nodemon",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "weatherapi.com api",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "discord api",
+        color: "green-text-gradient",
+      },
+    ],
+    image: discord_bot,
+    source_code_link: "https://github.com/tsikot39/discord-bot",
   },
   {
     name: "Bow Course Registration System",
