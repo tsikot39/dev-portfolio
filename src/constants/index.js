@@ -310,43 +310,6 @@ const projects = [
     source_code_link: "https://jbc-expense-tracker.vercel.app/",
   },
   {
-    name: "Movies Application",
-    description:
-      "A modern web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "vite",
-        color: "green-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "react hooks",
-        color: "green-text-gradient",
-      },
-      {
-        name: "appwrite",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "tmdb api",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: movies,
-    source_code_link: "https://jbc-movies-app.vercel.app/",
-  },
-  {
     name: "Storage Management Solution",
     description:
       "A modern, user-friendly cloud storage management application designed to help users efficiently organize, store, and manage their digital files. The application provides a seamless experience for uploading, categorizing, and accessing files from anywhere, with a focus on intuitive user interface and robust security features.",
@@ -615,6 +578,43 @@ const projects = [
     ],
     image: ycdirectory,
     source_code_link: "https://jbc-ycdirectory.vercel.app/",
+  },
+  {
+    name: "Movies Application",
+    description:
+      "A modern web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "vite",
+        color: "green-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react hooks",
+        color: "green-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tmdb api",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: movies,
+    source_code_link: "https://jbc-movies-app.vercel.app/",
   },
   {
     name: "Pet Care Platform - API & Dashboard",
