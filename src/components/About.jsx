@@ -48,16 +48,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        A Full Stack Engineer with 15+ years of experience. Holding a
-        foundational B.Sc. in Computer Science and recently enhancing my
-        expertise with a Software Development Diploma, I excel at building
-        scalable web and desktop applications. Proficient in modern frameworks
-        like Node.js, Next.js, and React, alongside C#, VB.NET, and ASP.NET, my
-        expertise lies in designing and implementing robust backend solutions
-        and intricate business logic, driving scalable full-stack applications
-        across diverse industries. I am a strong collaborator, adept at
-        effective problem-solving, continuously learning, and adaptable to
-        emerging technologies.
+        A Full Stack Engineer with 15+ years of experience, holding a
+        foundational B.Sc. in Computer Science and a recent Software Development
+        Diploma. I excel at architecting and building scalable, modern web
+        applications, with a deep specialization in designing and implementing
+        robust backend solutions and intricate business logic. Proficient in
+        cutting-edge frameworks like Node.js, Next.js, and React, alongside C#,
+        VB.NET, and ASP.NET, I drive the development of scalable full-stack
+        applications, including AI-SaaS platforms, across diverse industries. I
+        am a strong collaborator, adept at effective problem-solving,
+        continuously learning, and adaptable to emerging technologies.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

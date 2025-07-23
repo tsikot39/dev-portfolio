@@ -45,6 +45,7 @@ import {
   typing_test,
   pet_care,
   event_management,
+  rephrasing_tool,
 } from "../assets";
 
 export const navLinks = [
@@ -195,6 +196,55 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "AI-Powered Content Rephrasing & Optimization Tool",
+    description:
+      "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "shadcn ui",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nextauth.js with google oauth",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "google gemini api",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "green-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "lucide react",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: rephrasing_tool,
+    source_code_link: "https://jbc-rephrasing-tool.vercel.app/",
+  },
   {
     name: "Event Management & Ticketing Platform",
     description:

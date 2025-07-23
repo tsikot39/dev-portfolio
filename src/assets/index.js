@@ -52,6 +52,7 @@ import discord_bot from "./discord_bot.png";
 import typing_test from "./typing_test.png";
 import pet_care from "./pet_care.png";
 import event_management from "./event_management.png";
+import rephrasing_tool from "./rephrasing_tool.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -107,6 +108,7 @@ export {
   typing_test,
   pet_care,
   event_management,
+  rephrasing_tool,
   jobit,
   tripguide,
 };
