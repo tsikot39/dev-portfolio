@@ -1,26 +1,14 @@
 "use client";
 
 import React from "react";
-import Tilt from "react-parallax-tilt";
-import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
-import { fadeIn, textVariant } from "../utils/motion";
 
 const ServiceCard = ({ index, title, icon }) => (
-  <Tilt
-    tiltMaxAngleX={45}
-    tiltMaxAngleY={45}
-    scale={1}
-    transitionSpeed={450}
-    className="xs:w-[250px] w-full"
-  >
-    <motion.div
-      variants={fadeIn("right", "spring", index * 0.5, 0.75)}
-      className="w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card"
-    >
+  <div className="xs:w-[250px] w-full">
+    <div className="w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card transition-all duration-300 ease-in-out hover:scale-105 hover:-translate-y-2 hover:shadow-lg">
       <div className="bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col">
         <img
           src={icon}
@@ -32,22 +20,19 @@ const ServiceCard = ({ index, title, icon }) => (
           {title}
         </h3>
       </div>
-    </motion.div>
-  </Tilt>
+    </div>
+  </div>
 );
 
 const About = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <div>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview.</h2>
-      </motion.div>
+      </div>
 
-      <motion.p
-        variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
-      >
+      <p className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
         A Full Stack Engineer with 15+ years of experience, holding a
         foundational B.Sc. in Computer Science and a recent Software Development
         Diploma. I excel at architecting and building scalable, modern web
@@ -58,7 +43,7 @@ const About = () => {
         applications, including AI-SaaS platforms, across diverse industries. I
         am a strong collaborator, adept at effective problem-solving,
         continuously learning, and adaptable to emerging technologies.
-      </motion.p>
+      </p>
 
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
