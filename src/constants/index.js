@@ -71,6 +71,7 @@ export const navLinks = [
 const services = [
   {
     title: "Next.js, React",
+    icon: web,
   },
   {
     title: "Node.js, Express.js, C#, Python",
