@@ -200,7 +200,7 @@ const projects = [
   {
     name: "Enterprise-Grade Real-Time Chat Platform",
     description:
-      "A cutting-edge, production-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability",
+      "A cutting-edge, production-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
     tags: [
       {
         name: "next.js 15",
