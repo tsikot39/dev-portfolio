@@ -53,6 +53,8 @@ import typing_test from "./typing_test.png";
 import pet_care from "./pet_care.png";
 import event_management from "./event_management.png";
 import rephrasing_tool from "./rephrasing_tool.png";
+import nexuschat from "./nexuschat.png";
+
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -109,6 +111,7 @@ export {
   pet_care,
   event_management,
   rephrasing_tool,
+  nexuschat,
   jobit,
   tripguide,
 };

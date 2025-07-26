@@ -46,6 +46,7 @@ import {
   pet_care,
   event_management,
   rephrasing_tool,
+  nexuschat,
 } from "../assets";
 
 export const navLinks = [
@@ -69,11 +70,10 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Node.js, C#, VB.NET, ASP.NET",
-    icon: web,
+    title: "Next.js, React",
   },
   {
-    title: "Next.js, React, HTML, CSS, JavaScript",
+    title: "Node.js, Express.js, C#, Python",
     icon: mobile,
   },
   {
@@ -196,6 +196,67 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Enterprise-Grade Real-Time Chat Platform",
+    description:
+      "NexusChat is a cutting-edge, production-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability",
+    tags: [
+      {
+        name: "next.js 15",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react 18",
+        color: "green-text-gradient",
+      },
+      {
+        name: "shadcn/ui",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "nextauth.js with google oauth",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "green-text-gradient",
+      },
+      {
+        name: "socket.io",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "jest + rtl testing",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "cypress e2e",
+        color: "green-text-gradient",
+      },
+      {
+        name: "winston logging",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "sentry",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: nexuschat,
+    source_code_link: "https://jbc-chat-app.vercel.app/",
+  },
   {
     name: "AI-Powered Content Rephrasing & Optimization Tool",
     description:

@@ -38,11 +38,12 @@ const About = () => {
         Diploma. I excel at architecting and building scalable, modern web
         applications, with a deep specialization in designing and implementing
         robust backend solutions and intricate business logic. Proficient in
-        cutting-edge frameworks like Node.js, Next.js, and React, alongside C#,
-        VB.NET, and ASP.NET, I drive the development of scalable full-stack
-        applications, including AI-SaaS platforms, across diverse industries. I
-        am a strong collaborator, adept at effective problem-solving,
-        continuously learning, and adaptable to emerging technologies.
+        cutting-edge frameworks like Next.js, React and Node.js, alongside C#
+        and Python, I drive the development of scalable full-stack applications,
+        including AI and Multi-Tenancy SaaS applications, across diverse
+        industries. I am a strong collaborator, adept at effective
+        problem-solving, continuously learning, and adaptable to emerging
+        technologies.
       </p>
 
       <div className="mt-20 flex flex-wrap gap-10">
