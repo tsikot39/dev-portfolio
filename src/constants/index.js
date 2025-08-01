@@ -47,6 +47,7 @@ import {
   event_management,
   rephrasing_tool,
   nexuschat,
+  invoice_generator,
 } from "../assets";
 
 export const navLinks = [
@@ -198,9 +199,106 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Enterprise-Grade Real-Time Chat Platform",
+    name: "Invoice Management Platform",
     description:
-      "A cutting-edge, production-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
+      "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
+    tags: [
+      {
+        name: "next.js 15",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "shadcn/ui",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react hook form + zod",
+        color: "green-text-gradient",
+      },
+      {
+        name: "lucide react",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "react-pdf + jspdf",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "redis",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "nestauth.js with google oauth",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "resend api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "csrf",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "docker",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nginx",
+        color: "green-text-gradient",
+      },
+      {
+        name: "vercel",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "github actions",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "winston",
+        color: "green-text-gradient",
+      },
+      {
+        name: "jest + rtl testing",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "playwright",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "k6",
+        color: "green-text-gradient",
+      },
+      {
+        name: "snyk + codeql",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "eslint + prettier",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: invoice_generator,
+    source_code_link: "https://jbc-invoice-generator.vercel.app/",
+  },
+  {
+    name: "Real-Time Chat Platform",
+    description:
+      "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
     tags: [
       {
         name: "next.js 15",

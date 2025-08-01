@@ -54,6 +54,7 @@ import pet_care from "./pet_care.png";
 import event_management from "./event_management.png";
 import rephrasing_tool from "./rephrasing_tool.png";
 import nexuschat from "./nexuschat.png";
+import invoice_generator from "./invoice_generator.png";
 
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -114,4 +115,5 @@ export {
   nexuschat,
   jobit,
   tripguide,
+  invoice_generator,
 };
