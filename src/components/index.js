@@ -15,6 +15,8 @@ import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 import DeveloperSVG from "./DeveloperSVG";
 import EarthSVG from "./EarthSVG";
+import ScrollToTop from "./ScrollToTop";
+import Logo from "./Logo";
 
 export {
   Hero,
@@ -28,6 +30,8 @@ export {
   CanvasLoader,
   DeveloperSVG,
   EarthSVG,
+  ScrollToTop,
+  Logo,
   EarthCanvas,
   BallCanvas,
   ComputersCanvas,

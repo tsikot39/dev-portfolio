@@ -75,7 +75,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Node.js, Express.js, C#, Python",
+    title: "Node.js, C#, Python",
     icon: mobile,
   },
   {
@@ -83,7 +83,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "CI/CD, Docker, AWS Cloud",
+    title: "CI/CD, Docker, Kubernetes, AWS Cloud",
     icon: creator,
   },
 ];

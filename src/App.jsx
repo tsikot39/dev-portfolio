@@ -9,6 +9,7 @@ import {
   Navbar,
   Tech,
   Works,
+  ScrollToTop,
 } from "./components";
 
 const App = () => {
@@ -27,6 +28,7 @@ const App = () => {
         <div className="relative z-0">
           <Contact />
         </div>
+        <ScrollToTop />
       </div>
     </BrowserRouter>
   );
