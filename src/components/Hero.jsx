@@ -14,7 +14,7 @@ const Hero = () => {
   return (
     <section
       className={`relative w-full h-screen mx-auto flex items-center justify-center`}
-      style={{ paddingTop: "40px" }}
+      style={{ paddingTop: "60px" }}
     >
       <div
         className={`max-w-7xl w-full mx-auto ${styles.paddingX} flex flex-col lg:flex-row items-center justify-between gap-16 lg:gap-20`}
@@ -27,7 +27,7 @@ const Hero = () => {
             >
               Hi, I'm <span className="text-[#915EFF]">Johnson</span>
             </h1>
-            <p className={`${styles.heroSubText} mt-2 text-white-100 lg:text-[26px] sm:text-[22px] xs:text-[18px] text-[15px]`}>
+            <p className={`text-[#dfd9ff] font-medium mt-2 lg:text-[24px] sm:text-[20px] xs:text-[18px] text-[16px] lg:leading-[36px] sm:leading-[28px] leading-[24px]`}>
               Bringing your ideas to life with modern and scalable web applications, 
               AI-powered solutions, multi-tenancy SaaS platforms, internal tooling, 
               and robust system design.
