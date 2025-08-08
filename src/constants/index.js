@@ -6,7 +6,6 @@ import {
   javascript,
   typescript,
   html,
-  css,
   reactjs,
   redux,
   tailwind,
@@ -15,10 +14,8 @@ import {
   git,
   figma,
   docker,
-  meta,
   starbucks,
   tesla,
-  threejs,
   storeit,
   carepulse,
   livedocs,
@@ -37,17 +34,20 @@ import {
   movies,
   course_app,
   expense_tracker,
-  quote_generator,
-  infinite_scroll,
-  pong,
-  light_dark_mode,
   discord_bot,
-  typing_test,
   pet_care,
   event_management,
   rephrasing_tool,
   nexuschat,
   invoice_generator,
+  python,
+  postgresql,
+  kubernetes,
+  aws,
+  redis,
+  rabbitmq,
+  graphql,
+  restapi,
 } from "../assets";
 
 export const navLinks = [
@@ -71,32 +71,25 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Next.js, React",
+    title: "Enterprise Application Development",
     icon: web,
   },
   {
-    title: "Node.js, C#, Python",
+    title: "Digital Transformation Leadership",
     icon: mobile,
   },
   {
-    title: "SQL & NoSQL Databases",
+    title: "Scalable Architecture Design",
     icon: backend,
   },
   {
-    title: "CI/CD, Docker, Kubernetes, AWS Cloud",
+    title: "Cloud Infrastructure & DevOps",
     icon: creator,
   },
 ];
 
 const technologies = [
-  {
-    name: "C#",
-    icon: html,
-  },
-  {
-    name: "CSS",
-    icon: css,
-  },
+  // Frontend Technologies
   {
     name: "JavaScript",
     icon: javascript,
@@ -110,62 +103,99 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "MS SQL",
-    icon: redux,
+    name: "Next JS",
+    icon: figma,
   },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
+  // Backend Technologies
   {
     name: "Node JS",
     icon: nodejs,
   },
   {
+    name: "C#",
+    icon: html,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  // API
+  {
+    name: "Rest API",
+    icon: restapi,
+  },
+  {
+    name: "GraphQL",
+    icon: graphql,
+  },
+  // Databases
+  {
     name: "MongoDB",
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "PostgreSQL",
+    icon: postgresql,
   },
   {
-    name: "git",
+    name: "MS SQL",
+    icon: redux,
+  },
+  // Development & Deployment Tools
+  {
+    name: "Git",
     icon: git,
   },
   {
-    name: "Next JS",
-    icon: figma,
+    name: "Redis",
+    icon: redis,
   },
   {
-    name: "docker",
+    name: "RabbitMQ",
+    icon: rabbitmq,
+  },
+  {
+    name: "Docker",
     icon: docker,
+  },
+  {
+    name: "Kubernetes",
+    icon: kubernetes,
+  },
+  {
+    name: "AWS",
+    icon: aws,
   },
 ];
 
 const experiences = [
   {
-    title: "Computer Programmer",
+    title: "Senior Software Developer",
     company_name: "Philippine Children's Medical Center",
     icon: starbucks,
     iconBg: "#383E56",
     date: "November 2006 - July 2023",
     points: [
-      "Developed full-stack hospital information systems that reduced patient record processing time by 40%",
-      "Led a cross-functional team of 5 developers to implement mission-critical web and desktop applications using C#, VB.NET, ASP.NET and SQL Server.",
-      "Trained over 500 healthcare and admin staff on software usage, improving system adoption by 60%.",
+      "Architected and delivered enterprise-grade hospital information systems, reducing patient record processing time by 40% and improving operational efficiency across 15+ departments",
+      "Led cross-functional development teams of 5+ engineers, driving the successful implementation of mission-critical web and desktop applications using C#, .NET, ASP.NET and SQL Server",
+      "Spearheaded digital transformation initiatives, training 500+ healthcare professionals and achieving 60% improvement in system adoption rates",
+      "Designed scalable database architectures and implemented robust security protocols for handling sensitive patient data in compliance with healthcare regulations",
     ],
   },
   {
-    title: "System Administrator",
+    title: "Systems Administrator",
     company_name: "Woodfields Consultants Inc.",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "July 2001 - September 2006",
     points: [
-      "Managed and optimized network infrastructure, ensuring reliability and performance.",
-      "Configured systems and devices, aligning with user needs and IT standards.",
-      "Conducted system upgrades and maintenance, strengthening infrastructure security.",
+      "Engineered and optimized enterprise network infrastructure, ensuring 99.9% uptime and peak performance for business-critical operations",
+      "Designed and implemented scalable system configurations aligned with organizational requirements and industry best practices",
+      "Led infrastructure modernization projects, strengthening security protocols and reducing system vulnerabilities by 70%",
     ],
   },
 ];
@@ -1039,143 +1069,6 @@ const projects = [
     ],
     image: omnifood,
     source_code_link: "https://jbc-omnifood.vercel.app/",
-  },
-  {
-    name: "Multiplayer Pong",
-    description:
-      "A full-stack multiplayer pong game using web sockets that support lots of concurrent games happening in real time side by side. It uses namespaces and rooms to allow hundreds of players to play our game in real time. Each player controls a paddle to bounce a ball back and forth against a computer opponent. The game features smooth animations, responsive controls, and an adaptive AI opponent that becomes more challenging as the game progresses.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "html5 canvas api",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "web sockets",
-        color: "green-text-gradient",
-      },
-    ],
-    image: pong,
-    source_code_link: "https://jbc-pong.vercel.app/",
-  },
-  {
-    name: "Light/Dark Mode",
-    description:
-      "A web application that demonstrates a modern light/dark mode toggle implementation. The application features a clean, professional design with smooth transitions between light and dark themes, making it perfect for showcasing modern web development techniques and user interface best practices.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "vanilla javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "fontawesome",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: light_dark_mode,
-    source_code_link: "https://jbc-light-dark-mode.vercel.app/",
-  },
-  {
-    name: "Infinite Scroll",
-    description:
-      "The application fetches high-quality random photos from the Unsplash API and displays them in a masonry-style layout. As users scroll near the bottom of the page, the app automatically loads the next batch of images, creating an infinite scrolling experience. Each image is clickable and links directly to its source page on Unsplash, allowing users to explore the photographer's profile and download the original image.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "vanilla javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "unsplash api",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "svg loader animation",
-        color: "green-text-gradient",
-      },
-    ],
-    image: infinite_scroll,
-    source_code_link: "https://jbc-infinite-scroll.vercel.app/",
-  },
-  {
-    name: "Quote Generator",
-    description:
-      "A simple, elegant web application that displays random inspirational quotes with an intuitive user interface. The app fetches quotes from an external API and provides functionality to share quotes on Twitter. It features a clean, modern design with responsive layout and smooth loading animations.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "vanilla javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "fontawesome",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "quotes api",
-        color: "green-text-gradient",
-      },
-    ],
-    image: quote_generator,
-    source_code_link: "https://jbc-quote-generator.vercel.app/",
-  },
-  {
-    name: "Typing Test",
-    description:
-      "A web-based typing speed test application that measures your typing speed in Words Per Minute (WPM) with real-time feedback on accuracy. The application provides a clean, minimalist interface for testing and improving typing skills.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "vanilla javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "json",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: typing_test,
-    source_code_link: "https://jbc-typing-test.vercel.app/",
   },
   {
     name: "Inventory Management System",

@@ -29,21 +29,23 @@ const About = () => {
     <>
       <div>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>Professional Summary.</h2>
       </div>
 
       <p className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        A Full Stack Engineer with 15+ years of experience, holding a
-        foundational B.Sc. in Computer Science and a recent Software Development
-        Diploma. I excel at architecting and building scalable, modern web
-        applications, with a deep specialization in designing and implementing
-        robust backend solutions and intricate business logic. Proficient in
-        cutting-edge frameworks like Next.js, React and Node.js, alongside C#
-        and Python, I drive the development of scalable full-stack applications,
-        including AI and Multi-Tenancy SaaS applications, across diverse
-        industries. I am a strong collaborator, adept at effective
-        problem-solving, continuously learning, and adaptable to emerging
-        technologies.
+        Senior Software Developer with 15+ years of proven expertise in leading
+        enterprise-grade solutions across healthcare and consulting industries.
+        I specialize in architecting scalable systems that drive business
+        transformation and operational excellence. With deep proficiency in
+        modern technologies including Next.js, React, Node.js, C#, and Python, I
+        have successfully led cross-functional teams to deliver mission-critical
+        applications, AI-powered solutions, and Multi-Tenancy SaaS platforms. My
+        approach combines strategic technical leadership with hands-on
+        development expertise, consistently delivering solutions that reduce
+        processing time by 40% and improve system adoption by 60%. I excel at
+        translating complex business requirements into robust, scalable
+        architectures while mentoring development teams and driving digital
+        transformation initiatives.
       </p>
 
       <div className="mt-20 flex flex-wrap gap-10">

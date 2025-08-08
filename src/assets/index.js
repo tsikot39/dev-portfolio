@@ -55,6 +55,14 @@ import event_management from "./event_management.png";
 import rephrasing_tool from "./rephrasing_tool.png";
 import nexuschat from "./nexuschat.png";
 import invoice_generator from "./invoice_generator.png";
+import python from "./tech/python.png";
+import postgresql from "./tech/postgresql.png";
+import kubernetes from "./tech/kubernetes.png";
+import aws from "./tech/aws.png";
+import redis from "./tech/redis.png";
+import rabbitmq from "./tech/rabbitmq.png";
+import graphql from "./tech/graphql.png";
+import restapi from "./tech/restapi.png";
 
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -116,4 +124,12 @@ export {
   jobit,
   tripguide,
   invoice_generator,
+  python,
+  postgresql,
+  kubernetes,
+  aws,
+  redis,
+  rabbitmq,
+  graphql,
+  restapi,
 };

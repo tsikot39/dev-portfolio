@@ -4,7 +4,6 @@ import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 
 import { styles } from "../styles";
-import { EarthSVG } from "./";
 import { SectionWrapper } from "../hoc";
 
 const Contact = () => {
@@ -66,8 +65,8 @@ const Contact = () => {
   };
 
   return (
-    <div className={`flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}>
-      <div className="flex-[0.75] bg-black-100 p-8 rounded-2xl">
+    <div className="flex justify-center">
+      <div className="w-full max-w-2xl bg-black-100 p-8 rounded-2xl">
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
 
@@ -117,10 +116,6 @@ const Contact = () => {
             {loading ? "Sending..." : "Send"}
           </button>
         </form>
-      </div>
-
-      <div className="xl:flex-1 xl:h-auto md:h-[550px] h-[350px]">
-        <EarthSVG />
       </div>
     </div>
   );
