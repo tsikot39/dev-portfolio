@@ -48,6 +48,7 @@ import {
   rabbitmq,
   graphql,
   restapi,
+  cicd,
 } from "../assets";
 
 export const navLinks = [
@@ -159,6 +160,10 @@ const technologies = [
     icon: rabbitmq,
   },
   {
+    name: "CI/CD",
+    icon: cicd,
+  },
+  {
     name: "Docker",
     icon: docker,
   },
@@ -228,6 +233,55 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Event Management & Ticketing Platform",
+    description:
+      "A comprehensive Next.js-based event management and ticketing platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nextauth.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "shadcn ui",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "radix ui",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "lucide react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "google oauth",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: event_management,
+    source_code_link: "https://jbc-event-management.vercel.app/",
+  },
   {
     name: "Invoice Management Platform",
     description:
@@ -326,6 +380,55 @@ const projects = [
     source_code_link: "https://jbc-invoice-generator.vercel.app/",
   },
   {
+    name: "AI-Powered Content Rephrasing & Optimization Tool",
+    description:
+      "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "shadcn ui",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nextauth.js with google oauth",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "google gemini api",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "green-text-gradient",
+      },
+      {
+        name: "zod",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "lucide react",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: rephrasing_tool,
+    source_code_link: "https://jbc-rephrasing-tool.vercel.app/",
+  },
+  {
     name: "Real-Time Chat Platform",
     description:
       "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
@@ -385,104 +488,6 @@ const projects = [
     ],
     image: nexuschat,
     source_code_link: "https://jbc-chat-app.vercel.app/",
-  },
-  {
-    name: "AI-Powered Content Rephrasing & Optimization Tool",
-    description:
-      "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn ui",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nextauth.js with google oauth",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "google gemini api",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "stripe",
-        color: "green-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "lucide react",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: rephrasing_tool,
-    source_code_link: "https://jbc-rephrasing-tool.vercel.app/",
-  },
-  {
-    name: "Event Management & Ticketing Platform",
-    description:
-      "A comprehensive Next.js-based event management and ticketing platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "nextauth.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn ui",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "green-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "radix ui",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "lucide react",
-        color: "green-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "google oauth",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: event_management,
-    source_code_link: "https://jbc-event-management.vercel.app/",
   },
   {
     name: "Expense Tracker",

@@ -63,6 +63,7 @@ import redis from "./tech/redis.png";
 import rabbitmq from "./tech/rabbitmq.png";
 import graphql from "./tech/graphql.png";
 import restapi from "./tech/restapi.png";
+import cicd from "./tech/cicd.png";
 
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -132,4 +133,5 @@ export {
   rabbitmq,
   graphql,
   restapi,
+  cicd,
 };
