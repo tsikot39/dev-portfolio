@@ -49,6 +49,11 @@ import {
   graphql,
   restapi,
   cicd,
+  github_actions,
+  github,
+  mysql,
+  shadcn,
+  zod,
 } from "../assets";
 
 export const navLinks = [
@@ -111,6 +116,14 @@ const technologies = [
     name: "Tailwind CSS",
     icon: tailwind,
   },
+  {
+    name: "Shadcn/UI",
+    icon: shadcn,
+  },
+  {
+    name: "Zod",
+    icon: zod,
+  },
   // Backend Technologies
   {
     name: "Node JS",
@@ -146,11 +159,11 @@ const technologies = [
     name: "MS SQL",
     icon: redux,
   },
-  // Development & Deployment Tools
   {
-    name: "Git",
-    icon: git,
+    name: "MySQL",
+    icon: mysql,
   },
+  // Development & Deployment Tools
   {
     name: "Redis",
     icon: redis,
@@ -160,8 +173,16 @@ const technologies = [
     icon: rabbitmq,
   },
   {
+    name: "Git",
+    icon: git,
+  },
+  {
     name: "CI/CD",
     icon: cicd,
+  },
+  {
+    name: "GitHub Actions",
+    icon: github_actions,
   },
   {
     name: "Docker",

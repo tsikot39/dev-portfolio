@@ -64,6 +64,10 @@ import rabbitmq from "./tech/rabbitmq.png";
 import graphql from "./tech/graphql.png";
 import restapi from "./tech/restapi.png";
 import cicd from "./tech/cicd.png";
+import github_actions from "./tech/github_actions.png";
+import mysql from "./tech/mysql.png";
+import shadcn from "./tech/shadcn.png";
+import zod from "./tech/zod.png";
 
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -134,4 +138,8 @@ export {
   graphql,
   restapi,
   cicd,
+  github_actions,
+  mysql,
+  shadcn,
+  zod,
 };
