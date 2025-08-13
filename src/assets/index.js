@@ -51,6 +51,8 @@ import light_dark_mode from "./light_dark_mode.png";
 import discord_bot from "./discord_bot.png";
 import typing_test from "./typing_test.png";
 import pet_care from "./pet_care.png";
+import crm from "./crm.png";
+import project_management from "./project_management.png";
 import event_management from "./event_management.png";
 import rephrasing_tool from "./rephrasing_tool.png";
 import nexuschat from "./nexuschat.png";
@@ -142,4 +144,6 @@ export {
   mysql,
   shadcn,
   zod,
+  project_management,
+  crm,
 };

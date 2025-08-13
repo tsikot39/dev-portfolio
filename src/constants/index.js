@@ -54,6 +54,8 @@ import {
   mysql,
   shadcn,
   zod,
+  project_management,
+  crm,
 } from "../assets";
 
 export const navLinks = [
@@ -254,6 +256,64 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Project Management SaaS Platform",
+    description:
+      "A cutting-edge, enterprise-grade React+Python-based Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
+    tags: [
+      {
+        name: "IntelligentKanbanBoards",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MultiTenantSaaSArchitecture",
+        color: "green-text-gradient",
+      },
+      {
+        name: "RealTimeCollaboration",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "#AIWorkflowOrchestration",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ModernFullStackArchitecture",
+        color: "green-text-gradient",
+      },
+    ],
+    image: project_management,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
+  {
+    name: "CRM SaaS Platform",
+    description:
+      "An enterprise-grade React+Node.js-based CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
+    tags: [
+      {
+        name: "MultiTenantSaaSArchitecture",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "RealTimeCollaboration",
+        color: "green-text-gradient",
+      },
+      {
+        name: "AIIntegratedCRM",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "MicroservicesArchitecture",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "AdvancedSearchEngine",
+        color: "green-text-gradient",
+      },
+    ],
+    image: crm,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
   {
     name: "Event Management & Ticketing Platform",
     description:
