@@ -320,44 +320,24 @@ const projects = [
       "A comprehensive Next.js-based event management and ticketing platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
       {
-        name: "next.js",
+        name: "RealTimeAttendeeTracking",
         color: "blue-text-gradient",
       },
       {
-        name: "nextauth.js",
+        name: "DualAuthenticationSystem",
         color: "green-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "PaymentSimulationEngine",
         color: "pink-text-gradient",
       },
       {
-        name: "shadcn ui",
+        name: "IntelligentEventDiscovery",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind css",
+        name: "ComprehensiveRoleBasedDashboards",
         color: "green-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "radix ui",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "lucide react",
-        color: "green-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "google oauth",
-        color: "blue-text-gradient",
       },
     ],
     image: event_management,
@@ -369,92 +349,24 @@ const projects = [
       "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
     tags: [
       {
-        name: "next.js 15",
+        name: "EnterpriseGradeAuthentication",
         color: "blue-text-gradient",
       },
       {
-        name: "typescript",
+        name: "HighPerformanceRedisCache",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind css",
+        name: "SmartEmailAutomation",
         color: "pink-text-gradient",
       },
       {
-        name: "shadcn/ui",
+        name: "ProfessionalPDFGeneration",
         color: "blue-text-gradient",
       },
       {
-        name: "react hook form + zod",
+        name: "ProductionReadyMonitoring",
         color: "green-text-gradient",
-      },
-      {
-        name: "lucide react",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "react-pdf + jspdf",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "redis",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "nestauth.js with google oauth",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "resend api",
-        color: "green-text-gradient",
-      },
-      {
-        name: "csrf",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "docker",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "nginx",
-        color: "green-text-gradient",
-      },
-      {
-        name: "vercel",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "github actions",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "winston",
-        color: "green-text-gradient",
-      },
-      {
-        name: "jest + rtl testing",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "playwright",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "k6",
-        color: "green-text-gradient",
-      },
-      {
-        name: "snyk + codeql",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "eslint + prettier",
-        color: "blue-text-gradient",
       },
     ],
     image: invoice_generator,
@@ -466,44 +378,24 @@ const projects = [
       "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
     tags: [
       {
-        name: "next.js",
+        name: "AIContentOptimization",
         color: "blue-text-gradient",
       },
       {
-        name: "typescript",
+        name: "MultiTenantSaaSArchitecture",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind css",
+        name: "CreditBasedSubscription",
         color: "pink-text-gradient",
       },
       {
-        name: "shadcn ui",
+        name: "ProfessionalEmailSystem",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "ProductionReadyArchitecture",
         color: "green-text-gradient",
-      },
-      {
-        name: "nextauth.js with google oauth",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "google gemini api",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "stripe",
-        color: "green-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "lucide react",
-        color: "blue-text-gradient",
       },
     ],
     image: rephrasing_tool,
@@ -515,56 +407,24 @@ const projects = [
       "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
     tags: [
       {
-        name: "next.js 15",
+        name: "PrivacyFirstMessaging",
         color: "blue-text-gradient",
       },
       {
-        name: "react 18",
+        name: "InfiniteScrollPerformance",
         color: "green-text-gradient",
       },
       {
-        name: "shadcn/ui",
+        name: "ProductionReadyInfrastructure",
         color: "pink-text-gradient",
       },
       {
-        name: "typescript",
+        name: "RealTimeEverywhere",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind css",
+        name: "DeveloperFirstArchitecture",
         color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "nextauth.js with google oauth",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "green-text-gradient",
-      },
-      {
-        name: "socket.io",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "jest + rtl testing",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "cypress e2e",
-        color: "green-text-gradient",
-      },
-      {
-        name: "winston logging",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "sentry",
-        color: "blue-text-gradient",
       },
     ],
     image: nexuschat,
