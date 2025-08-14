@@ -257,7 +257,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Project Management SaaS Platform",
+    name: "Project Management SaaS Platform - Ongoing",
     description:
       "A cutting-edge, enterprise-grade React+Python-based Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
     tags: [
