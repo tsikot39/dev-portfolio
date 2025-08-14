@@ -295,24 +295,24 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "RealTimeCollaboration",
+        name: "FullStackTypeScript",
         color: "green-text-gradient",
       },
       {
-        name: "AIIntegratedCRM",
+        name: "AdvancedSearchEngine",
         color: "pink-text-gradient",
       },
       {
-        name: "MicroservicesArchitecture",
+        name: "JWTAuthentication",
         color: "blue-text-gradient",
       },
       {
-        name: "AdvancedSearchEngine",
+        name: "AWSCloudDeployment",
         color: "green-text-gradient",
       },
     ],
     image: crm,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
+    source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
   },
   {
     name: "Event Management & Ticketing Platform",
