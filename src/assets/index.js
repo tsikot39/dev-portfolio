@@ -57,6 +57,7 @@ import event_management from "./event_management.png";
 import rephrasing_tool from "./rephrasing_tool.png";
 import nexuschat from "./nexuschat.png";
 import invoice_generator from "./invoice_generator.png";
+import b2b from "./b2b.png";
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
 import kubernetes from "./tech/kubernetes.png";
@@ -146,4 +147,5 @@ export {
   zod,
   project_management,
   crm,
+  b2b,
 };

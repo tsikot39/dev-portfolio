@@ -56,6 +56,7 @@ import {
   zod,
   project_management,
   crm,
+  b2b,
 } from "../assets";
 
 export const navLinks = [
@@ -257,29 +258,26 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Multi-Vendor B2B E-commerce Marketplace - Ongoing",
+    description:
+      "A sophisticated, enterprise-grade B2B e-commerce platform that revolutionizes wholesale trading. A full-stack marketplace application empowers businesses to connect, trade, and scale efficiently through a modern, intuitive platform. Built with cutting-edge technologies and microservices architecture, it delivers a seamless experience for vendors, buyers, and administrators while handling complex B2B workflows with enterprise-level reliability.",
+    tags: [
+      {
+        name: "ReactJava",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: b2b,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
+  {
     name: "Project Management SaaS Platform - Ongoing",
     description:
       "A cutting-edge, enterprise-grade React+Python-based Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
     tags: [
       {
-        name: "IntelligentKanbanBoards",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MultiTenantSaaSArchitecture",
-        color: "green-text-gradient",
-      },
-      {
-        name: "RealTimeCollaboration",
+        name: "ReactPython",
         color: "pink-text-gradient",
-      },
-      {
-        name: "#AIWorkflowOrchestration",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "ModernFullStackArchitecture",
-        color: "green-text-gradient",
       },
     ],
     image: project_management,
