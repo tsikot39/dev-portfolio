@@ -258,7 +258,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Multi-Vendor B2B E-commerce Marketplace - Ongoing",
+    name: "B2B E-commerce Marketplace - Ongoing",
     description:
       "A sophisticated, enterprise-grade B2B e-commerce platform that revolutionizes wholesale trading. A full-stack marketplace application empowers businesses to connect, trade, and scale efficiently through a modern, intuitive platform. Built with cutting-edge technologies and microservices architecture, it delivers a seamless experience for vendors, buyers, and administrators while handling complex B2B workflows with enterprise-level reliability.",
     tags: [
