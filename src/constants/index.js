@@ -266,6 +266,10 @@ const projects = [
         name: "ReactJava",
         color: "pink-text-gradient",
       },
+      {
+        name: "MultiTenantSaaSArchitecture",
+        color: "pink-text-gradient",
+      },
     ],
     image: b2b,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
@@ -279,6 +283,10 @@ const projects = [
         name: "ReactPython",
         color: "pink-text-gradient",
       },
+      {
+        name: "MultiTenantSaaSArchitecture",
+        color: "pink-text-gradient",
+      },
     ],
     image: project_management,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
@@ -289,24 +297,16 @@ const projects = [
       "An enterprise-grade React+Node.js-based CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
       {
-        name: "MultiTenantSaaSArchitecture",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "FullStackTypeScript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "AdvancedSearchEngine",
+        name: "ReactNodejs",
         color: "pink-text-gradient",
       },
       {
-        name: "JWTAuthentication",
-        color: "blue-text-gradient",
+        name: "MultiTenantSaaSArchitecture",
+        color: "pink-text-gradient",
       },
       {
         name: "AWSCloudDeployment",
-        color: "green-text-gradient",
+        color: "pink-text-gradient",
       },
     ],
     image: crm,
