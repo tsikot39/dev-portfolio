@@ -287,6 +287,10 @@ const projects = [
         name: "MultiTenantSaaSArchitecture",
         color: "pink-text-gradient",
       },
+      {
+        name: "CloudfareEmailService",
+        color: "pink-text-gradient",
+      },
     ],
     image: project_management,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
@@ -302,6 +306,10 @@ const projects = [
       },
       {
         name: "MultiTenantSaaSArchitecture",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "CloudfareEmailService",
         color: "pink-text-gradient",
       },
       {

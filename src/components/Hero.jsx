@@ -12,8 +12,7 @@ const Hero = () => {
 
   return (
     <section
-      className={`relative w-full h-screen mx-auto flex items-center justify-center`}
-      style={{ paddingTop: "60px" }}
+      className={`relative w-full min-h-screen mx-auto flex items-center justify-center pt-12`}
     >
       <div
         className={`max-w-4xl w-full mx-auto ${styles.paddingX} flex flex-col items-center justify-center text-center`}
