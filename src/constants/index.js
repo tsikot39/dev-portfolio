@@ -257,23 +257,23 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "B2B E-commerce Marketplace - Ongoing",
-    description:
-      "A sophisticated, enterprise-grade B2B e-commerce platform that revolutionizes wholesale trading. A full-stack marketplace application empowers businesses to connect, trade, and scale efficiently through a modern, intuitive platform. Built with cutting-edge technologies and microservices architecture, it delivers a seamless experience for vendors, buyers, and administrators while handling complex B2B workflows with enterprise-level reliability.",
-    tags: [
-      {
-        name: "ReactJava",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "MultiTenantSaaSArchitecture",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: b2b,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
-  },
+  // {
+  //   name: "B2B E-commerce Marketplace - Ongoing",
+  //   description:
+  //     "A sophisticated, enterprise-grade B2B e-commerce platform that revolutionizes wholesale trading. A full-stack marketplace application empowers businesses to connect, trade, and scale efficiently through a modern, intuitive platform. Built with cutting-edge technologies and microservices architecture, it delivers a seamless experience for vendors, buyers, and administrators while handling complex B2B workflows with enterprise-level reliability.",
+  //   tags: [
+  //     {
+  //       name: "ReactJava",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "MultiTenantSaaSArchitecture",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: b2b,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app/",
+  // },
   {
     name: "Project Management SaaS Platform - Ongoing",
     description:
