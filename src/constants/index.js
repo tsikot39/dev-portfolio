@@ -298,22 +298,50 @@ const projects = [
   {
     name: "CRM SaaS Platform",
     description:
-      "An enterprise-grade React+Node.js-based CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
+      "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
       {
-        name: "ReactNodejs",
+        name: "Full Stack React + Node.js + TypeScript",
         color: "pink-text-gradient",
       },
       {
-        name: "MultiTenantSaaSArchitecture",
+        name: "Multi-Tenant SaaS Architecture",
         color: "pink-text-gradient",
       },
       {
-        name: "CloudfareEmailService",
+        name: "Complete Contact Management System",
         color: "pink-text-gradient",
       },
       {
-        name: "AWSCloudDeployment",
+        name: "Professional Landing Page",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Real-time Analytics Dashboard",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Production-Ready Architecture",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Enterprise Security",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Live Production Application",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Modern Development Stack",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Intuitive Interface",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Business Intelligence",
         color: "pink-text-gradient",
       },
     ],
