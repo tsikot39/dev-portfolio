@@ -26,7 +26,7 @@ const Hero = () => {
             className={`text-[#dfd9ff] font-medium mt-2 lg:text-[24px] sm:text-[20px] xs:text-[18px] text-[16px] lg:leading-[36px] sm:leading-[28px] leading-[24px]`}
           >
             Architecting scalable solutions and leading technical innovation in
-            AI, SaaS, and enterprise systems.
+            enterprise systems, SaaS, and AI.
           </p>
 
           {/* CTA Button */}
