@@ -351,27 +351,43 @@ const projects = [
   {
     name: "Event Management & Ticketing Platform",
     description:
-      "A comprehensive Next.js-based event management and ticketing platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
+      "A comprehensive event management and ticketing platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
       {
-        name: "RealTimeAttendeeTracking",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "DualAuthenticationSystem",
-        color: "green-text-gradient",
-      },
-      {
-        name: "PaymentSimulationEngine",
+        name: "Full Stack Next.js + Node.js + TypeScript",
         color: "pink-text-gradient",
       },
       {
-        name: "IntelligentEventDiscovery",
-        color: "blue-text-gradient",
+        name: "Real-Time Attendee Count System",
+        color: "pink-text-gradient",
       },
       {
-        name: "ComprehensiveRoleBasedDashboards",
-        color: "green-text-gradient",
+        name: "Dual Authentication with Account Linking",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Production-Grade Payment Simulation",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Dynamic Role-Based Dashboard System",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Advanced Multi-Criteria Search & Discovery",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Live Production Application",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Modern Development Stack",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Intuitive Interface",
+        color: "pink-text-gradient",
       },
     ],
     image: event_management,
