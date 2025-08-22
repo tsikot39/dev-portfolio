@@ -280,15 +280,47 @@ const projects = [
       "A cutting-edge, enterprise-grade React+Python-based Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
     tags: [
       {
-        name: "ReactPython",
+        name: "Full Stack React + Python + TypeScript",
         color: "pink-text-gradient",
       },
       {
-        name: "MultiTenantSaaSArchitecture",
+        name: "Multi-Tenant SaaS Architecture",
         color: "pink-text-gradient",
       },
       {
-        name: "CloudfareEmailService",
+        name: "Real-Time Collaboration",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Interactive Kanban Boards",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Professional Landing Page",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Real-time Analytics Dashboard",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Production-Ready Architecture",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Enterprise Security",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Modern Development Stack",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Intuitive Interface",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Business Intelligence",
         color: "pink-text-gradient",
       },
     ],
