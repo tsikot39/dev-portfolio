@@ -277,10 +277,10 @@ const projects = [
   {
     name: "Project Management SaaS Platform - Ongoing",
     description:
-      "A cutting-edge, enterprise-grade React+Python-based Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
+      "A cutting-edge, enterprise-grade Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
     tags: [
       {
-        name: "Full Stack React + Python + TypeScript",
+        name: "React + TypeScript + Python",
         color: "pink-text-gradient",
       },
       {
@@ -333,7 +333,7 @@ const projects = [
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
       {
-        name: "Full Stack React + Node.js + TypeScript",
+        name: "React + TypeScript + Node.js",
         color: "pink-text-gradient",
       },
       {
@@ -383,10 +383,10 @@ const projects = [
   {
     name: "Event Management & Ticketing Platform",
     description:
-      "A comprehensive event management and ticketing platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
+      "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
       {
-        name: "Full Stack Next.js + Node.js + TypeScript",
+        name: "Next.js + TypeScript + Node.js",
         color: "pink-text-gradient",
       },
       {
