@@ -57,6 +57,7 @@ import {
   project_management,
   crm,
   b2b,
+  paw_smart,
 } from "../assets";
 
 export const navLinks = [
@@ -274,6 +275,59 @@ const projects = [
   //   image: b2b,
   //   source_code_link: "https://jbc-devportfolio.vercel.app/",
   // },
+  {
+    name: "AI-Powered Pet Product Intelligence Platform - Ongoing",
+    description:
+      "A revolutionary full-stack e-commerce platform designed specifically for Calgary pet owners. Unlike generic pet stores, PawSmart uses advanced artificial intelligence to understand your pet's unique needs - from their breed and personality to Calgary's harsh winters and warm summers - delivering perfectly personalized product recommendations.",
+    tags: [
+      {
+        name: "React + TypeScript + Node.js + Python",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "AI-Powered Pet Matching",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Calgary Climate Intelligence",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Intelligent Product Discovery",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Pet Profile Management",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Local + Online Inventory",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Smart Price Optimization",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Seasonal Product Automation",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Health & Wellness Integration",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Subscription & Auto-Delivery",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Community Reviews & Ratings",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: paw_smart,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
   {
     name: "Project Management SaaS Platform - Ongoing",
     description:
