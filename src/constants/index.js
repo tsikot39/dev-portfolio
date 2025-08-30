@@ -388,39 +388,7 @@ const projects = [
       "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
       {
-        name: "Next.js + TypeScript + Node.js",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Real-Time Attendee Count System",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Dual Authentication with Account Linking",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Production-Grade Payment Simulation",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Dynamic Role-Based Dashboard System",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Advanced Multi-Criteria Search & Discovery",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Live Production Application",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Modern Development Stack",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Intuitive Interface",
+        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
         color: "pink-text-gradient",
       },
     ],
