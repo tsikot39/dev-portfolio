@@ -59,6 +59,7 @@ import {
   b2b,
   paw_smart,
   telemed,
+  emr,
 } from "../assets";
 
 export const navLinks = [
@@ -276,6 +277,19 @@ const projects = [
   //   image: b2b,
   //   source_code_link: "https://jbc-devportfolio.vercel.app/",
   // },
+  {
+    name: "Electronic Medical Records (EMR) System - Ongoing",
+    description:
+      "designed for modern healthcare facilities, built with enterprise-grade technologies and following healthcare industry best practices. This comprehensive healthcare management platform provides healthcare professionals with an intuitive, secure, and efficient solution for managing patient care, medical records, and clinical workflows.",
+    tags: [
+      {
+        name: "React + TypeScript + REST API + Java (Spring Boot) + PostgreSQL + AWS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: emr,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
   {
     name: "Telemedicine Platform - Ongoing",
     description:
