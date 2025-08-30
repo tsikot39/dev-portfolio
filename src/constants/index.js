@@ -402,7 +402,7 @@ const projects = [
     tags: [
       {
         name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
-        color: "blue-text-gradient",
+        color: "pink-text-gradient",
       },
     ],
     image: invoice_generator,
