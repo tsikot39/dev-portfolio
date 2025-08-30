@@ -59,6 +59,7 @@ import nexuschat from "./nexuschat.png";
 import invoice_generator from "./invoice_generator.png";
 import b2b from "./b2b.png";
 import paw_smart from "./paw_smart.png";
+import telemed from "./telemed.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -151,4 +152,5 @@ export {
   crm,
   b2b,
   paw_smart,
+  telemed,
 };

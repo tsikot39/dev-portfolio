@@ -58,6 +58,7 @@ import {
   crm,
   b2b,
   paw_smart,
+  telemed,
 } from "../assets";
 
 export const navLinks = [
@@ -276,105 +277,78 @@ const projects = [
   //   source_code_link: "https://jbc-devportfolio.vercel.app/",
   // },
   {
-    name: "AI-Powered Pet Product Intelligence Platform - Ongoing",
+    name: "Telemedicine Platform - Ongoing",
     description:
-      "A revolutionary full-stack e-commerce platform designed specifically for Calgary pet owners. Unlike generic pet stores, PawSmart uses advanced artificial intelligence to understand your pet's unique needs - from their breed and personality to Calgary's harsh winters and warm summers - delivering perfectly personalized product recommendations.",
+      "An enterprise-grade Telemedicine Platform that revolutionizes healthcare delivery through cutting-edge technology. Built with React 18, Node.js, Python FastAPI, and MongoDB, our platform provides secure, scalable, and intelligent healthcare solutions for patients, doctors, and healthcare administrators.",
     tags: [
       {
-        name: "React + TypeScript + Node.js + Python",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "AI-Powered Pet Matching",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Calgary Climate Intelligence",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Intelligent Product Discovery",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Pet Profile Management",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Local + Online Inventory",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Smart Price Optimization",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Seasonal Product Automation",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Health & Wellness Integration",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Subscription & Auto-Delivery",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Community Reviews & Ratings",
+        name: "React + TypeScript + Node.js + REST API + Python (FastAPI) + MongoDB + AWS",
         color: "pink-text-gradient",
       },
     ],
-    image: paw_smart,
+    image: telemed,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
   },
+  // {
+  //   name: "AI-Powered Pet Product Intelligence Platform - Ongoing",
+  //   description:
+  //     "A revolutionary full-stack e-commerce platform designed specifically for Calgary pet owners. Unlike generic pet stores, PawSmart uses advanced artificial intelligence to understand your pet's unique needs - from their breed and personality to Calgary's harsh winters and warm summers - delivering perfectly personalized product recommendations.",
+  //   tags: [
+  //     {
+  //       name: "React + TypeScript + Node.js + Python",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "AI-Powered Pet Matching",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Calgary Climate Intelligence",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Intelligent Product Discovery",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Pet Profile Management",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Local + Online Inventory",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Smart Price Optimization",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Seasonal Product Automation",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Health & Wellness Integration",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Subscription & Auto-Delivery",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Community Reviews & Ratings",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: paw_smart,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app/",
+  // },
   {
     name: "Project Management SaaS Platform - Ongoing",
     description:
       "A cutting-edge, enterprise-grade Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
     tags: [
       {
-        name: "React + TypeScript + Python",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Multi-Tenant SaaS Architecture",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Real-Time Collaboration",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Interactive Kanban Boards",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Professional Landing Page",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Real-time Analytics Dashboard",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Production-Ready Architecture",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Enterprise Security",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Modern Development Stack",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Intuitive Interface",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Business Intelligence",
+        name: "React + TypeScript + REST API + Python (FastAPI) + MongoDB + AWS",
         color: "pink-text-gradient",
       },
     ],
@@ -387,47 +361,7 @@ const projects = [
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
       {
-        name: "React + TypeScript + Node.js",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Multi-Tenant SaaS Architecture",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Complete Contact Management System",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Professional Landing Page",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Real-time Analytics Dashboard",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Production-Ready Architecture",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Enterprise Security",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Live Production Application",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Modern Development Stack",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Intuitive Interface",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Business Intelligence",
+        name: "React + TypeScript + Node.js + GraphQL + Python (FastAPI) + MongoDB + AWS",
         color: "pink-text-gradient",
       },
     ],
