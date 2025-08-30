@@ -278,7 +278,7 @@ const projects = [
   //   source_code_link: "https://jbc-devportfolio.vercel.app/",
   // },
   {
-    name: "Electronic Medical Records (EMR) System - Ongoing",
+    name: "Electronic Medical Records (EMR) System - Ongoing (78% Complete)",
     description:
       "designed for modern healthcare facilities, built with enterprise-grade technologies and following healthcare industry best practices. This comprehensive healthcare management platform provides healthcare professionals with an intuitive, secure, and efficient solution for managing patient care, medical records, and clinical workflows.",
     tags: [
@@ -291,7 +291,7 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app/",
   },
   {
-    name: "Telemedicine Platform - Ongoing",
+    name: "Telemedicine Platform - Ongoing (85% Complete)",
     description:
       "An enterprise-grade Telemedicine Platform that revolutionizes healthcare delivery through cutting-edge technology. Built with React 18, Node.js, Python FastAPI, and MongoDB, our platform provides secure, scalable, and intelligent healthcare solutions for patients, doctors, and healthcare administrators.",
     tags: [
@@ -357,7 +357,7 @@ const projects = [
   //   source_code_link: "https://jbc-devportfolio.vercel.app/",
   // },
   {
-    name: "Project Management SaaS Platform - Ongoing",
+    name: "Project Management SaaS Platform - Ongoing (85% Complete)",
     description:
       "A cutting-edge, enterprise-grade Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
     tags: [
@@ -401,24 +401,8 @@ const projects = [
       "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
     tags: [
       {
-        name: "EnterpriseGradeAuthentication",
+        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
         color: "blue-text-gradient",
-      },
-      {
-        name: "HighPerformanceRedisCache",
-        color: "green-text-gradient",
-      },
-      {
-        name: "SmartEmailAutomation",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "ProfessionalPDFGeneration",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "ProductionReadyMonitoring",
-        color: "green-text-gradient",
       },
     ],
     image: invoice_generator,
