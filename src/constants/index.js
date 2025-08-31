@@ -414,24 +414,8 @@ const projects = [
       "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
     tags: [
       {
-        name: "AIContentOptimization",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MultiTenantSaaSArchitecture",
-        color: "green-text-gradient",
-      },
-      {
-        name: "CreditBasedSubscription",
+        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
         color: "pink-text-gradient",
-      },
-      {
-        name: "ProfessionalEmailSystem",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "ProductionReadyArchitecture",
-        color: "green-text-gradient",
       },
     ],
     image: rephrasing_tool,
@@ -443,24 +427,8 @@ const projects = [
       "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
     tags: [
       {
-        name: "PrivacyFirstMessaging",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "InfiniteScrollPerformance",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ProductionReadyInfrastructure",
+        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
         color: "pink-text-gradient",
-      },
-      {
-        name: "RealTimeEverywhere",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "DeveloperFirstArchitecture",
-        color: "green-text-gradient",
       },
     ],
     image: nexuschat,
@@ -472,457 +440,389 @@ const projects = [
       "A comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
     tags: [
       {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
+        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
         color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "recharts",
-        color: "green-text-gradient",
-      },
-      {
-        name: "next-themes",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "lucide react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "next.js api routes",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "mongoose",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "nextauth.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "bcryptjs",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "react hook form",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "green-text-gradient",
       },
     ],
     image: expense_tracker,
     source_code_link: "https://jbc-expense-tracker.vercel.app/",
   },
-  {
-    name: "Storage Management Solution",
-    description:
-      "A modern, user-friendly cloud storage management application designed to help users efficiently organize, store, and manage their digital files. The application provides a seamless experience for uploading, categorizing, and accessing files from anywhere, with a focus on intuitive user interface and robust security features.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "recharts",
-        color: "green-text-gradient",
-      },
-      {
-        name: "react hook form",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "react dropzone",
-        color: "green-text-gradient",
-      },
-      {
-        name: "appwrite",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "next.js server actions",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: storeit,
-    source_code_link: "https://jbc-store-it.vercel.app/",
-  },
-  {
-    name: "Patient Management System",
-    description:
-      "A modern, web-based patient management system designed to streamline healthcare appointment scheduling and management. The application provides separate interfaces for patients and administrators, enabling efficient healthcare service delivery and management.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "react hook form",
-        color: "green-text-gradient",
-      },
-      {
-        name: "zod",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "tanstack table",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "next themes",
-        color: "green-text-gradient",
-      },
-      {
-        name: "appwrite",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "next.js server actions",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "twilio",
-        color: "green-text-gradient",
-      },
-    ],
-    image: carepulse,
-    source_code_link: "https://jbc-carepulse.vercel.app/",
-  },
-  {
-    name: "Realtime Collaboration Management App",
-    description:
-      "A modern, real-time collaborative document editing platform that allows multiple users to work on the same document simultaneously. It provides a rich text editing experience with role-based access control, threaded comments, and a clean, intuitive user interface.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "clerk",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "liveblocks",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "lexical",
-        color: "green-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "lucide react",
-        color: "green-text-gradient",
-      },
-    ],
-    image: livedocs,
-    source_code_link: "https://jbc-livedocs.vercel.app/",
-  },
-  {
-    name: "Video Conferencing App",
-    description:
-      "A modern video conferencing application inspired by Zoom. It provides a seamless platform for users to create, join, and manage virtual meetings. The application offers a user-friendly interface with features for scheduling meetings, recording sessions, and managing personal meeting rooms.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "next.js api routes",
-        color: "green-text-gradient",
-      },
-      {
-        name: "stream.io",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "clerk",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: xoom,
-    source_code_link: "https://jbc-xoom.vercel.app/",
-  },
-  {
-    name: "AI-Powered Image Processor App",
-    description:
-      "A powerful AI-powered SaaS platform that offers advanced image processing capabilities. The application allows users to transform and enhance images using various AI techniques, including restoration, recoloring, object removal, generative filling, and background removal. With a user-friendly interface and a credit-based system, Imaginify provides both free and premium access to its powerful image transformation tools.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "next.js server actions",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "clerk",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "cloudinary",
-        color: "green-text-gradient",
-      },
-      {
-        name: "stripe",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "webhooks",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: imaginify,
-    source_code_link: "https://jbc-imaginify.vercel.app/",
-  },
-  {
-    name: "Pitch Startup Platform",
-    description:
-      "A platform designed for entrepreneurs to showcase their startups, connect with other entrepreneurs, and participate in virtual pitch competitions. The application serves as a directory for startups, allowing users to submit their ideas, vote on pitches, and gain visibility in the entrepreneurial community.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "shadcn",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "markdown support",
-        color: "green-text-gradient",
-      },
-      {
-        name: "sanity cms",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "nextauth.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "next.js api routes",
-        color: "green-text-gradient",
-      },
-    ],
-    image: ycdirectory,
-    source_code_link: "https://jbc-ycdirectory.vercel.app/",
-  },
-  {
-    name: "Movies Application",
-    description:
-      "A modern web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "vite",
-        color: "green-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "tailwind css",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "react hooks",
-        color: "green-text-gradient",
-      },
-      {
-        name: "appwrite",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "tmdb api",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: movies,
-    source_code_link: "https://jbc-movies-app.vercel.app/",
-  },
-  {
-    name: "Pet Care Platform - API & Dashboard",
-    description:
-      "A comprehensive full-stack web application that serves a dual purpose: it's both a functional pet care marketplace and an interactive API testing dashboard. This platform connects pet owners with professional pet sitters and care providers while providing developers and stakeholders with a complete view of the underlying API operations.",
-    tags: [
-      {
-        name: "node.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "express.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "multer",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "joi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "jest",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "swagger",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "winston",
-        color: "green-text-gradient",
-      },
-      {
-        name: "morgan",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "vanilla javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "rest api",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: pet_care,
-    source_code_link: "https://github.com/tsikot39/pet-care-platform",
-  },
+  // {
+  //   name: "Storage Management Solution",
+  //   description:
+  //     "A modern, user-friendly cloud storage management application designed to help users efficiently organize, store, and manage their digital files. The application provides a seamless experience for uploading, categorizing, and accessing files from anywhere, with a focus on intuitive user interface and robust security features.",
+  //   tags: [
+  //     {
+  //       name: "next.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "shadcn",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "recharts",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "react hook form",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "zod",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "react dropzone",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "appwrite",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "next.js server actions",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: storeit,
+  //   source_code_link: "https://jbc-store-it.vercel.app/",
+  // },
+  // {
+  //   name: "Patient Management System",
+  //   description:
+  //     "A modern, web-based patient management system designed to streamline healthcare appointment scheduling and management. The application provides separate interfaces for patients and administrators, enabling efficient healthcare service delivery and management.",
+  //   tags: [
+  //     {
+  //       name: "next.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "shadcn",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "react hook form",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "zod",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "tanstack table",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "next themes",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "appwrite",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "next.js server actions",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "twilio",
+  //       color: "green-text-gradient",
+  //     },
+  //   ],
+  //   image: carepulse,
+  //   source_code_link: "https://jbc-carepulse.vercel.app/",
+  // },
+  // {
+  //   name: "Realtime Collaboration Management App",
+  //   description:
+  //     "A modern, real-time collaborative document editing platform that allows multiple users to work on the same document simultaneously. It provides a rich text editing experience with role-based access control, threaded comments, and a clean, intuitive user interface.",
+  //   tags: [
+  //     {
+  //       name: "next.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "clerk",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "liveblocks",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "lexical",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "shadcn",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind css",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "lucide react",
+  //       color: "green-text-gradient",
+  //     },
+  //   ],
+  //   image: livedocs,
+  //   source_code_link: "https://jbc-livedocs.vercel.app/",
+  // },
+  // {
+  //   name: "Video Conferencing App",
+  //   description:
+  //     "A modern video conferencing application inspired by Zoom. It provides a seamless platform for users to create, join, and manage virtual meetings. The application offers a user-friendly interface with features for scheduling meetings, recording sessions, and managing personal meeting rooms.",
+  //   tags: [
+  //     {
+  //       name: "next.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "shadcn",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "next.js api routes",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "stream.io",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "clerk",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: xoom,
+  //   source_code_link: "https://jbc-xoom.vercel.app/",
+  // },
+  // {
+  //   name: "AI-Powered Image Processor App",
+  //   description:
+  //     "A powerful AI-powered SaaS platform that offers advanced image processing capabilities. The application allows users to transform and enhance images using various AI techniques, including restoration, recoloring, object removal, generative filling, and background removal. With a user-friendly interface and a credit-based system, Imaginify provides both free and premium access to its powerful image transformation tools.",
+  //   tags: [
+  //     {
+  //       name: "next.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "shadcn",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "next.js server actions",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "clerk",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "cloudinary",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "stripe",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "webhooks",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: imaginify,
+  //   source_code_link: "https://jbc-imaginify.vercel.app/",
+  // },
+  // {
+  //   name: "Pitch Startup Platform",
+  //   description:
+  //     "A platform designed for entrepreneurs to showcase their startups, connect with other entrepreneurs, and participate in virtual pitch competitions. The application serves as a directory for startups, allowing users to submit their ideas, vote on pitches, and gain visibility in the entrepreneurial community.",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind css",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "shadcn",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "markdown support",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "sanity cms",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "nextauth.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "next.js api routes",
+  //       color: "green-text-gradient",
+  //     },
+  //   ],
+  //   image: ycdirectory,
+  //   source_code_link: "https://jbc-ycdirectory.vercel.app/",
+  // },
+  // {
+  //   name: "Movies Application",
+  //   description:
+  //     "A modern web application designed to help users discover and explore movies without the hassle. The app provides a clean, intuitive interface for searching through thousands of movies, viewing trending titles, and browsing popular films. It integrates with The Movie Database (TMDB) API for comprehensive movie data and uses Appwrite as a backend service to track and display trending searches.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "vite",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "typescript",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind css",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "react hooks",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "appwrite",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "tmdb api",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: movies,
+  //   source_code_link: "https://jbc-movies-app.vercel.app/",
+  // },
+  // {
+  //   name: "Pet Care Platform - API & Dashboard",
+  //   description:
+  //     "A comprehensive full-stack web application that serves a dual purpose: it's both a functional pet care marketplace and an interactive API testing dashboard. This platform connects pet owners with professional pet sitters and care providers while providing developers and stakeholders with a complete view of the underlying API operations.",
+  //   tags: [
+  //     {
+  //       name: "node.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "express.js",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "multer",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "joi",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "jest",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "swagger",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "winston",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "morgan",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "html5",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "css3",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "vanilla javascript",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "rest api",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: pet_care,
+  //   source_code_link: "https://github.com/tsikot39/pet-care-platform",
+  // },
   {
     name: "Course Management Android App",
     description:
       "Course App is a Kotlin-based Android app for students to manage schedules, explore courses, and view instructor info with a modern Jetpack Compose UI.",
     tags: [
       {
-        name: "kotlin",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "jetpackcompose",
-        color: "green-text-gradient",
-      },
-      {
-        name: "material3",
+        name: "Kotlin + Jetpack Compose + Material3 + SQLite + Android Studio",
         color: "pink-text-gradient",
-      },
-      {
-        name: "SQLite",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "androidstudio",
-        color: "green-text-gradient",
       },
     ],
     image: course_app,
@@ -934,36 +834,8 @@ const projects = [
       "A feature-rich Discord bot that provides weather forecasts and astronomical information for any location worldwide. This Discord bot integrates with the WeatherAPI.com service to deliver real-time weather forecasts and astronomical data directly to my Discord server. The bot supports slash commands for easy interaction and provides beautifully formatted responses with embed messages.",
     tags: [
       {
-        name: "node.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "discord.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
+        name: "Node.js + Discord.js + Axios + WeatherAPI.com + Discord API",
         color: "pink-text-gradient",
-      },
-      {
-        name: "axios",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "dotenv",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nodemon",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "weatherapi.com api",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "discord api",
-        color: "green-text-gradient",
       },
     ],
     image: discord_bot,
@@ -975,103 +847,79 @@ const projects = [
       "A MERN stack platform where students register for courses, view schedules, and admins efficiently manage programs and enrollments.",
     tags: [
       {
-        name: "mongodb",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "express.js",
-        color: "green-text-gradient",
-      },
-      {
-        name: "react.js",
+        name: "MERN Stack",
         color: "pink-text-gradient",
-      },
-      {
-        name: "node.js",
-        color: "blue-text-gradient",
       },
     ],
     image: bowcourse,
     source_code_link: "https://github.com/tsikot39/bow-course",
   },
-  {
-    name: "Recipe Web Application",
-    description:
-      "Forkify is a sophisticated recipe search and management application that allows users to search for recipes, view detailed instructions, adjust serving sizes, bookmark favorites, and even add their own recipes. The application provides an intuitive and responsive user interface for discovering and managing cooking recipes.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "parcel",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "forkify api",
-        color: "green-text-gradient",
-      },
-      {
-        name: "local storage api",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "fracty",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: forkify,
-    source_code_link: "https://jbc-forkify.vercel.app/",
-  },
-  {
-    name: "Conceptual AI-powered Meal Subscriptions Platform",
-    description:
-      "Omnifood is a modern, responsive website for a fictional AI-powered food subscription service that delivers healthy meals to customers. The service aims to solve the problem of poor diet due to busy lifestyles by using AI to create personalized meal plans and delivering freshly cooked meals to customers' doors.",
-    tags: [
-      {
-        name: "html5",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css3",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: omnifood,
-    source_code_link: "https://jbc-omnifood.vercel.app/",
-  },
+  // {
+  //   name: "Recipe Web Application",
+  //   description:
+  //     "Forkify is a sophisticated recipe search and management application that allows users to search for recipes, view detailed instructions, adjust serving sizes, bookmark favorites, and even add their own recipes. The application provides an intuitive and responsive user interface for discovering and managing cooking recipes.",
+  //   tags: [
+  //     {
+  //       name: "html5",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "css3",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "javascript",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "parcel",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "forkify api",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "local storage api",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "fracty",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: forkify,
+  //   source_code_link: "https://jbc-forkify.vercel.app/",
+  // },
+  // {
+  //   name: "Conceptual AI-powered Meal Subscriptions Platform",
+  //   description:
+  //     "Omnifood is a modern, responsive website for a fictional AI-powered food subscription service that delivers healthy meals to customers. The service aims to solve the problem of poor diet due to busy lifestyles by using AI to create personalized meal plans and delivering freshly cooked meals to customers' doors.",
+  //   tags: [
+  //     {
+  //       name: "html5",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "css3",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "javascript",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: omnifood,
+  //   source_code_link: "https://jbc-omnifood.vercel.app/",
+  // },
   {
     name: "Inventory Management System",
     description:
       "Helps store managers efficiently track products, monitor stock levels, and generate reports for streamlined inventory control.",
     tags: [
       {
-        name: "csharp",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "C# + ADO.NET + .NET Framework + MS SQL Server",
         color: "pink-text-gradient",
-      },
-      {
-        name: "windowsforms",
-        color: "blue-text-gradient",
       },
     ],
     image: inventory,
@@ -1083,20 +931,8 @@ const projects = [
       "A windows forms application for managing tasks, featuring add, edit, delete, and mark as completed options, with status filtering, title search, and color-coded due date tracking.",
     tags: [
       {
-        name: "csharp",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "C# + ADO.NET + .NET Framework + MS SQL Server",
         color: "pink-text-gradient",
-      },
-      {
-        name: "windowsforms",
-        color: "blue-text-gradient",
       },
     ],
     image: tasktool,
@@ -1108,20 +944,8 @@ const projects = [
       "A desktop application that organizes and stores detailed patient records, including medical history, demographics, treatments, diagnoses, prescriptions, and other healthcare-related data.",
     tags: [
       {
-        name: "vb.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
         color: "pink-text-gradient",
-      },
-      {
-        name: "windowsforms",
-        color: "blue-text-gradient",
       },
     ],
     image: pms,
@@ -1133,19 +957,7 @@ const projects = [
       "A web application used to monitor and manage the accreditation status of doctors or healthcare providers with PhilHealth, the national health insurance program in the Philippines.",
     tags: [
       {
-        name: "asp.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
-        color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
+        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
         color: "pink-text-gradient",
       },
     ],
@@ -1159,19 +971,7 @@ const projects = [
       "A web application providing a concise summary of research papers, articles, or studies, highlighting key points, findings, and conclusions for quick understanding.",
     tags: [
       {
-        name: "asp.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
-        color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
+        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
         color: "pink-text-gradient",
       },
     ],
@@ -1184,20 +984,8 @@ const projects = [
       "A web application for radiology departments to capture, store, process, and analyze medical images, aiding in diagnostic imaging and medical diagnosis.",
     tags: [
       {
-        name: "asp.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
         color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
-        color: "blue-text-gradient",
       },
     ],
     image: ris,
@@ -1209,20 +997,8 @@ const projects = [
       "A web application to track and manage the period of hospital confinement for insured individuals.",
     tags: [
       {
-        name: "asp.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
         color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
-        color: "blue-text-gradient",
       },
     ],
     image: ris,
@@ -1234,20 +1010,8 @@ const projects = [
       "A web application designed to track, manage, and monitor the training and certification of individuals in basic life support courses.",
     tags: [
       {
-        name: "asp.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
         color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
-        color: "blue-text-gradient",
       },
     ],
     image: ris,
@@ -1259,20 +1023,8 @@ const projects = [
       "A windows forms application integrated with PhilHealth eClaims web service for processing claims and reimbursements. Users can check member eligibility, submit claims online, and track their status.",
     tags: [
       {
-        name: "vb.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
         color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
-        color: "blue-text-gradient",
       },
     ],
     image: ris,
@@ -1284,20 +1036,8 @@ const projects = [
       "A desktop application for securely managing and organizing employee information, serving as a centralized hub for data storage and retrieval.",
     tags: [
       {
-        name: "vb.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
         color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
-        color: "blue-text-gradient",
       },
     ],
     image: ris,
@@ -1309,20 +1049,8 @@ const projects = [
       "A desktop application for effective human resource management, providing a structured framework for talent acquisition, development, and deployment to align with organizational goals and growth.",
     tags: [
       {
-        name: "vb.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
         color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
-        color: "blue-text-gradient",
       },
     ],
     image: ris,
@@ -1334,20 +1062,8 @@ const projects = [
       "A web application used to assess, track, and manage the performance of employees. This system helps in evaluating individual performance against set goals, identifying areas for improvement, and facilitating constructive feedback.",
     tags: [
       {
-        name: "vb.net",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mssql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ado.net",
+        name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
         color: "pink-text-gradient",
-      },
-      {
-        name: ".netframework",
-        color: "blue-text-gradient",
       },
     ],
     image: ris,
