@@ -1,3 +1,4 @@
+import { color } from "framer-motion";
 import {
   mobile,
   backend,
@@ -299,6 +300,91 @@ const projects = [
   //   image: project_management,
   //   source_code_link: "https://jbc-devportfolio.vercel.app/",
   // },
+  {
+    name: "Telemedicine Platform - Ongoing",
+    description:
+      "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
+    tags: [
+      {
+        name: "Frontend",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Next.js + App Router + TypeScript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- shadcn/ui + Radix UI",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- React Query + Context API",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- React Hook Form + Zod validation",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Socket.io for notifications",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Lucide React icons",
+        color: "pink-text-gradient",
+      },
+      {
+        name: " ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Backend",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- C# (ASP.NET Core 8+ Web API)",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- RESTful API architecture",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- PostgreSQL with Entity Framework Core",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- JWT Tokens + ASP.NET Identity",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- OpenAPI/Swagger API documentation",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- FluentValidation",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- AutoMapper",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- SignalR",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- HIPAA compliance",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: telemed,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
   {
     name: "CRM SaaS Platform",
     description:
