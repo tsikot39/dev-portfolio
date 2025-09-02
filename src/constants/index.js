@@ -260,45 +260,45 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Electronic Medical Records (EMR) System - Ongoing (78% Complete)",
-    description:
-      "designed for modern healthcare facilities, built with enterprise-grade technologies and following healthcare industry best practices. This comprehensive healthcare management platform provides healthcare professionals with an intuitive, secure, and efficient solution for managing patient care, medical records, and clinical workflows.",
-    tags: [
-      {
-        name: "React + TypeScript + REST API + C# (.NET) + PostgreSQL + AWS",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: emr,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
-  },
-  {
-    name: "Telemedicine Platform - Ongoing (85% Complete)",
-    description:
-      "An enterprise-grade Telemedicine Platform that revolutionizes healthcare delivery through cutting-edge technology. Built with React 18, Node.js, C# (.NET), and MongoDB, our platform provides secure, scalable, and intelligent healthcare solutions for patients, doctors, and healthcare administrators.",
-    tags: [
-      {
-        name: "React + TypeScript + REST API + C# (.NET) + MongoDB + AWS",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: telemed,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
-  },
-  {
-    name: "Project Management SaaS Platform - Ongoing (85% Complete)",
-    description:
-      "A cutting-edge, enterprise-grade Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
-    tags: [
-      {
-        name: "React + TypeScript + REST API + Python (FastAPI) + MongoDB + AWS",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: project_management,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
-  },
+  // {
+  //   name: "Electronic Medical Records (EMR) System - Ongoing (78% Complete)",
+  //   description:
+  //     "designed for modern healthcare facilities, built with enterprise-grade technologies and following healthcare industry best practices. This comprehensive healthcare management platform provides healthcare professionals with an intuitive, secure, and efficient solution for managing patient care, medical records, and clinical workflows.",
+  //   tags: [
+  //     {
+  //       name: "React + TypeScript + REST API + C# (.NET) + PostgreSQL + AWS",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: emr,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app/",
+  // },
+  // {
+  //   name: "Telemedicine Platform - Ongoing (85% Complete)",
+  //   description:
+  //     "An enterprise-grade Telemedicine Platform that revolutionizes healthcare delivery through cutting-edge technology. Built with React 18, Node.js, C# (.NET), and MongoDB, our platform provides secure, scalable, and intelligent healthcare solutions for patients, doctors, and healthcare administrators.",
+  //   tags: [
+  //     {
+  //       name: "React + TypeScript + REST API + C# (.NET) + MongoDB + AWS",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: telemed,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app/",
+  // },
+  // {
+  //   name: "Project Management SaaS Platform - Ongoing (85% Complete)",
+  //   description:
+  //     "A cutting-edge, enterprise-grade Project Management SaaS Platform that revolutionizes how teams collaborate and deliver results. Featuring intelligent Kanban boards with drag-and-drop task management, real-time collaboration, and visual workflow orchestration, our platform empowers organizations to streamline workflows and achieve ambitious goals through powerful project visualization.",
+  //   tags: [
+  //     {
+  //       name: "React + TypeScript + REST API + Python (FastAPI) + MongoDB + AWS",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: project_management,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app/",
+  // },
   {
     name: "CRM SaaS Platform",
     description:
