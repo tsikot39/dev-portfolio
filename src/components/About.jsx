@@ -37,13 +37,13 @@ const About = () => {
         enterprise-grade solutions in healthcare industry. I specialize in
         architecting scalable systems that drive business transformation and
         operational excellence. With deep proficiency in modern technologies
-        including React, Next.js, Node.js, Python, Java, C# and VB.NET, I have
-        successfully led cross-functional teams to deliver mission-critical
-        applications, AI-powered solutions, and Multi-Tenancy SaaS platforms. My
-        approach combines strategic technical leadership with hands-on
-        development expertise. I excel at translating complex business
-        requirements into robust, scalable architectures while mentoring
-        development teams and driving digital transformation initiatives.
+        including React, Next.js, Node.js, C# and Python , I have successfully
+        led cross-functional teams to deliver mission-critical applications,
+        AI-powered solutions, and Multi-Tenancy SaaS platforms. My approach
+        combines strategic technical leadership with hands-on development
+        expertise. I excel at translating complex business requirements into
+        robust, scalable architectures while mentoring development teams and
+        driving digital transformation initiatives.
       </p>
 
       <div className="mt-20 flex flex-wrap gap-10">

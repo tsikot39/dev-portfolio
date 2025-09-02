@@ -283,7 +283,7 @@ const projects = [
       "designed for modern healthcare facilities, built with enterprise-grade technologies and following healthcare industry best practices. This comprehensive healthcare management platform provides healthcare professionals with an intuitive, secure, and efficient solution for managing patient care, medical records, and clinical workflows.",
     tags: [
       {
-        name: "React + TypeScript + REST API + Java (Spring Boot) + PostgreSQL + AWS",
+        name: "React + TypeScript + REST API + C# (.NET) + PostgreSQL + AWS",
         color: "pink-text-gradient",
       },
     ],
@@ -296,7 +296,7 @@ const projects = [
       "An enterprise-grade Telemedicine Platform that revolutionizes healthcare delivery through cutting-edge technology. Built with React 18, Node.js, Python FastAPI, and MongoDB, our platform provides secure, scalable, and intelligent healthcare solutions for patients, doctors, and healthcare administrators.",
     tags: [
       {
-        name: "React + TypeScript + Node.js + REST API + Python (FastAPI) + MongoDB + AWS",
+        name: "React + TypeScript + Node.js + REST API + C# (.NET) + MongoDB + AWS",
         color: "pink-text-gradient",
       },
     ],
