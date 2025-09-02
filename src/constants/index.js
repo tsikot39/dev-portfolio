@@ -293,7 +293,7 @@ const projects = [
   {
     name: "Telemedicine Platform - Ongoing (85% Complete)",
     description:
-      "An enterprise-grade Telemedicine Platform that revolutionizes healthcare delivery through cutting-edge technology. Built with React 18, Node.js, Python FastAPI, and MongoDB, our platform provides secure, scalable, and intelligent healthcare solutions for patients, doctors, and healthcare administrators.",
+      "An enterprise-grade Telemedicine Platform that revolutionizes healthcare delivery through cutting-edge technology. Built with React 18, Node.js, C# (.NET), and MongoDB, our platform provides secure, scalable, and intelligent healthcare solutions for patients, doctors, and healthcare administrators.",
     tags: [
       {
         name: "React + TypeScript + Node.js + REST API + C# (.NET) + MongoDB + AWS",
