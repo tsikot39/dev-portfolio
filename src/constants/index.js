@@ -443,7 +443,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- TypeScript",
+        name: "- TypeScript for type-safe development",
         color: "pink-text-gradient",
       },
       {
@@ -468,6 +468,10 @@ const projects = [
       },
       {
         name: "- Jest + Supertest for API testing",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Socket.io for real-time communication",
         color: "pink-text-gradient",
       },
       {
