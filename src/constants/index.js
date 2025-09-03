@@ -391,7 +391,103 @@ const projects = [
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
       {
-        name: "React + TypeScript + Node.js + GraphQL + Python (FastAPI) + MongoDB + AWS",
+        name: "Frontend",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- React 19 + TypeScript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Lucide React icons",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Zustand for state management",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- React Router for client-side routing",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Zod for schema validation",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Vitest",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- React Testing Library",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Playwright",
+        color: "pink-text-gradient",
+      },
+      {
+        name: " ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Backend",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Node.js + Express.js",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- TypeScript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- GraphQL API architecture",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- MongoDB",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- JWT Tokens",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- bcryptjs",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Nodemailer + Resend for email services",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Jest + Supertest for API testing",
+        color: "pink-text-gradient",
+      },
+      {
+        name: " ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Deployment",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- AWS App Runner",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- GitHub Actions for CI/CD Pipelines",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Docker for containerization",
         color: "pink-text-gradient",
       },
     ],
