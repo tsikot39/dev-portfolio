@@ -504,9 +504,51 @@ const projects = [
       "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
       {
-        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
+        name: "Frontend",
         color: "pink-text-gradient",
       },
+      {
+        name: "- Next.js 15 + AppRouter + TypeScript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+      { name: "- shadcn/ui + Radix UI", color: "pink-text-gradient" },
+      { name: "- Lucide React icons", color: "pink-text-gradient" },
+      { name: "- next-themes", color: "pink-text-gradient" },
+      {
+        name: "- React Hook Form + Zod validation",
+        color: "pink-text-gradient",
+      },
+      { name: " ", color: "pink-text-gradient" },
+      {
+        name: "Backend",
+        color: "pink-text-gradient",
+      },
+      { name: "- Node.js + Express.js", color: "pink-text-gradient" },
+      { name: "- RESTful API architecture", color: "pink-text-gradient" },
+      {
+        name: "- TypeScript for type-safe development",
+        color: "pink-text-gradient",
+      },
+      { name: "- MongoDB", color: "pink-text-gradient" },
+      { name: "- NextAuth.js", color: "pink-text-gradient" },
+      { name: "- Google OAuth", color: "pink-text-gradient" },
+      { name: "- bcryptjs", color: "pink-text-gradient" },
+      { name: "- JWT Tokens", color: "pink-text-gradient" },
+      { name: " ", color: "pink-text-gradient" },
+      {
+        name: "Deployment",
+        color: "pink-text-gradient",
+      },
+      { name: "- Vercel", color: "pink-text-gradient" },
+      {
+        name: "- GitHub Actions for CI/CD Pipelines",
+        color: "pink-text-gradient",
+      },
+      { name: "- Docker for containerization", color: "pink-text-gradient" },
     ],
     image: event_management,
     source_code_link: "https://jbc-event-management.vercel.app/",
