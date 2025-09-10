@@ -306,6 +306,19 @@ const projects = [
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
     tags: [
       {
+        name: "Microservices Architecture",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "CQRS (Command Query Responsibility Segregation)",
+        color: "pink-text-gradient",
+      },
+      { name: " ", color: "pink-text-gradient" },
+      {
+        name: "TECH STACK:",
+        color: "pink-text-gradient",
+      },
+      {
         name: "Frontend",
         color: "pink-text-gradient",
       },
@@ -373,8 +386,16 @@ const projects = [
         name: "- AutoMapper",
         color: "pink-text-gradient",
       },
+      { 
+        name: "- WebRTC for video consultations",
+        color: "pink-text-gradient",
+      },
       {
-        name: "- SignalR",
+        name: "- Stripe for payment processing",
+        color: "pink-text-gradient",
+      }
+      {
+        name: "- SignalR for real-time communication",
         color: "pink-text-gradient",
       },
       {
