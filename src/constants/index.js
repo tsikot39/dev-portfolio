@@ -393,7 +393,7 @@ const projects = [
       {
         name: "- Stripe for payment processing",
         color: "pink-text-gradient",
-      }
+      },
       {
         name: "- SignalR for real-time communication",
         color: "pink-text-gradient",
