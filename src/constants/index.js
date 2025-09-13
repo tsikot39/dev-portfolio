@@ -307,18 +307,10 @@ const projects = [
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
     tags: [
       {
-        name: "Microservices Architecture",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "CQRS (Command Query Responsibility Segregation)",
+        name: "100% Microservices Architecture",
         color: "pink-text-gradient",
       },
       { name: " ", color: "pink-text-gradient" },
-      {
-        name: "TECH STACK:",
-        color: "pink-text-gradient",
-      },
       {
         name: "Frontend",
         color: "pink-text-gradient",
@@ -372,7 +364,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- JWT Tokens + ASP.NET Identity",
+        name: "- JWT + ASP.NET Identity",
         color: "pink-text-gradient",
       },
       {
@@ -401,6 +393,26 @@ const projects = [
       },
       {
         name: "- HIPAA compliance",
+        color: "pink-text-gradient",
+      },
+      {
+        name: " ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Deployment",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- AWS App Runner",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- GitHub Actions for CI/CD Pipelines",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Docker for containerization",
         color: "pink-text-gradient",
       },
     ],
@@ -440,6 +452,134 @@ const projects = [
         name: "VAPID compliant - for push notifications",
         color: "pink-text-gradient", 
       },
+      {
+        name: " ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Frontend",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- React 18 + TypeScript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Headless UI",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Lucide React icons",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- TanStack React Query",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Zustand for lightweight state management",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- React Hook Form",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Zod for schema validation",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Axios HTTP client",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Service Workers for PWA",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Web Push API for VAPID notifications",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- App Manifest for installable PWA",
+        color: "pink-text-gradient",
+      },
+      {
+        name: " ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Backend",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Node.js + Express.js with TypeScript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- MongoDB with Mongoose ODM",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- bcryptjs for secure password hashing",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- JWT for authentication",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Express rate limiting",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Helmet.js for security headers",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- CORS configuration",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- 5 independent microservices",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Winston for logging",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Morgan for HTTP request logging",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Web Push for VAPID notifications",
+        color: "pink-text-gradient",
+      },
+      {
+        name: " ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Deployment",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- AWS App Runner",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- GitHub Actions for CI/CD Pipelines",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "- Docker for containerization",
+        color: "pink-text-gradient",
+      }
     ],
     image: payflow,
     source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
@@ -449,6 +589,14 @@ const projects = [
     description:
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
+      {
+        name: "100% Monolithic Architecture",
+        color: "pink-text-gradient",
+      },
+      {
+        name: " ",
+        color: "pink-text-gradient",
+      },
       {
         name: "Frontend",
         color: "pink-text-gradient",
@@ -514,7 +662,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- JWT Tokens",
+        name: "- JWT for authentication",
         color: "pink-text-gradient",
       },
       {
