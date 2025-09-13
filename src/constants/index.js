@@ -561,6 +561,10 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
+        name: "- Redis for caching and session management",
+        color: "pink-text-gradient",
+      },
+      {
         name: " ",
         color: "pink-text-gradient",
       },
