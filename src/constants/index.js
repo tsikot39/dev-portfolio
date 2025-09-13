@@ -61,6 +61,7 @@ import {
   paw_smart,
   telemed,
   emr,
+  payflow,
 } from "../assets";
 
 export const navLinks = [
@@ -440,7 +441,7 @@ const projects = [
         color: "pink-text-gradient", 
       },
     ],
-    image: crm,
+    image: payflow,
     source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
   },
   {

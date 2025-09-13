@@ -61,6 +61,7 @@ import b2b from "./b2b.png";
 import paw_smart from "./paw_smart.png";
 import telemed from "./telemed.png";
 import emr from "./emr.png";
+import payflow from "./payflow.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -155,4 +156,5 @@ export {
   paw_smart,
   telemed,
   emr,
+  payflow,
 };
