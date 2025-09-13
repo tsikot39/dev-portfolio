@@ -407,6 +407,43 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
+    name: "Payment Platform - Ongoing",
+    description:
+      "A full-stack, enterprise-grade digital payment platform built with modern technologies and industry best practices. This production-ready application demonstrates expertise in microservices architecture, progressive web apps, real-time notifications, and scalable fintech solutions.",
+    tags: [
+      {
+        name: "100% Microservices Architecture",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Production Ready - Handles millions of users",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Horizontally Scalable - Each service scales independently",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Cloud Native - Docker and Kubernetes ready",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Enterprise Grade - Security, monitoring, logging included",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "PWA with offline capabilities and push notifications",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "VAPID compliant - for push notifications",
+        color: "pink-text-gradient", 
+      },
+    ],
+    image: crm,
+    source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
+  },
+  {
     name: "CRM SaaS Platform",
     description:
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
