@@ -517,7 +517,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- Node.js + Express.js with TypeScript",
+        name: "- Node.js + Fastify with TypeScript",
         color: "pink-text-gradient",
       },
       {
@@ -650,7 +650,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- Node.js + Express.js",
+        name: "- Node.js + Fastify with TypeScript",
         color: "pink-text-gradient",
       },
       {
@@ -738,7 +738,7 @@ const projects = [
         name: "Backend",
         color: "pink-text-gradient",
       },
-      { name: "- Node.js + Express.js", color: "pink-text-gradient" },
+      { name: "- Node.js + Fastify with TypeScript", color: "pink-text-gradient" },
       { name: "- RESTful API architecture", color: "pink-text-gradient" },
       {
         name: "- TypeScript for type-safe development",
