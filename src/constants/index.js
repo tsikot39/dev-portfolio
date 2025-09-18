@@ -316,7 +316,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- React 19 + TypeScript",
+        name: "- React + TypeScript",
         color: "pink-text-gradient",
       },
       {
@@ -461,7 +461,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- React 18 + TypeScript",
+        name: "- React + TypeScript",
         color: "pink-text-gradient",
       },
       {
@@ -606,7 +606,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- React 19 + TypeScript",
+        name: "- React + TypeScript",
         color: "pink-text-gradient",
       },
       {
@@ -719,7 +719,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- React 18 + TypeScript",
+        name: "- React + TypeScript",
         color: "pink-text-gradient",
       },
       {
