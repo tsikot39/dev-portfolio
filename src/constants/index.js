@@ -316,7 +316,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- Next.js + App Router + TypeScript",
+        name: "- React 19 + TypeScript",
         color: "pink-text-gradient",
       },
       {
@@ -719,7 +719,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "- Next.js 15 + AppRouter + TypeScript",
+        name: "- React 18 + TypeScript",
         color: "pink-text-gradient",
       },
       {
@@ -728,7 +728,6 @@ const projects = [
       },
       { name: "- shadcn/ui + Radix UI", color: "pink-text-gradient" },
       { name: "- Lucide React icons", color: "pink-text-gradient" },
-      { name: "- next-themes", color: "pink-text-gradient" },
       {
         name: "- React Hook Form + Zod validation",
         color: "pink-text-gradient",
@@ -745,7 +744,6 @@ const projects = [
         color: "pink-text-gradient",
       },
       { name: "- MongoDB", color: "pink-text-gradient" },
-      { name: "- NextAuth.js", color: "pink-text-gradient" },
       { name: "- Google OAuth", color: "pink-text-gradient" },
       { name: "- bcryptjs", color: "pink-text-gradient" },
       { name: "- JWT Tokens", color: "pink-text-gradient" },
@@ -770,7 +768,7 @@ const projects = [
       "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
     tags: [
       {
-        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
+        name: "React + TypeScript + Node.js + REST API + MongoDB + Vercel",
         color: "pink-text-gradient",
       },
     ],
