@@ -302,7 +302,7 @@ const projects = [
   //   source_code_link: "https://jbc-devportfolio.vercel.app/",
   // },
   {
-    name: "Telemedicine Platform - Ongoing",
+    name: "Telemedicine Platform (80% Complete)",
     description:
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
     tags: [
@@ -319,7 +319,7 @@ const projects = [
         name: "C# (ASP.NET Core 8+ Web API)",
       },
       {
-        name: "RESTful API architecture",
+        name: "RESTful API",
       },
       {
         name: "Entity Framework Core",
@@ -331,7 +331,7 @@ const projects = [
         name: "JWT + ASP.NET Core Identity",
       },
       {
-        name: "OpenAPI/Swagger API documentation",
+        name: "OpenAPI/Swagger",
       },
       {
         name: "FluentValidation",
@@ -343,10 +343,13 @@ const projects = [
         name: "WebRTC",
       },
       {
+        name: "SignalR",
+      },
+            {
         name: "Stripe",
       },
       {
-        name: "SignalR",
+        name: "Tests (Unit, Integration, E2E)",
       },
       {
         name: "CI/CD Pipelines (GitHub Actions)",
@@ -365,129 +368,69 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "Payment Platform - Ongoing",
+    name: "Payment Platform (70% Complete)",
     description:
       "A full-stack, enterprise-grade digital payment platform built with modern technologies and industry best practices. This production-ready application demonstrates expertise in microservices architecture, progressive web apps, real-time notifications, and scalable fintech solutions.",
     tags: [
       {
-        name: "100% Microservices Architecture",
-      },
-      {
-        name: "Production Ready - Handles millions of users",
-      },
-      {
-        name: "Horizontally Scalable - Each service scales independently",
-      },
-      {
-        name: "Cloud Native - Docker and Kubernetes ready",
-      },
-      {
-        name: "Enterprise Grade - Security, monitoring, logging included",
-      },
-      {
-        name: "PWA with offline capabilities and push notifications",
-      },
-      {
-        name: "VAPID compliant - for push notifications", 
-      },
-      {
         name: " ",
       },
       {
-        name: "Frontend",
+        name: "Microservices Architecture",
       },
       {
-        name: "- React + TypeScript",
+        name: "React + TypeScript",
       },
       {
-        name: "- Tailwind CSS",
+        name: "Node.js + Fastify + TypeScript",
       },
       {
-        name: "- Headless UI",
+        name: "RESTful API",
       },
       {
-        name: "- Lucide React icons",
+        name: "MongoDB",
       },
       {
-        name: "- TanStack React Query",
+        name: "JWT",
       },
       {
-        name: "- Zustand for lightweight state management",
+        name: "OpenAPI/Swagger",
       },
       {
-        name: "- React Hook Form",
+        name: "Socket.IO",
       },
       {
-        name: "- Zod for schema validation",
+        name: "Resend",
       },
       {
-        name: "- Axios HTTP client",
+        name: "Twilio",
       },
       {
-        name: "- Service Workers for PWA",
+        name: "Redis",
       },
       {
-        name: "- Web Push API for VAPID notifications",
+        name: "RabbitMQ",
       },
       {
-        name: "- App Manifest for installable PWA",
+        name: "Stripe",
       },
       {
-        name: " ",
+        name: "Tests (Unit, Integration, E2E)",
       },
       {
-        name: "Backend",
+        name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
-        name: "- Node.js + Fastify with TypeScript",
+        name: "Docker",
       },
       {
-        name: "- MongoDB with Mongoose ODM",
+        name: "NGINX",
       },
       {
-        name: "- bcryptjs for secure password hashing",
+        name: "AWS",
       },
       {
-        name: "- JWT for authentication",
-      },
-      {
-        name: "- Express rate limiting",
-      },
-      {
-        name: "- Helmet.js for security headers",
-      },
-      {
-        name: "- CORS configuration",
-      },
-      {
-        name: "- 5 independent microservices",
-      },
-      {
-        name: "- Winston for logging",
-      },
-      {
-        name: "- Morgan for HTTP request logging",
-      },
-      {
-        name: "- Web Push for VAPID notifications",
-      },
-      {
-        name: "- Redis for caching and session management",
-      },
-      {
-        name: " ",
-      },
-      {
-        name: "Deployment",
-      },
-      {
-        name: "- AWS App Runner",
-      },
-      {
-        name: "- GitHub Actions for CI/CD Pipelines",
-      },
-      {
-        name: "- Docker for containerization",
+        name: "Progressive Web App (PWA)",
       }
     ],
     image: payflow,
