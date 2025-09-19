@@ -496,41 +496,44 @@ const projects = [
       "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
       {
-        name: "Frontend",
+        name: " ",
       },
       {
-        name: "- React + TypeScript",
+        name: "Monolithic Architecture",
       },
       {
-        name: "- Tailwind CSS",
+        name: "Next.js + React + TypeScript",
       },
-      { name: "- shadcn/ui + Radix UI" },
-      { name: "- Lucide React icons" },
+      { 
+        name: "Node.js + Fastify + TypeScript",
+      },
+      { 
+        name: "REST API",
+      },
+      { 
+        name: "MongoDB",
+      },
+      { 
+        name: "Google OAuth",
+      },
+      { 
+        name: "JWT + NextAuth.js",
+      },
       {
-        name: "- React Hook Form + Zod validation",
+        name: "OpenAPI/Swagger",
       },
-      { name: " " },
       {
-        name: "Backend",
+        name: "Unsplash API",
       },
-      { name: "- Node.js + Fastify with TypeScript" },
-      { name: "- RESTful API architecture" },
       {
-        name: "- TypeScript for type-safe development",
+        name: "CI/CD Pipelines (GitHub Actions)",
       },
-      { name: "- MongoDB" },
-      { name: "- Google OAuth" },
-      { name: "- bcryptjs" },
-      { name: "- JWT Tokens" },
-      { name: " " },
-      {
-        name: "Deployment",
+      { 
+        name: "Docker",
       },
-      { name: "- Vercel" },
-      {
-        name: "- GitHub Actions for CI/CD Pipelines",
-      },
-      { name: "- Docker for containerization" },
+      { 
+        name: "Vercel",
+     },
     ],
     image: event_management,
     source_code_link: "https://jbc-event-management.vercel.app/",
