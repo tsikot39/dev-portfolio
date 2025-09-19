@@ -490,7 +490,7 @@ const projects = [
         name: "Google OAuth",
       },
       { 
-        name: "JWT + NextAuth.js",
+        name: "NextAuth.js",
       },
       {
         name: "OpenAPI/Swagger",
@@ -532,8 +532,50 @@ const projects = [
       "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
     tags: [
       {
-        name: "React + TypeScript + Node.js + REST API + MongoDB + Vercel",
+        name: "Monolithic Architecture",
       },
+      {
+        name: "Next.js + React + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js + TypeScript",
+      },
+            {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "Google OAuth",
+      },
+      {
+        name: "NextAuth.js",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Resend",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "Ci/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Vercel",
+      }
     ],
     image: invoice_generator,
     source_code_link: "https://jbc-invoice-generator.vercel.app/",
