@@ -319,7 +319,7 @@ const projects = [
         name: "C# (ASP.NET Core 8+ Web API)",
       },
       {
-        name: "RESTful API",
+        name: "REST API",
       },
       {
         name: "Entity Framework Core",
@@ -349,7 +349,7 @@ const projects = [
         name: "Stripe",
       },
       {
-        name: "Tests (Unit, Integration, E2E)",
+        name: "Testing (Unit, Integration, E2E)",
       },
       {
         name: "CI/CD Pipelines (GitHub Actions)",
@@ -405,6 +405,9 @@ const projects = [
       {
         name: "Twilio",
       },
+            {
+        name: "Stripe",
+      },
       {
         name: "Redis",
       },
@@ -412,19 +415,13 @@ const projects = [
         name: "RabbitMQ",
       },
       {
-        name: "Stripe",
-      },
-      {
-        name: "Tests (Unit, Integration, E2E)",
+        name: "Testing (Unit, Integration, E2E)",
       },
       {
         name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
         name: "Docker",
-      },
-      {
-        name: "NGINX",
       },
       {
         name: "AWS",
@@ -434,7 +431,7 @@ const projects = [
       }
     ],
     image: payflow,
-    source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
   },
   {
     name: "CRM SaaS Platform",
@@ -442,88 +439,52 @@ const projects = [
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
       {
-        name: "100% Monolithic Architecture",
-      },
-      {
         name: " ",
       },
       {
-        name: "Frontend",
+        name: "Monolithic Architecture",
       },
       {
-        name: "- React + TypeScript",
+        name: "React + TypeScript",
       },
       {
-        name: "- Tailwind CSS",
+        name: "Node.js + Fastify + TypeScript",
       },
       {
-        name: "- Lucide React icons",
+        name: "REST API",
       },
       {
-        name: "- Zustand for state management",
+        name: "MongoDB",
       },
       {
-        name: "- React Router for client-side routing",
+        name: "JWT",
       },
       {
-        name: "- Zod for schema validation",
+        name: "OpenAPI/Swagger",
+      },
+            {
+        name: "Socket.IO",
       },
       {
-        name: "- Vitest",
+        name: "Resend",
       },
       {
-        name: "- React Testing Library",
+        name: "Stripe",
       },
       {
-        name: "- Playwright",
+        name: "Redis",
       },
       {
-        name: " ",
+        name: "Testing (Unit, Integration, E2E)",
       },
       {
-        name: "Backend",
+        name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
-        name: "- Node.js + Fastify with TypeScript",
+        name: "Docker",
       },
       {
-        name: "- TypeScript for type-safe development",
-      },
-      {
-        name: "- GraphQL API architecture",
-      },
-      {
-        name: "- MongoDB",
-      },
-      {
-        name: "- JWT for authentication",
-      },
-      {
-        name: "- bcryptjs",
-      },
-      {
-        name: "- Nodemailer + Resend for email services",
-      },
-      {
-        name: "- Jest + Supertest for API testing",
-      },
-      {
-        name: "- Socket.io for real-time communication",
-      },
-      {
-        name: " ",
-      },
-      {
-        name: "Deployment",
-      },
-      {
-        name: "- AWS App Runner",
-      },
-      {
-        name: "- GitHub Actions for CI/CD Pipelines",
-      },
-      {
-        name: "- Docker for containerization",
+        name: "AWS",
       },
     ],
     image: crm,
