@@ -493,6 +493,9 @@ const projects = [
         name: "NextAuth.js",
       },
       {
+        name: "JWT",
+      },
+      {
         name: "OpenAPI/Swagger",
       },
       {
@@ -556,6 +559,9 @@ const projects = [
         name: "NextAuth.js",
       },
       {
+        name: "JWT",
+      },
+      {
         name: "OpenAPI/Swagger",
       },
       {
@@ -586,7 +592,58 @@ const projects = [
       "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
     tags: [
       {
-        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
+        name: "Monolithic Architecture",
+      },
+      {
+        name: "Next.js + React + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js + TypeScript",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "Google OAuth",
+      },
+      {
+        name: "NextAuth.js",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Resend",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "Google Gemini API",
+      },
+      {
+        name: "Next.js SSR & ISR",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Vercel",
       },
     ],
     image: rephrasing_tool,
