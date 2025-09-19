@@ -496,7 +496,22 @@ const projects = [
         name: "OpenAPI/Swagger",
       },
       {
+        name: "Socket.IO",
+      },
+      {
+        name: "Resend",
+      },
+      {
+        name: "Stripe",
+      },
+      {
         name: "Unsplash API",
+      },
+      {
+        name: "Next.js SSR",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
       },
       {
         name: "CI/CD Pipelines (GitHub Actions)",
