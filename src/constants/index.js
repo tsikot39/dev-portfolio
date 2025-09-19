@@ -269,7 +269,7 @@ const projects = [
   //   tags: [
   //     {
   //       name: "React + TypeScript + REST API + C# (.NET) + PostgreSQL + AWS",
-  //       color: "pink-text-gradient",
+  //       color: "text-secondary",
   //     },
   //   ],
   //   image: emr,
@@ -282,7 +282,7 @@ const projects = [
   //   tags: [
   //     {
   //       name: "React + TypeScript + REST API + C# (.NET) + MongoDB + AWS",
-  //       color: "pink-text-gradient",
+  //       color: "text-secondary",
   //     },
   //   ],
   //   image: telemed,
@@ -295,7 +295,7 @@ const projects = [
   //   tags: [
   //     {
   //       name: "React + TypeScript + REST API + Python (FastAPI) + MongoDB + AWS",
-  //       color: "pink-text-gradient",
+  //       color: "text-secondary",
   //     },
   //   ],
   //   image: project_management,
@@ -307,113 +307,58 @@ const projects = [
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
     tags: [
       {
-        name: "100% Microservices Architecture",
-        color: "pink-text-gradient",
-      },
-      { name: " ", color: "pink-text-gradient" },
-      {
-        name: "Frontend",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- React + TypeScript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- Tailwind CSS",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- shadcn/ui + Radix UI",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- React Query + Context API",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- React Hook Form + Zod validation",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- Socket.io for notifications",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- Lucide React icons",
-        color: "pink-text-gradient",
-      },
-      {
         name: " ",
-        color: "pink-text-gradient",
       },
       {
-        name: "Backend",
-        color: "pink-text-gradient",
+        name: "Microservices Architecture",
       },
       {
-        name: "- C# (ASP.NET Core 8+ Web API)",
-        color: "pink-text-gradient",
+        name: "React + TypeScript",
       },
       {
-        name: "- RESTful API architecture",
-        color: "pink-text-gradient",
+        name: "C# (ASP.NET Core 8+ Web API)",
       },
       {
-        name: "- PostgreSQL with Entity Framework Core",
-        color: "pink-text-gradient",
+        name: "RESTful API architecture",
       },
       {
-        name: "- JWT + ASP.NET Identity",
-        color: "pink-text-gradient",
+        name: "Entity Framework Core",
       },
       {
-        name: "- OpenAPI/Swagger API documentation",
-        color: "pink-text-gradient",
+        name: "PostgreSQL",
       },
       {
-        name: "- FluentValidation",
-        color: "pink-text-gradient",
+        name: "JWT + ASP.NET Core Identity",
       },
       {
-        name: "- AutoMapper",
-        color: "pink-text-gradient",
+        name: "OpenAPI/Swagger API documentation",
+      },
+      {
+        name: "FluentValidation",
+      },
+      {
+        name: "AutoMapper",
       },
       { 
-        name: "- WebRTC for video consultations",
-        color: "pink-text-gradient",
+        name: "WebRTC",
       },
       {
-        name: "- Stripe for payment processing",
-        color: "pink-text-gradient",
+        name: "Stripe",
       },
       {
-        name: "- SignalR for real-time communication",
-        color: "pink-text-gradient",
+        name: "SignalR",
       },
       {
-        name: "- HIPAA compliance",
-        color: "pink-text-gradient",
+        name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
-        name: " ",
-        color: "pink-text-gradient",
+        name: "Docker",
+      },
+            {
+        name: "AWS",
       },
       {
-        name: "Deployment",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- AWS App Runner",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- GitHub Actions for CI/CD Pipelines",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "- Docker for containerization",
-        color: "pink-text-gradient",
+        name: "HIPAA compliance",
       },
     ],
     image: telemed,
@@ -426,163 +371,123 @@ const projects = [
     tags: [
       {
         name: "100% Microservices Architecture",
-        color: "pink-text-gradient",
       },
       {
         name: "Production Ready - Handles millions of users",
-        color: "pink-text-gradient",
       },
       {
         name: "Horizontally Scalable - Each service scales independently",
-        color: "pink-text-gradient",
       },
       {
         name: "Cloud Native - Docker and Kubernetes ready",
-        color: "pink-text-gradient",
       },
       {
         name: "Enterprise Grade - Security, monitoring, logging included",
-        color: "pink-text-gradient",
       },
       {
         name: "PWA with offline capabilities and push notifications",
-        color: "pink-text-gradient",
       },
       {
-        name: "VAPID compliant - for push notifications",
-        color: "pink-text-gradient", 
+        name: "VAPID compliant - for push notifications", 
       },
       {
         name: " ",
-        color: "pink-text-gradient",
       },
       {
         name: "Frontend",
-        color: "pink-text-gradient",
       },
       {
         name: "- React + TypeScript",
-        color: "pink-text-gradient",
       },
       {
         name: "- Tailwind CSS",
-        color: "pink-text-gradient",
       },
       {
         name: "- Headless UI",
-        color: "pink-text-gradient",
       },
       {
         name: "- Lucide React icons",
-        color: "pink-text-gradient",
       },
       {
         name: "- TanStack React Query",
-        color: "pink-text-gradient",
       },
       {
         name: "- Zustand for lightweight state management",
-        color: "pink-text-gradient",
       },
       {
         name: "- React Hook Form",
-        color: "pink-text-gradient",
       },
       {
         name: "- Zod for schema validation",
-        color: "pink-text-gradient",
       },
       {
         name: "- Axios HTTP client",
-        color: "pink-text-gradient",
       },
       {
         name: "- Service Workers for PWA",
-        color: "pink-text-gradient",
       },
       {
         name: "- Web Push API for VAPID notifications",
-        color: "pink-text-gradient",
       },
       {
         name: "- App Manifest for installable PWA",
-        color: "pink-text-gradient",
       },
       {
         name: " ",
-        color: "pink-text-gradient",
       },
       {
         name: "Backend",
-        color: "pink-text-gradient",
       },
       {
         name: "- Node.js + Fastify with TypeScript",
-        color: "pink-text-gradient",
       },
       {
         name: "- MongoDB with Mongoose ODM",
-        color: "pink-text-gradient",
       },
       {
         name: "- bcryptjs for secure password hashing",
-        color: "pink-text-gradient",
       },
       {
         name: "- JWT for authentication",
-        color: "pink-text-gradient",
       },
       {
         name: "- Express rate limiting",
-        color: "pink-text-gradient",
       },
       {
         name: "- Helmet.js for security headers",
-        color: "pink-text-gradient",
       },
       {
         name: "- CORS configuration",
-        color: "pink-text-gradient",
       },
       {
         name: "- 5 independent microservices",
-        color: "pink-text-gradient",
       },
       {
         name: "- Winston for logging",
-        color: "pink-text-gradient",
       },
       {
         name: "- Morgan for HTTP request logging",
-        color: "pink-text-gradient",
       },
       {
         name: "- Web Push for VAPID notifications",
-        color: "pink-text-gradient",
       },
       {
         name: "- Redis for caching and session management",
-        color: "pink-text-gradient",
       },
       {
         name: " ",
-        color: "pink-text-gradient",
       },
       {
         name: "Deployment",
-        color: "pink-text-gradient",
       },
       {
         name: "- AWS App Runner",
-        color: "pink-text-gradient",
       },
       {
         name: "- GitHub Actions for CI/CD Pipelines",
-        color: "pink-text-gradient",
       },
       {
         name: "- Docker for containerization",
-        color: "pink-text-gradient",
       }
     ],
     image: payflow,
@@ -595,115 +500,87 @@ const projects = [
     tags: [
       {
         name: "100% Monolithic Architecture",
-        color: "pink-text-gradient",
       },
       {
         name: " ",
-        color: "pink-text-gradient",
       },
       {
         name: "Frontend",
-        color: "pink-text-gradient",
       },
       {
         name: "- React + TypeScript",
-        color: "pink-text-gradient",
       },
       {
         name: "- Tailwind CSS",
-        color: "pink-text-gradient",
       },
       {
         name: "- Lucide React icons",
-        color: "pink-text-gradient",
       },
       {
         name: "- Zustand for state management",
-        color: "pink-text-gradient",
       },
       {
         name: "- React Router for client-side routing",
-        color: "pink-text-gradient",
       },
       {
         name: "- Zod for schema validation",
-        color: "pink-text-gradient",
       },
       {
         name: "- Vitest",
-        color: "pink-text-gradient",
       },
       {
         name: "- React Testing Library",
-        color: "pink-text-gradient",
       },
       {
         name: "- Playwright",
-        color: "pink-text-gradient",
       },
       {
         name: " ",
-        color: "pink-text-gradient",
       },
       {
         name: "Backend",
-        color: "pink-text-gradient",
       },
       {
         name: "- Node.js + Fastify with TypeScript",
-        color: "pink-text-gradient",
       },
       {
         name: "- TypeScript for type-safe development",
-        color: "pink-text-gradient",
       },
       {
         name: "- GraphQL API architecture",
-        color: "pink-text-gradient",
       },
       {
         name: "- MongoDB",
-        color: "pink-text-gradient",
       },
       {
         name: "- JWT for authentication",
-        color: "pink-text-gradient",
       },
       {
         name: "- bcryptjs",
-        color: "pink-text-gradient",
       },
       {
         name: "- Nodemailer + Resend for email services",
-        color: "pink-text-gradient",
       },
       {
         name: "- Jest + Supertest for API testing",
-        color: "pink-text-gradient",
       },
       {
         name: "- Socket.io for real-time communication",
-        color: "pink-text-gradient",
       },
       {
         name: " ",
-        color: "pink-text-gradient",
       },
       {
         name: "Deployment",
-        color: "pink-text-gradient",
       },
       {
         name: "- AWS App Runner",
-        color: "pink-text-gradient",
       },
       {
         name: "- GitHub Actions for CI/CD Pipelines",
-        color: "pink-text-gradient",
       },
       {
         name: "- Docker for containerization",
-        color: "pink-text-gradient",
       },
     ],
     image: crm,
@@ -716,48 +593,40 @@ const projects = [
     tags: [
       {
         name: "Frontend",
-        color: "pink-text-gradient",
       },
       {
         name: "- React + TypeScript",
-        color: "pink-text-gradient",
       },
       {
         name: "- Tailwind CSS",
-        color: "pink-text-gradient",
       },
-      { name: "- shadcn/ui + Radix UI", color: "pink-text-gradient" },
-      { name: "- Lucide React icons", color: "pink-text-gradient" },
+      { name: "- shadcn/ui + Radix UI" },
+      { name: "- Lucide React icons" },
       {
         name: "- React Hook Form + Zod validation",
-        color: "pink-text-gradient",
       },
-      { name: " ", color: "pink-text-gradient" },
+      { name: " " },
       {
         name: "Backend",
-        color: "pink-text-gradient",
       },
-      { name: "- Node.js + Fastify with TypeScript", color: "pink-text-gradient" },
-      { name: "- RESTful API architecture", color: "pink-text-gradient" },
+      { name: "- Node.js + Fastify with TypeScript" },
+      { name: "- RESTful API architecture" },
       {
         name: "- TypeScript for type-safe development",
-        color: "pink-text-gradient",
       },
-      { name: "- MongoDB", color: "pink-text-gradient" },
-      { name: "- Google OAuth", color: "pink-text-gradient" },
-      { name: "- bcryptjs", color: "pink-text-gradient" },
-      { name: "- JWT Tokens", color: "pink-text-gradient" },
-      { name: " ", color: "pink-text-gradient" },
+      { name: "- MongoDB" },
+      { name: "- Google OAuth" },
+      { name: "- bcryptjs" },
+      { name: "- JWT Tokens" },
+      { name: " " },
       {
         name: "Deployment",
-        color: "pink-text-gradient",
       },
-      { name: "- Vercel", color: "pink-text-gradient" },
+      { name: "- Vercel" },
       {
         name: "- GitHub Actions for CI/CD Pipelines",
-        color: "pink-text-gradient",
       },
-      { name: "- Docker for containerization", color: "pink-text-gradient" },
+      { name: "- Docker for containerization" },
     ],
     image: event_management,
     source_code_link: "https://jbc-event-management.vercel.app/",
@@ -769,7 +638,6 @@ const projects = [
     tags: [
       {
         name: "React + TypeScript + Node.js + REST API + MongoDB + Vercel",
-        color: "pink-text-gradient",
       },
     ],
     image: invoice_generator,
@@ -782,7 +650,6 @@ const projects = [
     tags: [
       {
         name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
-        color: "pink-text-gradient",
       },
     ],
     image: rephrasing_tool,
@@ -795,7 +662,6 @@ const projects = [
     tags: [
       {
         name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
-        color: "pink-text-gradient",
       },
     ],
     image: nexuschat,
@@ -808,7 +674,6 @@ const projects = [
     tags: [
       {
         name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
-        color: "pink-text-gradient",
       },
     ],
     image: expense_tracker,
@@ -821,7 +686,6 @@ const projects = [
     tags: [
       {
         name: "C# + ADO.NET + .NET Framework + MS SQL Server",
-        color: "pink-text-gradient",
       },
     ],
     image: inventory,
@@ -834,7 +698,6 @@ const projects = [
     tags: [
       {
         name: "C# + ADO.NET + .NET Framework + MS SQL Server",
-        color: "pink-text-gradient",
       },
     ],
     image: tasktool,
@@ -847,7 +710,6 @@ const projects = [
     tags: [
       {
         name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
-        color: "pink-text-gradient",
       },
     ],
     image: pms,
@@ -860,7 +722,6 @@ const projects = [
     tags: [
       {
         name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
-        color: "pink-text-gradient",
       },
     ],
     image: dpa,
@@ -874,7 +735,6 @@ const projects = [
     tags: [
       {
         name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
-        color: "pink-text-gradient",
       },
     ],
     image: ord,
@@ -887,7 +747,6 @@ const projects = [
     tags: [
       {
         name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
-        color: "pink-text-gradient",
       },
     ],
     image: ris,
@@ -900,7 +759,6 @@ const projects = [
     tags: [
       {
         name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
-        color: "pink-text-gradient",
       },
     ],
     image: ris,
@@ -913,7 +771,6 @@ const projects = [
     tags: [
       {
         name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
-        color: "pink-text-gradient",
       },
     ],
     image: ris,
@@ -926,7 +783,6 @@ const projects = [
     tags: [
       {
         name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
-        color: "pink-text-gradient",
       },
     ],
     image: ris,
@@ -939,7 +795,6 @@ const projects = [
     tags: [
       {
         name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
-        color: "pink-text-gradient",
       },
     ],
     image: ris,
@@ -952,7 +807,6 @@ const projects = [
     tags: [
       {
         name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
-        color: "pink-text-gradient",
       },
     ],
     image: ris,
@@ -965,7 +819,6 @@ const projects = [
     tags: [
       {
         name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
-        color: "pink-text-gradient",
       },
     ],
     image: ris,
