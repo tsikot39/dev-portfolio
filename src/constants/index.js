@@ -664,6 +664,9 @@ const projects = [
         name: " ",
       },
       {
+        name: "Monolithic Architecture",
+      },
+      {
         name: "Next.js + App Router + TypeScript",
       },
       {
