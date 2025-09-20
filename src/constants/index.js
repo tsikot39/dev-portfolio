@@ -535,6 +535,9 @@ const projects = [
       "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
     tags: [
       {
+        name: " ",
+      },
+      {
         name: "Monolithic Architecture",
       },
       {
