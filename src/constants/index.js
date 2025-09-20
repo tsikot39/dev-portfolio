@@ -461,7 +461,7 @@ const projects = [
     source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
   },
   {
-    name: "Event Management & Ticketing Platform",
+    name: "Event Management & Ticketing SaaS Platform",
     description:
       "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
@@ -472,13 +472,13 @@ const projects = [
         name: "Monolithic Architecture",
       },
       {
-        name: "Next.js + React + TypeScript",
+        name: "Next.js + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
       },
       { 
-        name: "Node.js + Fastify + TypeScript",
+        name: "Node.js + TypeScript",
       },
       { 
         name: "REST API",
