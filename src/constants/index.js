@@ -661,8 +661,53 @@ const projects = [
       "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
     tags: [
       {
-        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
+        name: " ",
       },
+      {
+        name: "Next.js + App Router + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js + TypeScript",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "Google OAuth",
+      },
+      {
+        name: "NextAuth.js",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Socket.IO",
+      },
+      {
+        name: "Next.js CSR",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Vercel",
+      }
     ],
     image: nexuschat,
     source_code_link: "https://jbc-chat-app.vercel.app/",
