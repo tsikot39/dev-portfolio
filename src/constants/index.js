@@ -590,15 +590,18 @@ const projects = [
     source_code_link: "https://jbc-invoice-generator.vercel.app/",
   },
   {
-    name: "AI-Powered Content Rephrasing & Optimization Tool",
+    name: "AI-Powered Content Rephrasing & Optimization SaaS Tool",
     description:
       "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
     tags: [
       {
+        name: " ",
+      },
+      {
         name: "Monolithic Architecture",
       },
       {
-        name: "Next.js + React + TypeScript",
+        name: "Next.js + App Router + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
