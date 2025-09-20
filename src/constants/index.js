@@ -472,7 +472,7 @@ const projects = [
         name: "Monolithic Architecture",
       },
       {
-        name: "Next.js + TypeScript",
+        name: "Next.js + App Router + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
@@ -530,7 +530,7 @@ const projects = [
     source_code_link: "https://jbc-event-management.vercel.app/",
   },
   {
-    name: "Invoice Management Platform",
+    name: "Invoice Management SaaS Platform",
     description:
       "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
     tags: [
@@ -538,7 +538,7 @@ const projects = [
         name: "Monolithic Architecture",
       },
       {
-        name: "Next.js + React + TypeScript",
+        name: "Next.js + App Router + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
