@@ -271,10 +271,7 @@ const projects = [
         name: " ",
       },
       {
-        name: "Microservices Architecture",
-      },
-      {
-        name: "React + TypeScript",
+        name: "Next.js + App Router + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
@@ -338,9 +335,6 @@ const projects = [
     tags: [
       {
         name: " ",
-      },
-      {
-        name: "Microservices Architecture",
       },
       {
         name: "React + TypeScript",
@@ -409,9 +403,6 @@ const projects = [
         name: " ",
       },
       {
-        name: "Monolithic Architecture",
-      },
-      {
         name: "React + TypeScript",
       },
       {
@@ -467,9 +458,6 @@ const projects = [
     tags: [
       {
         name: " ",
-      },
-      {
-        name: "Monolithic Architecture",
       },
       {
         name: "Next.js + App Router + TypeScript",
@@ -538,9 +526,6 @@ const projects = [
         name: " ",
       },
       {
-        name: "Monolithic Architecture",
-      },
-      {
         name: "Next.js + App Router + TypeScript",
       },
       {
@@ -596,9 +581,6 @@ const projects = [
     tags: [
       {
         name: " ",
-      },
-      {
-        name: "Monolithic Architecture",
       },
       {
         name: "Next.js + App Router + TypeScript",
@@ -662,9 +644,6 @@ const projects = [
     tags: [
       {
         name: " ",
-      },
-      {
-        name: "Monolithic Architecture",
       },
       {
         name: "Next.js + App Router + TypeScript",
