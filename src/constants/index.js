@@ -263,7 +263,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Telemedicine Platform (80% Complete)",
+    name: "Telemedicine SaaS Platform (80% Complete)",
     description:
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
     tags: [
@@ -329,7 +329,7 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "Payment Platform (70% Complete)",
+    name: "Payment SaaS Platform (70% Complete)",
     description:
       "A full-stack, enterprise-grade digital payment platform built with modern technologies and industry best practices. This production-ready application demonstrates expertise in microservices architecture, progressive web apps, real-time notifications, and scalable fintech solutions.",
     tags: [
