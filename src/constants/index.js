@@ -335,7 +335,7 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "Payment SaaS Platform (70% Complete)",
+    name: "Payment SaaS Platform (95% Complete)",
     description:
       "A full-stack, enterprise-grade digital payment platform built with modern technologies and industry best practices. This production-ready application demonstrates expertise in microservices architecture, progressive web apps, real-time notifications, and scalable fintech solutions.",
     tags: [
@@ -400,7 +400,7 @@ const projects = [
         name: "Docker",
       },
       {
-        name: "AWS",
+        name: "AWS (ECS, Fargate, ECR, DocumentDB, ElastiCache, IAM, CloudWatch, Terraform)",
       },
       {
         name: "Progressive Web App (PWA)",
