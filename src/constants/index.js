@@ -343,6 +343,12 @@ const projects = [
         name: " ",
       },
       {
+        name: "Enterprise-grade SaaS Application",
+      },
+      {
+        name: "Production-ready",
+      },
+      {
         name: "React + TypeScript",
       },
       {
@@ -407,6 +413,12 @@ const projects = [
     tags: [
       {
         name: " ",
+      },
+      {
+        name: "Enterprise-grade SaaS Application",
+      },
+      {
+        name: "Production-ready",
       },
       {
         name: "React + TypeScript",
