@@ -263,12 +263,18 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Telemedicine SaaS Platform (80% Complete)",
+    name: "Telemedicine SaaS Platform (90% Complete)",
     description:
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
     tags: [
       {
         name: " ",
+      },
+      {
+        name: "Enterprise-grade SaaS Application",
+      },
+      {
+        name: "Production-ready",
       },
       {
         name: "Next.js + App Router + TypeScript",
