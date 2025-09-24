@@ -349,6 +349,9 @@ const projects = [
         name: "Production-ready",
       },
       {
+        name: "Microservices Architecture",
+      },
+      {
         name: "React + TypeScript",
       },
       {
