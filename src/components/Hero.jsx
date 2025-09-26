@@ -22,6 +22,9 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white`}>
             I'm <span className="text-[#915EFF]">Johnson</span>,<br/><span className="sm:whitespace-nowrap">a Software Developer.</span>
           </h1>
+          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+            (React, Next.js, Angular, Node.js, C#, VB.NET)
+          </p>
           <p
             className={`text-[#dfd9ff] font-medium mt-2 lg:text-[24px] sm:text-[20px] xs:text-[18px] text-[16px] lg:leading-[36px] sm:leading-[28px] leading-[24px]`}
           >
