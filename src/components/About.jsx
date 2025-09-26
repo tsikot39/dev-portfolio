@@ -37,7 +37,7 @@ const About = () => {
         enterprise-grade solutions in healthcare industry. I specialize in
         architecting scalable systems that drive business transformation and
         operational excellence. With deep proficiency in modern technologies
-        including React, Next.js, Angular, Node.js (Express.js/Fastify), C# (ASP.NET Core 8+ Web API), and VB.NET , I have successfully
+        including React, Next.js, Angular, Node.js (Express.js/Fastify), C# (ASP.NET Core 8+ Web API), VB.NET, and AWS, I have successfully
         led cross-functional teams to deliver mission-critical applications,
         AI-powered solutions, and Multi-Tenancy SaaS platforms. My approach
         combines strategic technical leadership with hands-on development
