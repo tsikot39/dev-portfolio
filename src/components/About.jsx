@@ -36,8 +36,8 @@ const About = () => {
         Senior Software Developer with 10+ years of proven expertise in leading
         enterprise-grade solutions in healthcare industry. I specialize in
         architecting scalable systems that drive business transformation and
-        operational excellence. With deep proficiency in modern technologies
-        including React, Next.js, Angular, Node.js (Express.js/Fastify), C# (ASP.NET Core 8+ Web API), VB.NET, and AWS, I have successfully
+        operational excellence. With deep proficiency in legacy and modern technologies
+        including React, Next.js, Angular, Node.js, C#, VB.NET, ASP.NET, .NET Core/.NET Framework, SQL/NoSQL, SAP Crystal Reports, WinForms, and AWS, I have successfully
         led cross-functional teams to deliver mission-critical applications,
         AI-powered solutions, and Multi-Tenancy SaaS platforms. My approach
         combines strategic technical leadership with hands-on development

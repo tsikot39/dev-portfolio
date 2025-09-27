@@ -733,7 +733,22 @@ const projects = [
       "Helps store managers efficiently track products, monitor stock levels, and generate reports for streamlined inventory control.",
     tags: [
       {
-        name: "C# + ADO.NET + .NET Framework + MS SQL Server",
+        name: " ",
+      },
+      {
+        name: "C#",
+      },
+      {
+        name: ".NET Framework",
+      },
+      {
+        name: "ADO.NET",
+      },
+      {
+        name: "MS SQL Server",
+      },
+      {
+        name: "Windows Forms",
       },
     ],
     image: inventory,
@@ -745,8 +760,23 @@ const projects = [
       "A windows forms application for managing tasks, featuring add, edit, delete, and mark as completed options, with status filtering, title search, and color-coded due date tracking.",
     tags: [
       {
-        name: "C# + ADO.NET + .NET Framework + MS SQL Server",
+        name: " ",
       },
+      {
+        name: "C#",
+      },
+      {
+        name: ".NET Framework",
+      },
+      {
+        name: "ADO.NET",
+      },
+      {
+        name: "MS SQL Server",
+      },
+      {
+        name: "Windows Forms",
+      }
     ],
     image: tasktool,
     source_code_link: "https://github.com/tsikot39/Task-Management-Tool",
@@ -757,8 +787,26 @@ const projects = [
       "A desktop application that organizes and stores detailed patient records, including medical history, demographics, treatments, diagnoses, prescriptions, and other healthcare-related data.",
     tags: [
       {
-        name: "VB.NET + ADO.NET + .NET Framework + MS SQL Server + SAP Crystal Reports",
+        name: " ",
       },
+      {
+        name: "VB.NET",
+      },
+      {
+        name: ".NET Framework",
+      },
+      {
+        name: "ADO.NET",
+      },
+      {
+        name: "MS SQL Server",
+      },
+      {
+        name: "SAP Crystal Reports",
+      },
+      {
+        name: "Windows Forms",
+      }
     ],
     image: pms,
     source_code_link: "https://github.com/tsikot39/patient-information-system",
@@ -769,8 +817,23 @@ const projects = [
       "A web application used to monitor and manage the accreditation status of doctors or healthcare providers with PhilHealth, the national health insurance program in the Philippines.",
     tags: [
       {
-        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
+        name: " ",
       },
+      {
+        name: "ASP.NET",
+      },
+      {
+        name: ".NET Framework",
+      },
+      {
+        name: "ADO.NET",
+      },
+      {
+        name: "MS SQL Server",
+      },
+      {
+        name: "IIS (Internet Information Services)",
+      }
     ],
     image: dpa,
     source_code_link:
@@ -782,8 +845,23 @@ const projects = [
       "A web application providing a concise summary of research papers, articles, or studies, highlighting key points, findings, and conclusions for quick understanding.",
     tags: [
       {
-        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
+        name: " ",
       },
+      {
+        name: "ASP.NET",
+      },
+      {
+        name: ".NET Framework",
+      },
+      {
+        name: "ADO.NET",
+      },
+      {
+        name: "MS SQL Server",
+      },
+      {
+        name: "IIS (Internet Information Services)",
+      }
     ],
     image: ord,
     source_code_link: "https://github.com/",
@@ -794,7 +872,22 @@ const projects = [
       "A web application for radiology departments to capture, store, process, and analyze medical images, aiding in diagnostic imaging and medical diagnosis.",
     tags: [
       {
-        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
+        name: " ",
+      },
+      {
+        name: "ASP.NET",
+      },
+      {
+        name: ".NET Framework",
+      },
+      {
+        name: "ADO.NET",
+      },
+      {
+        name: "MS SQL Server",
+      },
+      {
+        name: "IIS (Internet Information Services)",
       },
     ],
     image: ris,
@@ -806,8 +899,23 @@ const projects = [
       "A web application to track and manage the period of hospital confinement for insured individuals.",
     tags: [
       {
-        name: "ASP.NET + ADO.NET + .NET Framework + MS SQL Server",
+        name: " ",
       },
+      {
+        name: "ASP.NET",
+      },
+      {
+        name: ".NET Framework",
+      },
+      {
+        name: "ADO.NET",
+      },
+      {
+        name: "MS SQL Server",
+      },
+      {
+        name: "IIS (Internet Information Services)",
+      }
     ],
     image: ris,
     source_code_link: "https://github.com/",
