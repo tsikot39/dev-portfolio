@@ -208,7 +208,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Senior Software Developer",
+    title: "Software Developer",
     company_name: "Philippine Children's Medical Center",
     icon: starbucks,
     iconBg: "#383E56",
