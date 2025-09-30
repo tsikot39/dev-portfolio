@@ -334,81 +334,81 @@ const projects = [
     image: telemed,
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
-  {
-    name: "Payment SaaS Platform (95% Complete)",
-    description:
-      "A full-stack, enterprise-grade digital payment platform built with modern technologies and industry best practices. This production-ready application demonstrates expertise in microservices architecture, progressive web apps, real-time notifications, and scalable fintech solutions.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "Enterprise-grade SaaS Application",
-      },
-      {
-        name: "Production-ready",
-      },
-      {
-        name: "Microservices Architecture",
-      },
-      {
-        name: "React + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "Node.js + Fastify + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "MongoDB",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Socket.IO",
-      },
-      {
-        name: "Resend",
-      },
-      {
-        name: "Twilio",
-      },
-            {
-        name: "Stripe",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "RabbitMQ",
-      },
-      {
-        name: "Testing (Unit, Integration, E2E)",
-      },
-      {
-        name: "CI/CD Pipelines (GitHub Actions)",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "AWS (ECS, Fargate, ECR, DocumentDB, ElastiCache, IAM, CloudWatch, Terraform)",
-      },
-      {
-        name: "Progressive Web App (PWA)",
-      }
-    ],
-    image: payflow,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
-  },
+  // {
+  //   name: "Payment SaaS Platform (95% Complete)",
+  //   description:
+  //     "A full-stack, enterprise-grade digital payment platform built with modern technologies and industry best practices. This production-ready application demonstrates expertise in microservices architecture, progressive web apps, real-time notifications, and scalable fintech solutions.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "Enterprise-grade SaaS Application",
+  //     },
+  //     {
+  //       name: "Production-ready",
+  //     },
+  //     {
+  //       name: "Microservices Architecture",
+  //     },
+  //     {
+  //       name: "React + TypeScript",
+  //     },
+  //     {
+  //       name: "Tailwind CSS + Shadcn UI",
+  //     },
+  //     {
+  //       name: "Node.js + Fastify + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "MongoDB",
+  //     },
+  //     {
+  //       name: "JWT",
+  //     },
+  //     {
+  //       name: "OpenAPI/Swagger",
+  //     },
+  //     {
+  //       name: "Socket.IO",
+  //     },
+  //     {
+  //       name: "Resend",
+  //     },
+  //     {
+  //       name: "Twilio",
+  //     },
+  //           {
+  //       name: "Stripe",
+  //     },
+  //     {
+  //       name: "Redis",
+  //     },
+  //     {
+  //       name: "RabbitMQ",
+  //     },
+  //     {
+  //       name: "Testing (Unit, Integration, E2E)",
+  //     },
+  //     {
+  //       name: "CI/CD Pipelines (GitHub Actions)",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //     {
+  //       name: "AWS (ECS, Fargate, ECR, DocumentDB, ElastiCache, IAM, CloudWatch, Terraform)",
+  //     },
+  //     {
+  //       name: "Progressive Web App (PWA)",
+  //     }
+  //   ],
+  //   image: payflow,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app/",
+  // },
   {
     name: "CRM SaaS Platform",
     description:
