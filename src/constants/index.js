@@ -62,6 +62,7 @@ import {
   telemed,
   emr,
   payflow,
+  digital_signature,
 } from "../assets";
 
 export const navLinks = [
@@ -262,6 +263,69 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Digital Signature SaaS Platform (90% Complete)",
+    description:
+      "A complete Software-as-a-Service (SaaS) solution that enables organizations to streamline their document signing processes with legally binding digital signatures. This platform combines enterprise-level security, intuitive user experience, and robust multi-tenant architecture to deliver a world-class digital signature solution.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+      name: "React + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "C# (ASP.NET Core 8 Web API)",
+      },
+      {
+        name: "Entity Framework Core",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "SignalR",
+      },
+      {
+        name: "AutoMapper",
+      },
+      {
+        name: "FluentValidation",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "AWS",
+      },
+      {
+        name: "Serilog",
+      },
+    ],
+    image: digital_signature,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
   {
     name: "Telemedicine SaaS Platform (90% Complete)",
     description:

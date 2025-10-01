@@ -62,6 +62,7 @@ import paw_smart from "./paw_smart.png";
 import telemed from "./telemed.png";
 import emr from "./emr.png";
 import payflow from "./payflow.png";
+import digital_signature from "./digital_signature.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -157,4 +158,5 @@ export {
   telemed,
   emr,
   payflow,
+  digital_signature,
 };
