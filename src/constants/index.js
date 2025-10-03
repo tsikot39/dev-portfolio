@@ -264,12 +264,18 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Digital Signature SaaS Platform (90% Complete)",
+    name: "Digital Signature SaaS Platform",
     description:
       "A complete Software-as-a-Service (SaaS) solution that enables organizations to streamline their document signing processes with legally binding digital signatures. This platform combines enterprise-level security, intuitive user experience, and robust multi-tenant architecture to deliver a world-class digital signature solution.",
     tags: [
       {
         name: " ",
+      },
+      {
+        name: "Enterprise-grade SaaS Application",
+      },
+      {
+        name: "Production-ready",
       },
       {
       name: "React + TypeScript",
@@ -317,7 +323,7 @@ const projects = [
         name: "Docker",
       },
       {
-        name: "AWS",
+        name: "Deployment (Pending)"
       },
       {
         name: "Serilog",
@@ -327,7 +333,7 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "Telemedicine SaaS Platform (90% Complete)",
+    name: "Telemedicine SaaS Platform",
     description:
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
     tags: [
@@ -388,8 +394,8 @@ const projects = [
       {
         name: "Docker",
       },
-            {
-        name: "AWS",
+      {
+        name: "Deployment (Pending)",
       },
       {
         name: "HIPAA compliance",
