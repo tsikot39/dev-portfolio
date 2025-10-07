@@ -63,6 +63,7 @@ import {
   emr,
   payflow,
   digital_signature,
+  appointment_pro,
 } from "../assets";
 
 export const navLinks = [
@@ -263,6 +264,75 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Appointment Scheduler with AI Optimization SaaS Platform",
+    description:
+      "A comprehensive, enterprise-grade SaaS platform for intelligent appointment scheduling with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Enterprise-grade SaaS Application",
+      },
+      {
+        name: "Production-ready",
+      },
+      {
+      name: "React + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Python (FastAPI)",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Celery",
+      },
+      {
+        name: "Nginx",
+      },
+      {
+        name: "Machine Learning",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment (Pending)"
+      },
+    ],
+    image: appointment_pro,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
   {
     name: "Digital Signature SaaS Platform",
     description:

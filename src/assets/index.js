@@ -63,6 +63,7 @@ import telemed from "./telemed.png";
 import emr from "./emr.png";
 import payflow from "./payflow.png";
 import digital_signature from "./digital_signature.png";
+import appointment_pro from "./appointment_pro.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -159,4 +160,5 @@ export {
   emr,
   payflow,
   digital_signature,
+  appointment_pro,
 };
