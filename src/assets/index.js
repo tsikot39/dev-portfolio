@@ -64,6 +64,7 @@ import emr from "./emr.png";
 import payflow from "./payflow.png";
 import digital_signature from "./digital_signature.png";
 import appointment_pro from "./appointment_pro.png";
+import diagnostic_code from "./diagnostic_code.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -161,4 +162,5 @@ export {
   payflow,
   digital_signature,
   appointment_pro,
+  diagnostic_code,
 };

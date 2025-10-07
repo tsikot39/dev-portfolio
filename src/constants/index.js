@@ -64,6 +64,7 @@ import {
   payflow,
   digital_signature,
   appointment_pro,
+  diagnostic_code,
 } from "../assets";
 
 export const navLinks = [
@@ -264,6 +265,63 @@ const testimonials = [
 ];
 
 const projects = [
+    {
+    name: "AI-Powered Diagnostic Code Assistant SaaS Platform",
+    description:
+      "An enterprise-grade AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Enterprise-grade SaaS Application",
+      },
+      {
+        name: "Production-ready",
+      },
+      {
+      name: "React + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js (Fastify)",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Drizzle ORM",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "Google Gemini API",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment (Pending)"
+      },
+    ],
+    image: diagnostic_code,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
   {
     name: "Appointment Scheduler with AI Optimization SaaS Platform",
     description:
@@ -316,6 +374,9 @@ const projects = [
       },
       {
         name: "Machine Learning",
+      },
+      {
+        name: "OpenAPI/Swagger",
       },
       {
         name: "Testing (Unit, Integration, E2E)",
