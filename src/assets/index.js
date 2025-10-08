@@ -65,6 +65,7 @@ import payflow from "./payflow.png";
 import digital_signature from "./digital_signature.png";
 import appointment_pro from "./appointment_pro.png";
 import diagnostic_code from "./diagnostic_code.png";
+import prescription_refill from "./prescription_refill.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -163,4 +164,5 @@ export {
   digital_signature,
   appointment_pro,
   diagnostic_code,
+  prescription_refill,
 };

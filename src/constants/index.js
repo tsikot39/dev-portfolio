@@ -65,6 +65,7 @@ import {
   digital_signature,
   appointment_pro,
   diagnostic_code,
+  prescription_refill,
 } from "../assets";
 
 export const navLinks = [
@@ -265,6 +266,78 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Prescription Refill Predictor SaaS Platform",
+    description:
+      "An enterprise-grade SaaS platform that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Enterprise-grade SaaS Application",
+      },
+      {
+        name: "Production-ready",
+      },
+      {
+      name: "React + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Recharts",
+      },
+      {
+        name: "Python (FastAPI)",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Celery",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "scikit-learn",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Nginx",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment (Pending)"
+      },
+    ],
+    image: prescription_refill,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
     {
     name: "AI-Powered Diagnostic Code Assistant SaaS Platform",
     description:
@@ -373,7 +446,7 @@ const projects = [
         name: "Nginx",
       },
       {
-        name: "Machine Learning",
+        name: "scikit-learn",
       },
       {
         name: "OpenAPI/Swagger",
