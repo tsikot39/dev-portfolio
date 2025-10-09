@@ -267,21 +267,15 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Prescription Refill Predictor SaaS Platform",
+    name: "Prescription Refill Predictor",
     description:
-      "An enterprise-grade SaaS platform that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
+      "An enterprise-grade platform that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
     tags: [
       {
         name: " ",
       },
       {
-        name: "Enterprise-grade SaaS Application",
-      },
-      {
-        name: "Production-ready",
-      },
-      {
-      name: "React + TypeScript",
+      name: "Vite + React + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
@@ -339,7 +333,7 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
     {
-    name: "AI-Powered Diagnostic Code Assistant SaaS Platform",
+    name: "AI-Powered Diagnostic Code Assistant",
     description:
       "An enterprise-grade AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
     tags: [
@@ -347,13 +341,7 @@ const projects = [
         name: " ",
       },
       {
-        name: "Enterprise-grade SaaS Application",
-      },
-      {
-        name: "Production-ready",
-      },
-      {
-      name: "React + TypeScript",
+      name: "Vite + React + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
@@ -396,21 +384,15 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "Appointment Scheduler with AI Optimization SaaS Platform",
+    name: "Appointment Scheduler with AI Optimization",
     description:
-      "A comprehensive, enterprise-grade SaaS platform for intelligent appointment scheduling with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
+      "A comprehensive, enterprise-grade platform for intelligent appointment scheduling with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
     tags: [
       {
         name: " ",
       },
       {
-        name: "Enterprise-grade SaaS Application",
-      },
-      {
-        name: "Production-ready",
-      },
-      {
-      name: "React + TypeScript",
+      name: "Vite + React + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
@@ -468,21 +450,15 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "Digital Signature SaaS Platform",
+    name: "Digital Signature",
     description:
-      "A complete Software-as-a-Service (SaaS) solution that enables organizations to streamline their document signing processes with legally binding digital signatures. This platform combines enterprise-level security, intuitive user experience, and robust multi-tenant architecture to deliver a world-class digital signature solution.",
+      "A complete solution that enables organizations to streamline their document signing processes with legally binding digital signatures. This platform combines enterprise-level security, intuitive user experience, and robust multi-tenant architecture to deliver a world-class digital signature solution.",
     tags: [
       {
         name: " ",
       },
       {
-        name: "Enterprise-grade SaaS Application",
-      },
-      {
-        name: "Production-ready",
-      },
-      {
-      name: "React + TypeScript",
+      name: "Vite + React + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
@@ -537,18 +513,12 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "Telemedicine SaaS Platform",
+    name: "Telemedicine",
     description:
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
     tags: [
       {
         name: " ",
-      },
-      {
-        name: "Enterprise-grade SaaS Application",
-      },
-      {
-        name: "Production-ready",
       },
       {
         name: "Next.js + App Router + TypeScript",
@@ -608,83 +578,8 @@ const projects = [
     image: telemed,
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
-  // {
-  //   name: "Payment SaaS Platform (95% Complete)",
-  //   description:
-  //     "A full-stack, enterprise-grade digital payment platform built with modern technologies and industry best practices. This production-ready application demonstrates expertise in microservices architecture, progressive web apps, real-time notifications, and scalable fintech solutions.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "Enterprise-grade SaaS Application",
-  //     },
-  //     {
-  //       name: "Production-ready",
-  //     },
-  //     {
-  //       name: "Microservices Architecture",
-  //     },
-  //     {
-  //       name: "React + TypeScript",
-  //     },
-  //     {
-  //       name: "Tailwind CSS + Shadcn UI",
-  //     },
-  //     {
-  //       name: "Node.js + Fastify + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "MongoDB",
-  //     },
-  //     {
-  //       name: "JWT",
-  //     },
-  //     {
-  //       name: "OpenAPI/Swagger",
-  //     },
-  //     {
-  //       name: "Socket.IO",
-  //     },
-  //     {
-  //       name: "Resend",
-  //     },
-  //     {
-  //       name: "Twilio",
-  //     },
-  //           {
-  //       name: "Stripe",
-  //     },
-  //     {
-  //       name: "Redis",
-  //     },
-  //     {
-  //       name: "RabbitMQ",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS (ECS, Fargate, ECR, DocumentDB, ElastiCache, IAM, CloudWatch, Terraform)",
-  //     },
-  //     {
-  //       name: "Progressive Web App (PWA)",
-  //     }
-  //   ],
-  //   image: payflow,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app/",
-  // },
   {
-    name: "CRM SaaS Platform",
+    name: "Customer Relationship Management (CRM)",
     description:
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
@@ -692,13 +587,7 @@ const projects = [
         name: " ",
       },
       {
-        name: "Enterprise-grade SaaS Application",
-      },
-      {
-        name: "Production-ready",
-      },
-      {
-        name: "React + TypeScript",
+        name: "Vite + React + TypeScript",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
@@ -747,7 +636,7 @@ const projects = [
     source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
   },
   {
-    name: "Event Management & Ticketing SaaS Platform",
+    name: "Event and Ticketing Management",
     description:
       "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
@@ -813,7 +702,7 @@ const projects = [
     source_code_link: "https://jbc-event-management.vercel.app/",
   },
   {
-    name: "Invoice Management SaaS Platform",
+    name: "Invoice Generator",
     description:
       "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
     tags: [
@@ -870,7 +759,7 @@ const projects = [
     source_code_link: "https://jbc-invoice-generator.vercel.app/",
   },
   {
-    name: "AI-Powered Content Rephrasing & Optimization SaaS Tool",
+    name: "AI-Powered Content Rephrasing & Optimization Tool",
     description:
       "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
     tags: [
@@ -933,7 +822,7 @@ const projects = [
     source_code_link: "https://jbc-rephrasing-tool.vercel.app/",
   },
   {
-    name: "Real-Time Chat Platform",
+    name: "Real-Time Chat",
     description:
       "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
     tags: [
@@ -995,8 +884,32 @@ const projects = [
       "A comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
     tags: [
       {
-        name: "Next.js + TypeScript + Node.js + REST API + MongoDB + Vercel",
+        name: " ",
       },
+      {
+        name: "Next.js + App Router + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Recharts",
+      },
+      {
+        name: "NextAuth.js",
+      },
+      {
+        name: "Node.js",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "Vercel",
+      }      ,
     ],
     image: expense_tracker,
     source_code_link: "https://jbc-expense-tracker.vercel.app/",
