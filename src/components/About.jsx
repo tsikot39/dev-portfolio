@@ -37,7 +37,7 @@ const About = () => {
         enterprise-grade solutions in healthcare industry. I specialize in
         architecting scalable systems that drive business transformation and
         operational excellence. With deep proficiency in legacy and modern technologies
-        including React, Next.js, Node.js, C#, VB.NET, .NET Core/.NET Framework, SQL/NoSQL, SAP Crystal Reports, WinForms, and AWS, I have successfully
+        including React, Angular, Node.js, C#, and Python, I have successfully
         led cross-functional teams to deliver mission-critical applications,
         AI-powered solutions, and Multi-Tenancy SaaS platforms. My approach
         combines strategic technical leadership with hands-on development
@@ -46,11 +46,11 @@ const About = () => {
         driving digital transformation initiatives.
       </p>
 
-      <div className="mt-20 flex flex-wrap gap-10">
+      {/* <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
-      </div>
+      </div> */}
     </>
   );
 };
