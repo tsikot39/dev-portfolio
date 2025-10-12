@@ -220,7 +220,7 @@ const experiences = [
     date: "November 2006 - July 2023",
     points: [
       "Architected and delivered enterprise-grade hospital information systems, reducing patient record processing time by 40% and improving operational efficiency across 15+ departments",
-      "Led cross-functional development teams of 5+ engineers, driving the successful implementation of mission-critical web and desktop applications using React, Angular, Node.js, C#, Python, VB.NET, MongoDB, PostgreSQL, and MS SQL Server",
+      "Led cross-functional development teams of 5+ engineers, driving the successful implementation of mission-critical web and desktop applications using React, Next.js, Node.js, C#, Python, VB.NET, MongoDB, PostgreSQL, and MS SQL Server",
       "Spearheaded digital transformation initiatives, training 500+ healthcare professionals and achieving 60% improvement in system adoption rates",
       "Designed scalable database architectures and implemented robust security protocols for handling sensitive patient data in compliance with healthcare regulations",
     ],
@@ -307,6 +307,57 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
+    name: "AI-Powered Diagnostic Code Assistant",
+    description:
+      "An enterprise-grade AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+      name: "Vite + React + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js (Fastify)",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Drizzle ORM",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "Google Gemini API",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment (Pending)"
+      },
+    ],
+    image: diagnostic_code,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
+  {
     name: "Prescription Refill Predictor",
     description:
       "An enterprise-grade platform that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
@@ -370,57 +421,6 @@ const projects = [
       },
     ],
     image: prescription_refill,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
-    {
-    name: "AI-Powered Diagnostic Code Assistant",
-    description:
-      "An enterprise-grade AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-      name: "Vite + React + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "Node.js (Fastify)",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Drizzle ORM",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "Google Gemini API",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Testing (Unit, Integration, E2E)",
-      },
-      {
-        name: "CI/CD Pipelines (GitHub Actions)",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment (Pending)"
-      },
-    ],
-    image: diagnostic_code,
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
