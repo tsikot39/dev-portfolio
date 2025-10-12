@@ -220,7 +220,7 @@ const experiences = [
     date: "November 2006 - July 2023",
     points: [
       "Architected and delivered enterprise-grade hospital information systems, reducing patient record processing time by 40% and improving operational efficiency across 15+ departments",
-      "Led cross-functional development teams of 5+ engineers, driving the successful implementation of mission-critical web and desktop applications using React, Next.js, Node.js, C#, Python, VB.NET, MongoDB, PostgreSQL, and MS SQL Server",
+      "Led cross-functional development teams of 5+ engineers, driving the successful implementation of mission-critical web and desktop applications using React, Node.js, C#, Python, VB.NET, MongoDB, PostgreSQL, and MS SQL Server",
       "Spearheaded digital transformation initiatives, training 500+ healthcare professionals and achieving 60% improvement in system adoption rates",
       "Designed scalable database architectures and implemented robust security protocols for handling sensitive patient data in compliance with healthcare regulations",
     ],
@@ -268,9 +268,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "AI-Powered Medical Note Transcriber",
+    name: "Medical Note Transcriber",
     description:
-      "An AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. Built as a single web application for healthcare professionals, this HIPAA-compliant tool leverages advanced artificial intelligence and machine learning to address the critical need for efficient, secure, and accurate medical record transcription.",
+      "An enterprise-grade AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. Built as a single web application for healthcare professionals, this HIPAA-compliant tool leverages advanced artificial intelligence and machine learning to address the critical need for efficient, secure, and accurate medical record transcription.",
     tags: [
       {
         name: " ",
@@ -307,7 +307,7 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "AI-Powered Diagnostic Code Assistant",
+    name: "Diagnostic Code Assistant",
     description:
       "An enterprise-grade AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
     tags: [
