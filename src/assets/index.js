@@ -66,6 +66,7 @@ import digital_signature from "./digital_signature.png";
 import appointment_pro from "./appointment_pro.png";
 import diagnostic_code from "./diagnostic_code.png";
 import prescription_refill from "./prescription_refill.png";
+import medical_note from "./medical_note.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -165,4 +166,5 @@ export {
   appointment_pro,
   diagnostic_code,
   prescription_refill,
+  medical_note,
 };
