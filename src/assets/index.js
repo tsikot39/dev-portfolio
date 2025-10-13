@@ -67,6 +67,7 @@ import appointment_pro from "./appointment_pro.png";
 import diagnostic_code from "./diagnostic_code.png";
 import prescription_refill from "./prescription_refill.png";
 import medical_note from "./medical_note.png";
+import medical_chatbot from "./medical_chatbot.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -167,4 +168,5 @@ export {
   diagnostic_code,
   prescription_refill,
   medical_note,
+  medical_chatbot,
 };

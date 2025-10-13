@@ -67,6 +67,7 @@ import {
   diagnostic_code,
   prescription_refill,
   medical_note,
+  medical_chatbot,
 } from "../assets";
 
 export const navLinks = [
@@ -267,6 +268,27 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Medical Chatbot",
+    description:
+      "A modern medical chatbot providing instant AI-powered health information and guidance through an intuitive chat interface. Built for accessibility and ease of use with anonymous access.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript",
+      },
+      {
+        name: "Node.js + Fastify",
+      },
+      {
+        name: "Google Gemini 2.5 Flash",
+      }
+    ],
+    image: medical_chatbot,
+    source_code_link: "https://jbc-medical-chatbot.vercel.app",
+  },
   {
     name: "Medical Note Transcriber",
     description:
