@@ -283,46 +283,34 @@ const projects = [
         name: "Node.js + Fastify",
       },
       {
-        name: "Google Gemini 2.5 Flash",
+        name: "Google Gemini 2.5 Flash (development)",
+      },
+      {
+        name: "Google Med-PaLM 2 (production)",
       }
     ],
     image: medical_chatbot,
-    source_code_link: "https://jbc-medical-chatbot.vercel.app",
+    source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
     name: "Medical Note Transcriber",
     description:
-      "An enterprise-grade AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. Built as a single web application for healthcare professionals, this HIPAA-compliant tool leverages advanced artificial intelligence and machine learning to address the critical need for efficient, secure, and accurate medical record transcription.",
+      "An AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. This application leverages OpenAI's Whisper technology to provide efficient and accurate medical record transcription for healthcare professionals.",
     tags: [
       {
         name: " ",
       },
       {
-        name: "Tech Highlights:",
+        name: "React 18 + TypeScript",
       },
       {
-        name: "• React, TypeScript, Next.js, Node.js, AI (Whisper, BioBERT)",
+        name: "Node.js + Fastify",
       },
       {
-        name: " ",
+        name: "PostgreSQL",
       },
       {
-        name: "Feature Highlights:",
-      },
-      {
-        name: "• AI-Powered Audio Transcription Engine",
-      },
-      {
-        name: "• AI-Enhanced Medical Documentation Management",
-      },
-      {
-        name: "• Security & Privacy",
-      },
-      {
-        name: "• Analytics & Insights",
-      },
-      {
-        name: "• Export & Integration",
+        name: "OpenAI Whisper",
       },
     ],
     image: medical_note,
