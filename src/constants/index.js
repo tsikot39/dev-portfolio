@@ -307,10 +307,10 @@ const projects = [
         name: "Node.js + Fastify",
       },
       {
-        name: "PostgreSQL",
+        name: "Neon PostgreSQL",
       },
       {
-        name: "OpenAI Whisper",
+        name: "OpenAI Whisper (production)",
       },
     ],
     image: medical_note,
@@ -325,43 +325,16 @@ const projects = [
         name: " ",
       },
       {
-      name: "Vite + React + TypeScript",
+      name: "React 19 + TypeScript",
       },
       {
-        name: "Tailwind CSS + Shadcn UI",
+        name: "Node.js + Fastify",
       },
       {
-        name: "Node.js (Fastify)",
+        name: "Google Gemini 2.5 Flash (development)",
       },
       {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Drizzle ORM",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "Google Gemini API",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Testing (Unit, Integration, E2E)",
-      },
-      {
-        name: "CI/CD Pipelines (GitHub Actions)",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment (Pending)"
+        name: "Google Med-PaLM 2 (production)",
       },
     ],
     image: diagnostic_code,
