@@ -280,6 +280,9 @@ const projects = [
         name: "React 19 + TypeScript",
       },
       {
+        name: "RESTful API",
+      },
+      {
         name: "Node.js + Fastify",
       },
       {
@@ -287,7 +290,13 @@ const projects = [
       },
       {
         name: "Google Med-PaLM 2 (production)",
-      }
+      },
+      {
+        name: "AWS S3 + CloudFront (Frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (Backend)",
+      },
     ],
     image: medical_chatbot,
     source_code_link: "https://jbc-devportfolio.vercel.app",
@@ -304,6 +313,9 @@ const projects = [
         name: "React 18 + TypeScript",
       },
       {
+        name: "RESTful API",
+      },
+      {
         name: "Node.js + Fastify",
       },
       {
@@ -311,6 +323,12 @@ const projects = [
       },
       {
         name: "OpenAI Whisper (production)",
+      },
+      {
+        name: "AWS S3 + CloudFront (Frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (Backend)",
       },
     ],
     image: medical_note,
@@ -328,6 +346,9 @@ const projects = [
       name: "React 19 + TypeScript",
       },
       {
+        name: "RESTful API",
+      },
+      {
         name: "Node.js + Fastify",
       },
       {
@@ -335,6 +356,12 @@ const projects = [
       },
       {
         name: "Google Med-PaLM 2 (production)",
+      },
+      {
+        name: "AWS S3 + CloudFront (Frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (Backend)",
       },
     ],
     image: diagnostic_code,
@@ -349,58 +376,22 @@ const projects = [
         name: " ",
       },
       {
-      name: "Vite + React + TypeScript",
+      name: "React + TypeScript",
       },
       {
-        name: "Tailwind CSS + Shadcn UI",
+        name: "RESTful API",
       },
       {
-        name: "Recharts",
+        name: "Python + FastAPI",
       },
       {
-        name: "Python (FastAPI)",
+        name: "Neon PostgreSQL",
       },
       {
-        name: "PostgreSQL",
+        name: "AWS S3 + CloudFront (Frontend)",
       },
       {
-        name: "SQLAlchemy",
-      },
-      {
-        name: "Pydantic",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Celery",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "scikit-learn",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Nginx",
-      },
-      {
-        name: "Testing (Unit, Integration, E2E)",
-      },
-      {
-        name: "CI/CD Pipelines (GitHub Actions)",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment (Pending)"
+        name: "AWS Lambda + API Gateway (Backend)",
       },
     ],
     image: prescription_refill,
