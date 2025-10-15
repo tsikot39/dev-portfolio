@@ -406,58 +406,22 @@ const projects = [
         name: " ",
       },
       {
-      name: "Vite + React + TypeScript",
+      name: "React + TypeScript",
       },
       {
-        name: "Tailwind CSS + Shadcn UI",
+        name: "RESTful API",
       },
       {
-        name: "Python (FastAPI)",
+        name: "Python + FastAPI",
       },
       {
-        name: "PostgreSQL",
+        name: "Neon PostgreSQL",
       },
       {
-        name: "SQLAlchemy",
+        name: "AWS S3 + CloudFront (Frontend)",
       },
       {
-        name: "Pydantic",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "WebSocket",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Celery",
-      },
-      {
-        name: "Nginx",
-      },
-      {
-        name: "scikit-learn",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Testing (Unit, Integration, E2E)",
-      },
-      {
-        name: "CI/CD Pipelines (GitHub Actions)",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment (Pending)"
+        name: "AWS Lambda + API Gateway (Backend)",
       },
     ],
     image: appointment_pro,
