@@ -221,7 +221,7 @@ const experiences = [
     date: "November 2006 - July 2023",
     points: [
       "Architected and delivered enterprise-grade hospital information systems, reducing patient record processing time by 40% and improving operational efficiency across 15+ departments",
-      "Led cross-functional development teams of 5+ engineers, driving the successful implementation of mission-critical web and desktop applications using React, Node.js, C#, Python, VB.NET, MongoDB, PostgreSQL, and MS SQL Server",
+      "Led cross-functional development teams of 5+ engineers, driving the successful implementation of mission-critical web and desktop applications using React, Node.js, Python, C#, VB.NET, MongoDB, PostgreSQL, MS SQL Server, and AWS",
       "Spearheaded digital transformation initiatives, training 500+ healthcare professionals and achieving 60% improvement in system adoption rates",
       "Designed scalable database architectures and implemented robust security protocols for handling sensitive patient data in compliance with healthcare regulations",
     ],
