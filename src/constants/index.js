@@ -292,10 +292,10 @@ const projects = [
         name: "Google Med-PaLM 2 (production)",
       },
       {
-        name: "AWS S3 + CloudFront (Frontend)",
+        name: "AWS S3 + CloudFront (frontend)",
       },
       {
-        name: "AWS Lambda + API Gateway (Backend)",
+        name: "AWS Lambda + API Gateway (backend)",
       },
     ],
     image: medical_chatbot,
@@ -325,10 +325,10 @@ const projects = [
         name: "OpenAI Whisper (production)",
       },
       {
-        name: "AWS S3 + CloudFront (Frontend)",
+        name: "AWS S3 + CloudFront (frontend)",
       },
       {
-        name: "AWS Lambda + API Gateway (Backend)",
+        name: "AWS Lambda + API Gateway (backend)",
       },
     ],
     image: medical_note,
@@ -358,10 +358,10 @@ const projects = [
         name: "Google Med-PaLM 2 (production)",
       },
       {
-        name: "AWS S3 + CloudFront (Frontend)",
+        name: "AWS S3 + CloudFront (frontend)",
       },
       {
-        name: "AWS Lambda + API Gateway (Backend)",
+        name: "AWS Lambda + API Gateway (backend)",
       },
     ],
     image: diagnostic_code,
@@ -388,10 +388,10 @@ const projects = [
         name: "Neon PostgreSQL",
       },
       {
-        name: "AWS S3 + CloudFront (Frontend)",
+        name: "AWS S3 + CloudFront (frontend)",
       },
       {
-        name: "AWS Lambda + API Gateway (Backend)",
+        name: "AWS Lambda + API Gateway (backend)",
       },
     ],
     image: prescription_refill,
@@ -418,10 +418,10 @@ const projects = [
         name: "Neon PostgreSQL",
       },
       {
-        name: "AWS S3 + CloudFront (Frontend)",
+        name: "AWS S3 + CloudFront (frontend)",
       },
       {
-        name: "AWS Lambda + API Gateway (Backend)",
+        name: "AWS Lambda + API Gateway (backend)",
       },
     ],
     image: appointment_pro,
