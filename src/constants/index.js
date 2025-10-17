@@ -269,6 +269,58 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Dental X-Ray Cavity Detection",
+    description:
+      "A cutting-edge, AI-powered dental X-ray analysis application that revolutionizes cavity detection in clinical dentistry. Built with modern web technologies and advanced computer vision algorithms, this system provides real-time, automated cavity detection with medical-grade accuracy and confidence scoring.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "TensorFlow",
+      },
+      {
+        name: "OpenCV",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "SciPy",
+      },
+      {
+        name: "Pillow",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "AWS S3 + CloudFront (frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (backend)",
+      },
+    ]
+  },
+  {
     name: "Medical Chatbot",
     description:
       "A modern medical chatbot providing instant AI-powered health information and guidance through an intuitive chat interface. Built for accessibility and ease of use with anonymous access.",
@@ -283,13 +335,22 @@ const projects = [
         name: "RESTful API",
       },
       {
-        name: "Node.js + Fastify",
+        name: "Fastify + Node.js",
       },
       {
         name: "Google Gemini 2.5 Flash (development)",
       },
       {
         name: "Google Med-PaLM 2 (production)",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
       },
       {
         name: "AWS S3 + CloudFront (frontend)",
@@ -316,13 +377,22 @@ const projects = [
         name: "RESTful API",
       },
       {
-        name: "Node.js + Fastify",
+        name: "Fastify + Node.js",
       },
       {
-        name: "Neon PostgreSQL",
+        name: "PostgreSQL",
       },
       {
         name: "OpenAI Whisper (production)",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
       },
       {
         name: "AWS S3 + CloudFront (frontend)",
@@ -349,13 +419,22 @@ const projects = [
         name: "RESTful API",
       },
       {
-        name: "Node.js + Fastify",
+        name: "Fastify + Node.js",
       },
       {
         name: "Google Gemini 2.5 Flash (development)",
       },
       {
         name: "Google Med-PaLM 2 (production)",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
       },
       {
         name: "AWS S3 + CloudFront (frontend)",
@@ -382,10 +461,10 @@ const projects = [
         name: "RESTful API",
       },
       {
-        name: "Python + FastAPI",
+        name: "FastAPI + Python",
       },
       {
-        name: "Neon PostgreSQL",
+        name: "PostgreSQL",
       },
       {
         name: "AWS S3 + CloudFront (frontend)",
@@ -412,10 +491,10 @@ const projects = [
         name: "RESTful API",
       },
       {
-        name: "Python + FastAPI",
+        name: "FastAPI + Python",
       },
       {
-        name: "Neon PostgreSQL",
+        name: "PostgreSQL",
       },
       {
         name: "AWS S3 + CloudFront (frontend)",
