@@ -337,7 +337,7 @@ const projects = [
   {
     name: "Diagnostic Code Assistant",
     description:
-      "An enterprise-grade AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
+      "An AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
     tags: [
       {
         name: " ",
@@ -370,7 +370,7 @@ const projects = [
   {
     name: "Prescription Refill Predictor",
     description:
-      "An enterprise-grade platform that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
+      "A web application that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
     tags: [
       {
         name: " ",
@@ -398,9 +398,9 @@ const projects = [
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
-    name: "Appointment Scheduler with AI Optimization",
+    name: "Appointment Scheduler",
     description:
-      "A comprehensive, enterprise-grade platform for intelligent appointment scheduling with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
+      "An intelligent appointment scheduler with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
     tags: [
       {
         name: " ",
@@ -425,69 +425,6 @@ const projects = [
       },
     ],
     image: appointment_pro,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
-  {
-    name: "Digital Signature",
-    description:
-      "A complete solution that enables organizations to streamline their document signing processes with legally binding digital signatures. This platform combines enterprise-level security, intuitive user experience, and robust multi-tenant architecture to deliver a world-class digital signature solution.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-      name: "Vite + React + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "C# (ASP.NET Core 8 Web API)",
-      },
-      {
-        name: "Entity Framework Core",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "SignalR",
-      },
-      {
-        name: "AutoMapper",
-      },
-      {
-        name: "FluentValidation",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Testing (Unit, Integration, E2E)",
-      },
-      {
-        name: "CI/CD Pipelines (GitHub Actions)",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment (Pending)"
-      },
-      {
-        name: "Serilog",
-      },
-    ],
-    image: digital_signature,
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
