@@ -269,6 +269,76 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Predictive System Failure Detection",
+    description:
+      "Is a cutting-edge, full-stack solution powered by artificial intelligence and machine learning algorithms designed to predict and prevent system failures before they occur. Built with modern technologies and industry best practices, this intelligent application provides real-time monitoring, AI-driven predictive analytics, and smart alerting to ensure maximum system uptime and reliability.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "Alembic",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "scikit-learn",
+      },
+      {
+        name: "Random Forest Classifier",
+      },
+      {
+        name: "Isolation Forest",
+      },
+      {
+        name: "Pandas",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "Joblib",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "AWS S3 + CloudFront (frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (backend)",
+      },
+    ]
+  },
+  {
     name: "Nutrient Deficiency Risk Assessment",
     description:
       "A comprehensive AI-powered nutrition assessment application that analyzes eating patterns to identify potential nutrient deficiencies and provides personalized recommendations for optimal health. It is designed to help users track their nutritional intake, identify potential nutrient deficiencies using advanced AI algorithms, and receive personalized recommendations to improve their overall health and wellness.",
