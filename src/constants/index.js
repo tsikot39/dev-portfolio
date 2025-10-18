@@ -269,6 +269,55 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Nutrient Deficiency Risk Assessment",
+    description:
+      "A comprehensive AI-powered nutrition assessment application that analyzes eating patterns to identify potential nutrient deficiencies and provides personalized recommendations for optimal health. It is designed to help users track their nutritional intake, identify potential nutrient deficiencies using advanced AI algorithms, and receive personalized recommendations to improve their overall health and wellness.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "Pandas",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "Matplotlib + Seaborn",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "AWS S3 + CloudFront (frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (backend)",
+      },
+    ]
+  },
+  {
     name: "Speech Therapy Progress Tracker",
     description:
       "Is an advanced, AI-powered speech therapy progress tracking system designed to revolutionize the way speech-language pathologists (SLPs) monitor, analyze, and treat speech disorders. The application combines cutting-edge machine learning technologies with intuitive user interfaces to provide real-time speech analysis, comprehensive progress tracking, and data-driven insights for both therapists and patients.",
