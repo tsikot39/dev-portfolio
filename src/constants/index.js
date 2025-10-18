@@ -269,6 +269,55 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Speech Therapy Progress Tracker",
+    description:
+      "Is an advanced, AI-powered speech therapy progress tracking system designed to revolutionize the way speech-language pathologists (SLPs) monitor, analyze, and treat speech disorders. The application combines cutting-edge machine learning technologies with intuitive user interfaces to provide real-time speech analysis, comprehensive progress tracking, and data-driven insights for both therapists and patients.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "TensorFlow",
+      },
+      {
+        name: "Librosa",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "AWS S3 + CloudFront (frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (backend)",
+      },
+    ]
+  },
+  {
     name: "Dental X-Ray Cavity Detection",
     description:
       "A cutting-edge, AI-powered dental X-ray analysis application that revolutionizes cavity detection in clinical dentistry. Built with modern web technologies and advanced computer vision algorithms, this system provides real-time, automated cavity detection with medical-grade accuracy and confidence scoring.",
