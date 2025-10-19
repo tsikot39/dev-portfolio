@@ -269,7 +269,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Real-Time Network Intrusion Detection System",
+    name: "Real-Time Network Intrusion Detection",
     description: "Is a modern, AI-powered cybersecurity application that combines advanced machine learning algorithms with real-time network monitoring to provide comprehensive threat detection and analysis. Built with cutting-edge technologies including scikit-learn machine learning models, behavioral pattern recognition, and intelligent anomaly detection, it offers enterprise-grade network security monitoring through an intuitive, responsive web interface.",
     tags: [
       {
