@@ -269,6 +269,75 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Real-Time Network Intrusion Detection System",
+    description: "Is a modern, AI-powered cybersecurity application that combines advanced machine learning algorithms with real-time network monitoring to provide comprehensive threat detection and analysis. Built with cutting-edge technologies including scikit-learn machine learning models, behavioral pattern recognition, and intelligent anomaly detection, it offers enterprise-grade network security monitoring through an intuitive, responsive web interface.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "scikit-learn",
+      },
+      {
+        name: "Isolation Forest + Random Forest Classifier",
+      },
+      {
+        name: "Scapy",
+      },
+      {
+        name: "psutil",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "Pandas",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Joblib",
+      },
+      {
+        name: "netifaces",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "AWS S3 + CloudFront (frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (backend)",
+      },
+    ]
+  },
+  {
     name: "Predictive System Failure Detection",
     description:
       "Is a cutting-edge, full-stack solution powered by artificial intelligence and machine learning algorithms designed to predict and prevent system failures before they occur. Built with modern technologies and industry best practices, this intelligent application provides real-time monitoring, AI-driven predictive analytics, and smart alerting to ensure maximum system uptime and reliability.",
