@@ -21,7 +21,7 @@ const ProjectCard = ({
   return (
     <div
       onClick={handleCardClick}
-      className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full transition-transform duration-300 hover:scale-105 hover:-translate-y-2 cursor-pointer"
+      className="bg-tertiary p-6 rounded-2xl sm:w-[360px] w-full transition-transform duration-300 hover:scale-105 hover:-translate-y-2 cursor-pointer"
     >
       {/* Image preview commented out */}
       {/* <div className="relative w-full h-[230px]">
@@ -32,7 +32,7 @@ const ProjectCard = ({
         />
       </div> */}
 
-      <div className="mt-5">
+      <div>
         <h3 className="text-white font-bold text-[24px]">{name}</h3>
         <p className="mt-2 text-secondary text-[14px]">{description}</p>
       </div>
@@ -101,7 +101,7 @@ const Works = () => {
       </div>
 
       <div
-        className={`mt-20 flex flex-wrap gap-7 transition-opacity duration-200 ${
+        className={`mt-16 flex flex-wrap gap-7 transition-opacity duration-200 ${
           isTransitioning ? "opacity-0" : "opacity-100"
         }`}
       >

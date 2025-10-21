@@ -216,9 +216,9 @@ const experiences = [
   {
     title: "Software Developer",
     company_name: "Philippine Children's Medical Center",
+    date: "November 2006 - July 2023",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "November 2006 - July 2023",
     points: [
       "Architected and delivered enterprise-grade hospital information systems, reducing patient record processing time by 40% and improving operational efficiency across 15+ departments",
       "Led cross-functional development teams of 5+ engineers, driving the successful implementation of mission-critical web and desktop applications using React, Node.js, Python, C#, VB.NET, MongoDB, PostgreSQL, MS SQL Server, and AWS",
@@ -227,7 +227,7 @@ const experiences = [
     ],
   },
   {
-    title: "Systems Administrator",
+    title: "System Administrator",
     company_name: "Woodfields Consultants Inc.",
     icon: tesla,
     iconBg: "#E6DEDD",
