@@ -269,7 +269,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Intelligent Ticket Classification & Routing System",
+    name: "Intelligent Ticket Classification & Routing",
     description: "Is a cutting-edge, AI/ML-powered enterprise platform that revolutionizes customer support operations through intelligent automation, advanced analytics, and enterprise-grade security. Built with modern technologies and designed for scalability, this system transforms traditional support workflows into intelligent, data-driven processes.",
     tags: [
       {
