@@ -21,7 +21,7 @@ const ProjectCard = ({
   return (
     <div
       onClick={handleCardClick}
-      className="bg-[#1d1836] p-6 rounded-2xl sm:w-[360px] w-full transition-transform duration-300 hover:scale-105 hover:-translate-y-2 cursor-pointer"
+      className="bg-[#1d1836] p-6 rounded-2xl sm:w-[360px] w-full cursor-pointer"
     >
       {/* Image preview commented out */}
       {/* <div className="relative w-full h-[230px]">

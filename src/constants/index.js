@@ -269,6 +269,69 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Intelligent Ticket Classification & Routing System",
+    description: "Is a cutting-edge, AI/ML-powered enterprise platform that revolutionizes customer support operations through intelligent automation, advanced analytics, and enterprise-grade security. Built with modern technologies and designed for scalability, this system transforms traditional support workflows into intelligent, data-driven processes.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Uvicorn",
+      },
+      {
+        name: "scikit-learn",
+      },
+      {
+        name: "Pandas",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "NLTK",
+      },
+      {
+        name: "TextBlob",
+      },
+      {
+        name: "Joblib",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "AWS S3 + CloudFront (frontend)",
+      },
+      {
+        name: "AWS Lambda + API Gateway (backend)",
+      },
+    ]
+  },
+  {
     name: "Real-Time Network Intrusion Detection",
     description: "Is a modern, AI-powered cybersecurity application that combines advanced machine learning algorithms with real-time network monitoring to provide comprehensive threat detection and analysis. Built with cutting-edge technologies including scikit-learn machine learning models, behavioral pattern recognition, and intelligent anomaly detection, it offers enterprise-grade network security monitoring through an intuitive, responsive web interface.",
     tags: [
