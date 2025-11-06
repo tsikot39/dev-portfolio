@@ -268,6 +268,72 @@ const testimonials = [
 ];
 
 const projects = [
+    {
+    name: "Telemedicine",
+    description:
+      "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Next.js + App Router + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "C# (ASP.NET Core 8+ Web API)",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "Entity Framework Core",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "JWT + ASP.NET Core Identity",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "FluentValidation",
+      },
+      {
+        name: "AutoMapper",
+      },
+      { 
+        name: "WebRTC",
+      },
+      {
+        name: "SignalR",
+      },
+            {
+        name: "Stripe",
+      },
+      {
+        name: "Testing (Unit, Integration, E2E)",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment (Pending)",
+      },
+      {
+        name: "HIPAA compliance",
+      },
+    ],
+    image: telemed,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
   {
     name: "Intelligent Ticket Classification & Routing",
     description: "Is a cutting-edge, AI/ML-powered enterprise platform that revolutionizes customer support operations through intelligent automation, advanced analytics, and enterprise-grade security. Built with modern technologies and designed for scalability, this system transforms traditional support workflows into intelligent, data-driven processes.",
@@ -804,72 +870,6 @@ const projects = [
       },
     ],
     image: appointment_pro,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
-  {
-    name: "Telemedicine",
-    description:
-      "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "Next.js + App Router + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "C# (ASP.NET Core 8+ Web API)",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "Entity Framework Core",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "JWT + ASP.NET Core Identity",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "FluentValidation",
-      },
-      {
-        name: "AutoMapper",
-      },
-      { 
-        name: "WebRTC",
-      },
-      {
-        name: "SignalR",
-      },
-            {
-        name: "Stripe",
-      },
-      {
-        name: "Testing (Unit, Integration, E2E)",
-      },
-      {
-        name: "CI/CD Pipelines (GitHub Actions)",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment (Pending)",
-      },
-      {
-        name: "HIPAA compliance",
-      },
-    ],
-    image: telemed,
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
