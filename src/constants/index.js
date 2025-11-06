@@ -304,6 +304,12 @@ const projects = [
         name: "PostgreSQL",
       },
       {
+        name: "Azure Blob Storage",
+      },
+      {
+        name: "Redis",
+      },
+      {
         name: "JWT + ASP.NET Core Identity",
       },
       {
