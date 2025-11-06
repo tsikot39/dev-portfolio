@@ -268,7 +268,53 @@ const testimonials = [
 ];
 
 const projects = [
-    {
+  {
+    name: "Multi-Modal Biometric Authentication System",
+    description:
+      "The AI/ML Multi-Modal Biometric Authentication System is a comprehensive, enterprise-grade security solution that leverages advanced machine learning and artificial intelligence technologies to provide highly accurate and secure biometric authentication. The system combines facial recognition, voice analysis, and behavioral biometrics to create a robust multi-layered authentication framework suitable for high-security environments.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Angular 17 + TypeScript",
+      },
+      {
+        name: "Tailwind CSS",
+      },
+      {
+        name: "PrimeNG",
+      },
+      {
+        name: ".NET 9",
+      },
+      {
+        name: "TensorFlow.NET",
+      },
+      {
+        name: "ML.NET",
+      },
+      {
+        name: "Emgu.CV",
+      },
+      {
+        name: "SignalR",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "JWT + ASP.NET Core Identity",
+      },
+      {
+        name: "NBomber",
+      },
+      {
+        name: "Docker",
+      },
+    ]
+  },
+  {
     name: "Telemedicine",
     description:
       "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
