@@ -269,6 +269,79 @@ const testimonials = [
 
 const projects = [
   {
+    name: "License Plate Recognition System",
+    description: 
+      "An enterprise-grade, production-ready AI/ML-powered license plate recognition system featuring advanced machine learning capabilities, active learning pipelines, automated background processing, and comprehensive analytics. This system combines 5 OCR engines in an intelligent ensemble, provides human-in-the-loop corrections for continuous model improvement, and includes automated camera optimization for maximum accuracy.",
+    tags: [
+    {
+      name: " ",
+    },
+    {
+      name: "Angular 17 + TypeScript",
+    },
+    {
+      name: "Tailwind CSS",
+    },
+    {
+      name: "Angular Material",
+    },
+    {
+      name: ".NET 8",
+    },
+    {
+      name: "PostgreSQL",
+    },
+    {
+      name: "JWT",
+    },
+    {
+      name: "Redis",
+    },
+    {
+      name: "Hangfire",
+    },
+    {
+      name: "EasyOCR",
+    },
+    {
+      name: "PaddleOCR",
+    },
+    {
+      name: "PyTorch",
+    },
+    {
+      name: "Tesseract OCR (5-engine ensemble)",
+    },
+    {
+      name: "OpenCV",
+    },
+    {
+      name: "Numpy, Pillow (PIL)" ,
+    },
+    {
+      name: "Levenshtein Distance algorithm",
+    },
+    {
+      name: "SignalR",
+    },
+    {
+      name: "SendGrid",
+    },
+    {
+      name: "Twilio",
+    },
+    {
+      name: "Azure Blob Storage",
+    },
+    {
+      name: "Entity Framework Core",
+    },
+    {
+      name: "Docker",
+    },
+  ]
+  },
+  {
     name: "Multi-Modal Biometric Authentication System",
     description:
       "The AI/ML Multi-Modal Biometric Authentication System is a comprehensive, enterprise-grade security solution that leverages advanced machine learning and artificial intelligence technologies to provide highly accurate and secure biometric authentication. The system combines facial recognition, voice analysis, and behavioral biometrics to create a robust multi-layered authentication framework suitable for high-security environments.",
