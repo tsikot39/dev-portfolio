@@ -269,6 +269,76 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Visitor Management and Tracking System",
+    description:
+      "This is a groundbreaking, enterprise-grade AI/ML-powered visitor management platform that revolutionizes how organizations handle visitor experiences, security, and operational intelligence. Built with cutting-edge technologies including Azure Cognitive Services, ML.NET, GPT-4, and advanced computer vision, this system transforms traditional check-in processes into a seamless, intelligent, and proactive security ecosystem.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Angular 17 + TypeScript",
+      },
+      {
+        name: "Tailwind CSS",
+      },
+      {
+        name: "Angular Material",
+      },
+      {
+        name: ".NET 8",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Azure Blob Storage",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "ML.NET",
+      },
+      {
+        name: "Azure Cognitive Services",
+      },
+      {
+        name: "Face API",
+      },
+      {
+        name: "Computer Vision OCR",
+      },
+      {
+        name: "GPT-4",
+      },
+      {
+        name: "Speech",
+      },
+      {
+        name: "Translator",
+      },
+      {
+        name: "SignalR",
+      },
+      {
+        name: "SendGrid",
+      },
+      {
+        name: "Twilio",
+      },
+      {
+        name: "JWT + OAuth2",
+      },
+      {
+        name: "Entity Framework Core",
+      },
+      {
+        name: "Docker",
+      }
+    ]
+  },
+  {
     name: "License Plate Recognition System",
     description: 
       "An enterprise-grade, production-ready AI/ML-powered license plate recognition system featuring advanced machine learning capabilities, active learning pipelines, automated background processing, and comprehensive analytics. This system combines 5 OCR engines in an intelligent ensemble, provides human-in-the-loop corrections for continuous model improvement, and includes automated camera optimization for maximum accuracy.",

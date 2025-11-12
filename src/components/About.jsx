@@ -37,7 +37,7 @@ const About = () => {
         enterprise-grade solutions in healthcare industry. I specialize in
         architecting scalable systems that drive business transformation and
         operational excellence. With deep proficiency in legacy and modern technologies
-        including Angular, C#, VB.NET, MS SQL, MongoDB, PostgreSQL and AI/ML, I have successfully
+        including Angular, C#, VB.NET, MS SQL, MongoDB, PostgreSQL, Azure, AWS and AI/ML, I have successfully
         led cross-functional teams to deliver mission-critical applications,
         AI-powered solutions, and Multi-Tenancy SaaS platforms. My approach
         combines strategic technical leadership with hands-on development
