@@ -463,946 +463,721 @@ const projects = [
       },
     ]
   },
-  // {
-  //   name: "Telemedicine",
-  //   description:
-  //     "A comprehensive telemedicine platform that bridges the gap between patients and healthcare professionals through secure, accessible digital solutions. This is more than just a telemedicine platform - it's your trusted gateway to quality healthcare. We connect patients with certified healthcare professionals through secure video consultations, making healthcare accessible anytime, anywhere.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "Next.js + App Router + TypeScript",
-  //     },
-  //     {
-  //       name: "Tailwind CSS + Shadcn UI",
-  //     },
-  //     {
-  //       name: "C# (ASP.NET Core 8+ Web API)",
-  //     },
-  //     {
-  //       name: "REST API",
-  //     },
-  //     {
-  //       name: "Entity Framework Core",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "JWT + ASP.NET Core Identity",
-  //     },
-  //     {
-  //       name: "OpenAPI/Swagger",
-  //     },
-  //     {
-  //       name: "FluentValidation",
-  //     },
-  //     {
-  //       name: "AutoMapper",
-  //     },
-  //     { 
-  //       name: "WebRTC",
-  //     },
-  //     {
-  //       name: "SignalR",
-  //     },
-  //           {
-  //       name: "Stripe",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "Deployment (Pending)",
-  //     },
-  //     {
-  //       name: "HIPAA compliance",
-  //     },
-  //   ],
-  //   image: telemed,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
-  // {
-  //   name: "Intelligent Ticket Classification & Routing",
-  //   description: "Is a cutting-edge, AI/ML-powered enterprise platform that revolutionizes customer support operations through intelligent automation, advanced analytics, and enterprise-grade security. Built with modern technologies and designed for scalability, this system transforms traditional support workflows into intelligent, data-driven processes.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 19 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "SQLAlchemy",
-  //     },
-  //     {
-  //       name: "Pydantic",
-  //     },
-  //     {
-  //       name: "Uvicorn",
-  //     },
-  //     {
-  //       name: "scikit-learn",
-  //     },
-  //     {
-  //       name: "Pandas",
-  //     },
-  //     {
-  //       name: "NumPy",
-  //     },
-  //     {
-  //       name: "NLTK",
-  //     },
-  //     {
-  //       name: "TextBlob",
-  //     },
-  //     {
-  //       name: "Joblib",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ]
-  // },
-  // {
-  //   name: "Real-Time Network Intrusion Detection",
-  //   description: "Is a modern, AI-powered cybersecurity application that combines advanced machine learning algorithms with real-time network monitoring to provide comprehensive threat detection and analysis. Built with cutting-edge technologies including scikit-learn machine learning models, behavioral pattern recognition, and intelligent anomaly detection, it offers enterprise-grade network security monitoring through an intuitive, responsive web interface.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 18 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "SQLAlchemy",
-  //     },
-  //     {
-  //       name: "scikit-learn",
-  //     },
-  //     {
-  //       name: "Isolation Forest + Random Forest Classifier",
-  //     },
-  //     {
-  //       name: "Scapy",
-  //     },
-  //     {
-  //       name: "psutil",
-  //     },
-  //     {
-  //       name: "NumPy",
-  //     },
-  //     {
-  //       name: "Pandas",
-  //     },
-  //     {
-  //       name: "Pydantic",
-  //     },
-  //     {
-  //       name: "Joblib",
-  //     },
-  //     {
-  //       name: "netifaces",
-  //     },
-  //     {
-  //       name: "WebSocket",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ]
-  // },
-  // {
-  //   name: "Predictive System Failure Detection",
-  //   description:
-  //     "Is a cutting-edge, full-stack solution powered by artificial intelligence and machine learning algorithms designed to predict and prevent system failures before they occur. Built with modern technologies and industry best practices, this intelligent application provides real-time monitoring, AI-driven predictive analytics, and smart alerting to ensure maximum system uptime and reliability.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 18 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "SQLAlchemy",
-  //     },
-  //     {
-  //       name: "Alembic",
-  //     },
-  //     {
-  //       name: "Redis",
-  //     },
-  //     {
-  //       name: "Pydantic",
-  //     },
-  //     {
-  //       name: "WebSocket",
-  //     },
-  //     {
-  //       name: "scikit-learn",
-  //     },
-  //     {
-  //       name: "Random Forest Classifier",
-  //     },
-  //     {
-  //       name: "Isolation Forest",
-  //     },
-  //     {
-  //       name: "Pandas",
-  //     },
-  //     {
-  //       name: "NumPy",
-  //     },
-  //     {
-  //       name: "Joblib",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ]
-  // },
-  // {
-  //   name: "Nutrient Deficiency Risk Assessment",
-  //   description:
-  //     "A comprehensive AI-powered nutrition assessment application that analyzes eating patterns to identify potential nutrient deficiencies and provides personalized recommendations for optimal health. It is designed to help users track their nutritional intake, identify potential nutrient deficiencies using advanced AI algorithms, and receive personalized recommendations to improve their overall health and wellness.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 18 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "SQLAlchemy",
-  //     },
-  //     {
-  //       name: "Pandas",
-  //     },
-  //     {
-  //       name: "NumPy",
-  //     },
-  //     {
-  //       name: "Matplotlib + Seaborn",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ]
-  // },
-  // {
-  //   name: "Speech Therapy Progress Tracker",
-  //   description:
-  //     "Is an advanced, AI-powered speech therapy progress tracking system designed to revolutionize the way speech-language pathologists (SLPs) monitor, analyze, and treat speech disorders. The application combines cutting-edge machine learning technologies with intuitive user interfaces to provide real-time speech analysis, comprehensive progress tracking, and data-driven insights for both therapists and patients.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 18 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "SQLAlchemy",
-  //     },
-  //     {
-  //       name: "WebSocket",
-  //     },
-  //     {
-  //       name: "TensorFlow",
-  //     },
-  //     {
-  //       name: "Librosa",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ]
-  // },
-  // {
-  //   name: "Dental X-Ray Cavity Detection",
-  //   description:
-  //     "A cutting-edge, AI-powered dental X-ray analysis application that revolutionizes cavity detection in clinical dentistry. Built with modern web technologies and advanced computer vision algorithms, this system provides real-time, automated cavity detection with medical-grade accuracy and confidence scoring.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 18 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "TensorFlow",
-  //     },
-  //     {
-  //       name: "OpenCV",
-  //     },
-  //     {
-  //       name: "NumPy",
-  //     },
-  //     {
-  //       name: "SciPy",
-  //     },
-  //     {
-  //       name: "Pillow",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ]
-  // },
-  // {
-  //   name: "Medical Chatbot",
-  //   description:
-  //     "A modern medical chatbot providing instant AI-powered health information and guidance through an intuitive chat interface. Built for accessibility and ease of use with anonymous access.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 19 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "Fastify + Node.js",
-  //     },
-  //     {
-  //       name: "Google Gemini 2.5 Flash (development)",
-  //     },
-  //     {
-  //       name: "Google Med-PaLM 2 (production)",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ],
-  //   image: medical_chatbot,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
-  // {
-  //   name: "Medical Note Transcriber",
-  //   description:
-  //     "An AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. This application leverages OpenAI's Whisper technology to provide efficient and accurate medical record transcription for healthcare professionals.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 18 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "Fastify + Node.js",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "OpenAI Whisper (production)",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ],
-  //   image: medical_note,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
-  // {
-  //   name: "Diagnostic Code Assistant",
-  //   description:
-  //     "An AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //     name: "React 19 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "Fastify + Node.js",
-  //     },
-  //     {
-  //       name: "Google Gemini 2.5 Flash (development)",
-  //     },
-  //     {
-  //       name: "Google Med-PaLM 2 (production)",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ],
-  //   image: diagnostic_code,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
-  // {
-  //   name: "Prescription Refill Predictor",
-  //   description:
-  //     "A web application that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //     name: "React + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ],
-  //   image: prescription_refill,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
-  // {
-  //   name: "Appointment Scheduler",
-  //   description:
-  //     "An intelligent appointment scheduler with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //     name: "React + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "AWS S3 + CloudFront (frontend)",
-  //     },
-  //     {
-  //       name: "AWS Lambda + API Gateway (backend)",
-  //     },
-  //   ],
-  //   image: appointment_pro,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
-  // {
-  //   name: "Customer Relationship Management (CRM)",
-  //   description:
-  //     "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "Vite + React + TypeScript",
-  //     },
-  //     {
-  //       name: "Tailwind CSS + Shadcn UI",
-  //     },
-  //     {
-  //       name: "Node.js + Fastify + TypeScript",
-  //     },
-  //     {
-  //       name: "REST API",
-  //     },
-  //     {
-  //       name: "MongoDB",
-  //     },
-  //     {
-  //       name: "JWT",
-  //     },
-  //     {
-  //       name: "OpenAPI/Swagger",
-  //     },
-  //           {
-  //       name: "Socket.IO",
-  //     },
-  //     {
-  //       name: "Resend",
-  //     },
-  //     {
-  //       name: "Stripe",
-  //     },
-  //     {
-  //       name: "Redis",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "AWS",
-  //     },
-  //   ],
-  //   image: crm,
-  //   source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
-  // },
-  // {
-  //   name: "Event and Ticketing Management",
-  //   description:
-  //     "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "Next.js + App Router + TypeScript",
-  //     },
-  //     {
-  //       name: "Tailwind CSS + Shadcn UI",
-  //     },
-  //     { 
-  //       name: "Node.js + TypeScript",
-  //     },
-  //     { 
-  //       name: "REST API",
-  //     },
-  //     { 
-  //       name: "MongoDB",
-  //     },
-  //     { 
-  //       name: "Google OAuth",
-  //     },
-  //     { 
-  //       name: "NextAuth.js",
-  //     },
-  //     {
-  //       name: "JWT",
-  //     },
-  //     {
-  //       name: "OpenAPI/Swagger",
-  //     },
-  //     {
-  //       name: "Socket.IO",
-  //     },
-  //     {
-  //       name: "Resend",
-  //     },
-  //     {
-  //       name: "Stripe",
-  //     },
-  //     {
-  //       name: "Unsplash API",
-  //     },
-  //     {
-  //       name: "Next.js SSR",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     { 
-  //       name: "Docker",
-  //     },
-  //     { 
-  //       name: "Vercel",
-  //    },
-  //   ],
-  //   image: event_management,
-  //   source_code_link: "https://jbc-event-management.vercel.app/",
-  // },
-  // {
-  //   name: "Invoice Generator",
-  //   description:
-  //     "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "Next.js + App Router + TypeScript",
-  //     },
-  //     {
-  //       name: "Tailwind CSS + Shadcn UI",
-  //     },
-  //     {
-  //       name: "Node.js + TypeScript",
-  //     },
-  //           {
-  //       name: "REST API",
-  //     },
-  //     {
-  //       name: "MongoDB",
-  //     },
-  //     {
-  //       name: "Google OAuth",
-  //     },
-  //     {
-  //       name: "NextAuth.js",
-  //     },
-  //     {
-  //       name: "JWT",
-  //     },
-  //     {
-  //       name: "OpenAPI/Swagger",
-  //     },
-  //     {
-  //       name: "Resend",
-  //     },
-  //     {
-  //       name: "Redis",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "Ci/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "Vercel",
-  //     }
-  //   ],
-  //   image: invoice_generator,
-  //   source_code_link: "https://jbc-invoice-generator.vercel.app/",
-  // },
-  // {
-  //   name: "AI-Powered Content Rephrasing & Optimization Tool",
-  //   description:
-  //     "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "Next.js + App Router + TypeScript",
-  //     },
-  //     {
-  //       name: "Tailwind CSS + Shadcn UI",
-  //     },
-  //     {
-  //       name: "Node.js + TypeScript",
-  //     },
-  //     {
-  //       name: "REST API",
-  //     },
-  //     {
-  //       name: "MongoDB",
-  //     },
-  //     {
-  //       name: "Google OAuth",
-  //     },
-  //     {
-  //       name: "NextAuth.js",
-  //     },
-  //     {
-  //       name: "JWT",
-  //     },
-  //     {
-  //       name: "OpenAPI/Swagger",
-  //     },
-  //     {
-  //       name: "Resend",
-  //     },
-  //     {
-  //       name: "Stripe",
-  //     },
-  //     {
-  //       name: "Google Gemini API",
-  //     },
-  //     {
-  //       name: "Next.js SSR & ISR",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "Vercel",
-  //     },
-  //   ],
-  //   image: rephrasing_tool,
-  //   source_code_link: "https://jbc-rephrasing-tool.vercel.app/",
-  // },
-  // {
-  //   name: "Real-Time Chat",
-  //   description:
-  //     "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "Next.js + App Router + TypeScript",
-  //     },
-  //     {
-  //       name: "Tailwind CSS + Shadcn UI",
-  //     },
-  //     {
-  //       name: "Node.js + TypeScript",
-  //     },
-  //     {
-  //       name: "REST API",
-  //     },
-  //     {
-  //       name: "MongoDB",
-  //     },
-  //     {
-  //       name: "Google OAuth",
-  //     },
-  //     {
-  //       name: "NextAuth.js",
-  //     },
-  //     {
-  //       name: "JWT",
-  //     },
-  //     {
-  //       name: "OpenAPI/Swagger",
-  //     },
-  //     {
-  //       name: "Socket.IO",
-  //     },
-  //     {
-  //       name: "Next.js CSR",
-  //     },
-  //     {
-  //       name: "Testing (Unit, Integration, E2E)",
-  //     },
-  //     {
-  //       name: "CI/CD Pipelines (GitHub Actions)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //     {
-  //       name: "Vercel",
-  //     }
-  //   ],
-  //   image: nexuschat,
-  //   source_code_link: "https://jbc-chat-app.vercel.app/",
-  // },
-  // {
-  //   name: "Expense Tracker",
-  //   description:
-  //     "A comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "Next.js + App Router + TypeScript",
-  //     },
-  //     {
-  //       name: "Tailwind CSS + Shadcn UI",
-  //     },
-  //     {
-  //       name: "Recharts",
-  //     },
-  //     {
-  //       name: "NextAuth.js",
-  //     },
-  //     {
-  //       name: "Node.js",
-  //     },
-  //     {
-  //       name: "REST API",
-  //     },
-  //     {
-  //       name: "MongoDB",
-  //     },
-  //     {
-  //       name: "Vercel",
-  //     }      ,
-  //   ],
-  //   image: expense_tracker,
-  //   source_code_link: "https://jbc-expense-tracker.vercel.app/",
-  // },
+  {
+    name: "Intelligent Ticket Classification & Routing",
+    description: "Is a cutting-edge, AI/ML-powered enterprise platform that revolutionizes customer support operations through intelligent automation, advanced analytics, and enterprise-grade security. Built with modern technologies and designed for scalability, this system transforms traditional support workflows into intelligent, data-driven processes.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Uvicorn",
+      },
+      {
+        name: "scikit-learn",
+      },
+      {
+        name: "Pandas",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "NLTK",
+      },
+      {
+        name: "TextBlob",
+      },
+      {
+        name: "Joblib",
+      },
+      {
+        name: "Docker",
+      },
+    ]
+  },
+  {
+    name: "Real-Time Network Intrusion Detection",
+    description: "Is a modern, AI-powered cybersecurity application that combines advanced machine learning algorithms with real-time network monitoring to provide comprehensive threat detection and analysis. Built with cutting-edge technologies including scikit-learn machine learning models, behavioral pattern recognition, and intelligent anomaly detection, it offers enterprise-grade network security monitoring through an intuitive, responsive web interface.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "scikit-learn",
+      },
+      {
+        name: "Isolation Forest + Random Forest Classifier",
+      },
+      {
+        name: "Scapy",
+      },
+      {
+        name: "psutil",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "Pandas",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Joblib",
+      },
+      {
+        name: "netifaces",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "Docker",
+      },
+    ]
+  },
+  {
+    name: "Predictive System Failure Detection",
+    description:
+      "Is a cutting-edge, full-stack solution powered by artificial intelligence and machine learning algorithms designed to predict and prevent system failures before they occur. Built with modern technologies and industry best practices, this intelligent application provides real-time monitoring, AI-driven predictive analytics, and smart alerting to ensure maximum system uptime and reliability.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "Alembic",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "scikit-learn",
+      },
+      {
+        name: "Random Forest Classifier",
+      },
+      {
+        name: "Isolation Forest",
+      },
+      {
+        name: "Pandas",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "Joblib",
+      },
+      {
+        name: "Docker",
+      },
+    ]
+  },
+  {
+    name: "Nutrient Deficiency Risk Assessment",
+    description:
+      "A comprehensive AI-powered nutrition assessment application that analyzes eating patterns to identify potential nutrient deficiencies and provides personalized recommendations for optimal health. It is designed to help users track their nutritional intake, identify potential nutrient deficiencies using advanced AI algorithms, and receive personalized recommendations to improve their overall health and wellness.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "Pandas",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "Matplotlib + Seaborn",
+      },
+      {
+        name: "Docker",
+      },
+    ]
+  },
+  {
+    name: "Speech Therapy Progress Tracker",
+    description:
+      "Is an advanced, AI-powered speech therapy progress tracking system designed to revolutionize the way speech-language pathologists (SLPs) monitor, analyze, and treat speech disorders. The application combines cutting-edge machine learning technologies with intuitive user interfaces to provide real-time speech analysis, comprehensive progress tracking, and data-driven insights for both therapists and patients.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "TensorFlow",
+      },
+      {
+        name: "Librosa",
+      },
+      {
+        name: "Docker",
+      },
+    ]
+  },
+  {
+    name: "Dental X-Ray Cavity Detection",
+    description:
+      "A cutting-edge, AI-powered dental X-ray analysis application that revolutionizes cavity detection in clinical dentistry. Built with modern web technologies and advanced computer vision algorithms, this system provides real-time, automated cavity detection with medical-grade accuracy and confidence scoring.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "TensorFlow",
+      },
+      {
+        name: "OpenCV",
+      },
+      {
+        name: "NumPy",
+      },
+      {
+        name: "SciPy",
+      },
+      {
+        name: "Pillow",
+      },
+      {
+        name: "Docker",
+      },
+    ]
+  },
+  {
+    name: "Medical Chatbot",
+    description:
+      "A modern medical chatbot providing instant AI-powered health information and guidance through an intuitive chat interface. Built for accessibility and ease of use with anonymous access.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "Fastify + Node.js",
+      },
+      {
+        name: "Google Gemini 2.5 Flash (development)",
+      },
+      {
+        name: "Google Med-PaLM 2 (production)",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: medical_chatbot,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
+  {
+    name: "Medical Note Transcriber",
+    description:
+      "An AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. This application leverages OpenAI's Whisper technology to provide efficient and accurate medical record transcription for healthcare professionals.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "Fastify + Node.js",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "OpenAI Whisper (production)",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: medical_note,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
+  {
+    name: "Diagnostic Code Assistant",
+    description:
+      "An AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+      name: "React 19 + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "Fastify + Node.js",
+      },
+      {
+        name: "Google Gemini 2.5 Flash (development)",
+      },
+      {
+        name: "Google Med-PaLM 2 (production)",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: diagnostic_code,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
+  {
+    name: "Prescription Refill Predictor",
+    description:
+      "A web application that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+      name: "React + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: prescription_refill,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
+  {
+    name: "Appointment Scheduler",
+    description:
+      "An intelligent appointment scheduler with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+      name: "React + TypeScript",
+      },
+      {
+        name: "RESTful API",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: appointment_pro,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
+  {
+    name: "Customer Relationship Management (CRM)",
+    description:
+      "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Vite + React + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js + Fastify + TypeScript",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+            {
+        name: "Socket.IO",
+      },
+      {
+        name: "Resend",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: crm,
+    source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
+  },
+  {
+    name: "Event and Ticketing Management",
+    description:
+      "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Next.js + App Router + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      { 
+        name: "Node.js + TypeScript",
+      },
+      { 
+        name: "REST API",
+      },
+      { 
+        name: "MongoDB",
+      },
+      { 
+        name: "Google OAuth",
+      },
+      { 
+        name: "NextAuth.js",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Socket.IO",
+      },
+      {
+        name: "Resend",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "Unsplash API",
+      },
+      {
+        name: "Next.js SSR",
+      },
+      { 
+        name: "Docker",
+      },
+    ],
+    image: event_management,
+    source_code_link: "https://jbc-event-management.vercel.app/",
+  },
+  {
+    name: "Invoice Generator",
+    description:
+      "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Next.js + App Router + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js + TypeScript",
+      },
+            {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "Google OAuth",
+      },
+      {
+        name: "NextAuth.js",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Resend",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: invoice_generator,
+    source_code_link: "https://jbc-invoice-generator.vercel.app/",
+  },
+  {
+    name: "AI-Powered Content Rephrasing & Optimization Tool",
+    description:
+      "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Next.js + App Router + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js + TypeScript",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "Google OAuth",
+      },
+      {
+        name: "NextAuth.js",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Resend",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "Google Gemini API",
+      },
+      {
+        name: "Next.js SSR & ISR",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: rephrasing_tool,
+    source_code_link: "https://jbc-rephrasing-tool.vercel.app/",
+  },
+  {
+    name: "Real-Time Chat",
+    description:
+      "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Next.js + App Router + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Node.js + TypeScript",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "Google OAuth",
+      },
+      {
+        name: "NextAuth.js",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "OpenAPI/Swagger",
+      },
+      {
+        name: "Socket.IO",
+      },
+      {
+        name: "Next.js CSR",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: nexuschat,
+    source_code_link: "https://jbc-chat-app.vercel.app/",
+  },
+  {
+    name: "Expense Tracker",
+    description:
+      "A comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Next.js + App Router + TypeScript",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "Recharts",
+      },
+      {
+        name: "NextAuth.js",
+      },
+      {
+        name: "Node.js",
+      },
+      {
+        name: "REST API",
+      },
+      {
+        name: "MongoDB",
+      },
+      {
+        name: "Docker",
+      }      ,
+    ],
+    image: expense_tracker,
+    source_code_link: "https://jbc-expense-tracker.vercel.app/",
+  },
   {
     name: "Inventory Management System",
     description:
