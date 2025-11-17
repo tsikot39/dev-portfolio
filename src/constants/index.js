@@ -269,6 +269,79 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Telemedicine Platform",
+    description: 
+      "A comprehensive, production-ready healthcare solution that combines traditional telemedicine capabilities with cutting-edge artificial intelligence and machine learning. Built on a modern microservices architecture, the platform delivers intelligent healthcare services including symptom analysis, diagnosis assistance, medical image analysis, and health risk prediction.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "Angular 18 + TypeScript",
+      },
+      {
+        name: "Tailwind CSS",
+      },
+      {
+        name: "Angular Material",
+      },
+      {
+        name: "SignalR",
+      },
+      {
+        name: ".NET 8",
+      },
+      {
+        name: "FastAPI + Python",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Entity Framework Core",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "ASP.NET Core Identity",
+      },
+      {
+        name: "BioClinicalBERT",
+      },
+      {
+        name: "GPT-4",
+      },
+      {
+        name: "Azure Computer Vision",
+      },
+      {
+        name: "PyTorch",
+      },
+      {
+        name: "TensorFlow",
+      },
+      {
+        name: "scikit-learn",
+      },
+      {
+        name: "XGBoost",
+      },
+      {
+        name: "HotChocolate",
+      },
+      {
+        name: "Serilog",
+      },
+      {
+        name: "Docker",
+      },
+    ]
+    },
+  {
     name: "Visitor Management and Tracking System",
     description:
       "This is a groundbreaking, enterprise-grade AI/ML-powered visitor management platform that revolutionizes how organizations handle visitor experiences, security, and operational intelligence. Built with cutting-edge technologies including Azure Cognitive Services, ML.NET, GPT-4, and advanced computer vision, this system transforms traditional check-in processes into a seamless, intelligent, and proactive security ecosystem.",
