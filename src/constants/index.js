@@ -277,6 +277,9 @@ const projects = [
         name: " ",
       },
       {
+        name: "Microservices Architecture",
+      },
+      {
         name: "Angular 18 + TypeScript",
       },
       {
