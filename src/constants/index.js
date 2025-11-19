@@ -539,286 +539,286 @@ const projects = [
       },
     ]
   },
-  {
-    name: "Intelligent Ticket Classification & Routing",
-    description: "Is a cutting-edge, AI/ML-powered enterprise platform that revolutionizes customer support operations through intelligent automation, advanced analytics, and enterprise-grade security. Built with modern technologies and designed for scalability, this system transforms traditional support workflows into intelligent, data-driven processes.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 19 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "FastAPI + Python",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "SQLAlchemy",
-      },
-      {
-        name: "Pydantic",
-      },
-      {
-        name: "Uvicorn",
-      },
-      {
-        name: "scikit-learn",
-      },
-      {
-        name: "Pandas",
-      },
-      {
-        name: "NumPy",
-      },
-      {
-        name: "NLTK",
-      },
-      {
-        name: "TextBlob",
-      },
-      {
-        name: "Joblib",
-      },
-      {
-        name: "Docker",
-      },
-    ]
-  },
-  {
-    name: "Real-Time Network Intrusion Detection",
-    description: "Is a modern, AI-powered cybersecurity application that combines advanced machine learning algorithms with real-time network monitoring to provide comprehensive threat detection and analysis. Built with cutting-edge technologies including scikit-learn machine learning models, behavioral pattern recognition, and intelligent anomaly detection, it offers enterprise-grade network security monitoring through an intuitive, responsive web interface.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 18 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "FastAPI + Python",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "SQLAlchemy",
-      },
-      {
-        name: "scikit-learn",
-      },
-      {
-        name: "Isolation Forest + Random Forest Classifier",
-      },
-      {
-        name: "Scapy",
-      },
-      {
-        name: "psutil",
-      },
-      {
-        name: "NumPy",
-      },
-      {
-        name: "Pandas",
-      },
-      {
-        name: "Pydantic",
-      },
-      {
-        name: "Joblib",
-      },
-      {
-        name: "netifaces",
-      },
-      {
-        name: "WebSocket",
-      },
-      {
-        name: "Docker",
-      },
-    ]
-  },
-  {
-    name: "Predictive System Failure Detection",
-    description:
-      "Is a cutting-edge, full-stack solution powered by artificial intelligence and machine learning algorithms designed to predict and prevent system failures before they occur. Built with modern technologies and industry best practices, this intelligent application provides real-time monitoring, AI-driven predictive analytics, and smart alerting to ensure maximum system uptime and reliability.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 18 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "FastAPI + Python",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "SQLAlchemy",
-      },
-      {
-        name: "Alembic",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Pydantic",
-      },
-      {
-        name: "WebSocket",
-      },
-      {
-        name: "scikit-learn",
-      },
-      {
-        name: "Random Forest Classifier",
-      },
-      {
-        name: "Isolation Forest",
-      },
-      {
-        name: "Pandas",
-      },
-      {
-        name: "NumPy",
-      },
-      {
-        name: "Joblib",
-      },
-      {
-        name: "Docker",
-      },
-    ]
-  },
-  {
-    name: "Nutrient Deficiency Risk Assessment",
-    description:
-      "A comprehensive AI-powered nutrition assessment application that analyzes eating patterns to identify potential nutrient deficiencies and provides personalized recommendations for optimal health. It is designed to help users track their nutritional intake, identify potential nutrient deficiencies using advanced AI algorithms, and receive personalized recommendations to improve their overall health and wellness.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 18 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "FastAPI + Python",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "SQLAlchemy",
-      },
-      {
-        name: "Pandas",
-      },
-      {
-        name: "NumPy",
-      },
-      {
-        name: "Matplotlib + Seaborn",
-      },
-      {
-        name: "Docker",
-      },
-    ]
-  },
-  {
-    name: "Speech Therapy Progress Tracker",
-    description:
-      "Is an advanced, AI-powered speech therapy progress tracking system designed to revolutionize the way speech-language pathologists (SLPs) monitor, analyze, and treat speech disorders. The application combines cutting-edge machine learning technologies with intuitive user interfaces to provide real-time speech analysis, comprehensive progress tracking, and data-driven insights for both therapists and patients.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 18 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "FastAPI + Python",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "SQLAlchemy",
-      },
-      {
-        name: "WebSocket",
-      },
-      {
-        name: "TensorFlow",
-      },
-      {
-        name: "Librosa",
-      },
-      {
-        name: "Docker",
-      },
-    ]
-  },
-  {
-    name: "Dental X-Ray Cavity Detection",
-    description:
-      "A cutting-edge, AI-powered dental X-ray analysis application that revolutionizes cavity detection in clinical dentistry. Built with modern web technologies and advanced computer vision algorithms, this system provides real-time, automated cavity detection with medical-grade accuracy and confidence scoring.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 18 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "FastAPI + Python",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "TensorFlow",
-      },
-      {
-        name: "OpenCV",
-      },
-      {
-        name: "NumPy",
-      },
-      {
-        name: "SciPy",
-      },
-      {
-        name: "Pillow",
-      },
-      {
-        name: "Docker",
-      },
-    ]
-  },
+  // {
+  //   name: "Intelligent Ticket Classification & Routing",
+  //   description: "Is a cutting-edge, AI/ML-powered enterprise platform that revolutionizes customer support operations through intelligent automation, advanced analytics, and enterprise-grade security. Built with modern technologies and designed for scalability, this system transforms traditional support workflows into intelligent, data-driven processes.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "React 19 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "FastAPI + Python",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "SQLAlchemy",
+  //     },
+  //     {
+  //       name: "Pydantic",
+  //     },
+  //     {
+  //       name: "Uvicorn",
+  //     },
+  //     {
+  //       name: "scikit-learn",
+  //     },
+  //     {
+  //       name: "Pandas",
+  //     },
+  //     {
+  //       name: "NumPy",
+  //     },
+  //     {
+  //       name: "NLTK",
+  //     },
+  //     {
+  //       name: "TextBlob",
+  //     },
+  //     {
+  //       name: "Joblib",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ]
+  // },
+  // {
+  //   name: "Real-Time Network Intrusion Detection",
+  //   description: "Is a modern, AI-powered cybersecurity application that combines advanced machine learning algorithms with real-time network monitoring to provide comprehensive threat detection and analysis. Built with cutting-edge technologies including scikit-learn machine learning models, behavioral pattern recognition, and intelligent anomaly detection, it offers enterprise-grade network security monitoring through an intuitive, responsive web interface.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "React 18 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "FastAPI + Python",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "SQLAlchemy",
+  //     },
+  //     {
+  //       name: "scikit-learn",
+  //     },
+  //     {
+  //       name: "Isolation Forest + Random Forest Classifier",
+  //     },
+  //     {
+  //       name: "Scapy",
+  //     },
+  //     {
+  //       name: "psutil",
+  //     },
+  //     {
+  //       name: "NumPy",
+  //     },
+  //     {
+  //       name: "Pandas",
+  //     },
+  //     {
+  //       name: "Pydantic",
+  //     },
+  //     {
+  //       name: "Joblib",
+  //     },
+  //     {
+  //       name: "netifaces",
+  //     },
+  //     {
+  //       name: "WebSocket",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ]
+  // },
+  // {
+  //   name: "Predictive System Failure Detection",
+  //   description:
+  //     "Is a cutting-edge, full-stack solution powered by artificial intelligence and machine learning algorithms designed to predict and prevent system failures before they occur. Built with modern technologies and industry best practices, this intelligent application provides real-time monitoring, AI-driven predictive analytics, and smart alerting to ensure maximum system uptime and reliability.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "React 18 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "FastAPI + Python",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "SQLAlchemy",
+  //     },
+  //     {
+  //       name: "Alembic",
+  //     },
+  //     {
+  //       name: "Redis",
+  //     },
+  //     {
+  //       name: "Pydantic",
+  //     },
+  //     {
+  //       name: "WebSocket",
+  //     },
+  //     {
+  //       name: "scikit-learn",
+  //     },
+  //     {
+  //       name: "Random Forest Classifier",
+  //     },
+  //     {
+  //       name: "Isolation Forest",
+  //     },
+  //     {
+  //       name: "Pandas",
+  //     },
+  //     {
+  //       name: "NumPy",
+  //     },
+  //     {
+  //       name: "Joblib",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ]
+  // },
+  // {
+  //   name: "Nutrient Deficiency Risk Assessment",
+  //   description:
+  //     "A comprehensive AI-powered nutrition assessment application that analyzes eating patterns to identify potential nutrient deficiencies and provides personalized recommendations for optimal health. It is designed to help users track their nutritional intake, identify potential nutrient deficiencies using advanced AI algorithms, and receive personalized recommendations to improve their overall health and wellness.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "React 18 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "FastAPI + Python",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "SQLAlchemy",
+  //     },
+  //     {
+  //       name: "Pandas",
+  //     },
+  //     {
+  //       name: "NumPy",
+  //     },
+  //     {
+  //       name: "Matplotlib + Seaborn",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ]
+  // },
+  // {
+  //   name: "Speech Therapy Progress Tracker",
+  //   description:
+  //     "Is an advanced, AI-powered speech therapy progress tracking system designed to revolutionize the way speech-language pathologists (SLPs) monitor, analyze, and treat speech disorders. The application combines cutting-edge machine learning technologies with intuitive user interfaces to provide real-time speech analysis, comprehensive progress tracking, and data-driven insights for both therapists and patients.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "React 18 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "FastAPI + Python",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "SQLAlchemy",
+  //     },
+  //     {
+  //       name: "WebSocket",
+  //     },
+  //     {
+  //       name: "TensorFlow",
+  //     },
+  //     {
+  //       name: "Librosa",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ]
+  // },
+  // {
+  //   name: "Dental X-Ray Cavity Detection",
+  //   description:
+  //     "A cutting-edge, AI-powered dental X-ray analysis application that revolutionizes cavity detection in clinical dentistry. Built with modern web technologies and advanced computer vision algorithms, this system provides real-time, automated cavity detection with medical-grade accuracy and confidence scoring.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "React 18 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "FastAPI + Python",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "TensorFlow",
+  //     },
+  //     {
+  //       name: "OpenCV",
+  //     },
+  //     {
+  //       name: "NumPy",
+  //     },
+  //     {
+  //       name: "SciPy",
+  //     },
+  //     {
+  //       name: "Pillow",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ]
+  // },
   {
     name: "Medical Chatbot",
     description:
@@ -909,60 +909,60 @@ const projects = [
     image: diagnostic_code,
     source_code_link: "https://jbc-devportfolio.vercel.app",
   },
-  {
-    name: "Prescription Refill Predictor",
-    description:
-      "A web application that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-      name: "React + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "FastAPI + Python",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Docker",
-      },
-    ],
-    image: prescription_refill,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
-  {
-    name: "Appointment Scheduler",
-    description:
-      "An intelligent appointment scheduler with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-      name: "React + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "FastAPI + Python",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Docker",
-      },
-    ],
-    image: appointment_pro,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
+  // {
+  //   name: "Prescription Refill Predictor",
+  //   description:
+  //     "A web application that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //     name: "React + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "FastAPI + Python",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ],
+  //   image: prescription_refill,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app",
+  // },
+  // {
+  //   name: "Appointment Scheduler",
+  //   description:
+  //     "An intelligent appointment scheduler with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //     name: "React + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "FastAPI + Python",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ],
+  //   image: appointment_pro,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app",
+  // },
   {
     name: "Customer Relationship Management (CRM)",
     description:
