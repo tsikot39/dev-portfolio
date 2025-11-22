@@ -33,17 +33,10 @@ const About = () => {
       </div>
 
       <p className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        Software Developer with 10+ years of proven expertise in leading
-        enterprise-grade solutions in healthcare industry. I specialize in
-        architecting scalable systems that drive business transformation and
-        operational excellence. With deep proficiency in legacy and modern technologies
-        including React, Angular, C#, Node.js, MS SQL, MongoDB, PostgreSQL, Azure, AWS and AI/ML, I have successfully
-        led cross-functional teams to deliver mission-critical applications,
-        AI-powered solutions, and Multi-Tenancy SaaS platforms. My approach
-        combines strategic technical leadership with hands-on development
-        expertise. I excel at translating complex business requirements into
-        robust, scalable architectures while mentoring development teams and
-        driving digital transformation initiatives.
+        Software Developer and Technical Lead with 10+ years of proven expertise in leading enterprise-grade solutions
+for the healthcare industry. I specialize in architecting scalable, secure systems that drive business
+transformation and operational excellence. Experienced in leading and managing software developers and
+technical support teams. Deep proficiency in full-stack development with modern and legacy technologies.
       </p>
 
       {/* <div className="mt-20 flex flex-wrap gap-10">
