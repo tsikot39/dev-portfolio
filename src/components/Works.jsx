@@ -23,16 +23,15 @@ const ProjectCard = ({
       onClick={handleCardClick}
       className="bg-[#1d1836] p-6 rounded-2xl sm:w-[360px] w-full cursor-pointer"
     >
-      {/* Image preview commented out */}
-      {/* <div className="relative w-full h-[230px]">
+      <div className="relative w-full h-[230px]">
         <img
           src={image}
           alt="project_image"
           className="w-full h-full object-contain rounded-2xl"
         />
-      </div> */}
+      </div>
 
-      <div>
+      <div className="mt-4">
         <h3 className="text-white font-bold text-[24px]">{name}</h3>
         <p className="mt-2 text-secondary text-[14px]">{description}</p>
       </div>
