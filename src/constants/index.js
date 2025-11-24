@@ -268,96 +268,96 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Medical Chatbot",
-    description:
-      "A modern medical chatbot providing instant AI-powered health information and guidance through an intuitive chat interface. Built for accessibility and ease of use with anonymous access.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 19 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "Fastify + Node.js",
-      },
-      {
-        name: "Google Gemini 2.5 Flash (development)",
-      },
-      {
-        name: "Google Med-PaLM 2 (production)",
-      },
-      {
-        name: "Docker",
-      },
-    ],
-    image: medical_chatbot,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
-  {
-    name: "Medical Note Transcriber",
-    description:
-      "An AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. This application leverages OpenAI's Whisper technology to provide efficient and accurate medical record transcription for healthcare professionals.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 18 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "Fastify + Node.js",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "OpenAI Whisper (production)",
-      },
-      {
-        name: "Docker",
-      },
-    ],
-    image: medical_note,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
-  {
-    name: "Diagnostic Code Assistant",
-    description:
-      "An AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-      name: "React 19 + TypeScript",
-      },
-      {
-        name: "RESTful API",
-      },
-      {
-        name: "Fastify + Node.js",
-      },
-      {
-        name: "Google Gemini 2.5 Flash (development)",
-      },
-      {
-        name: "Google Med-PaLM 2 (production)",
-      },
-      {
-        name: "Docker",
-      },
-    ],
-    image: diagnostic_code,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
+  // {
+  //   name: "Medical Chatbot",
+  //   description:
+  //     "A modern medical chatbot providing instant AI-powered health information and guidance through an intuitive chat interface. Built for accessibility and ease of use with anonymous access.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "React 19 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "Fastify + Node.js",
+  //     },
+  //     {
+  //       name: "Google Gemini 2.5 Flash (development)",
+  //     },
+  //     {
+  //       name: "Google Med-PaLM 2 (production)",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ],
+  //   image: medical_chatbot,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app",
+  // },
+  // {
+  //   name: "Medical Note Transcriber",
+  //   description:
+  //     "An AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. This application leverages OpenAI's Whisper technology to provide efficient and accurate medical record transcription for healthcare professionals.",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //       name: "React 18 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "Fastify + Node.js",
+  //     },
+  //     {
+  //       name: "PostgreSQL",
+  //     },
+  //     {
+  //       name: "OpenAI Whisper (production)",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ],
+  //   image: medical_note,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app",
+  // },
+  // {
+  //   name: "Diagnostic Code Assistant",
+  //   description:
+  //     "An AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
+  //   tags: [
+  //     {
+  //       name: " ",
+  //     },
+  //     {
+  //     name: "React 19 + TypeScript",
+  //     },
+  //     {
+  //       name: "RESTful API",
+  //     },
+  //     {
+  //       name: "Fastify + Node.js",
+  //     },
+  //     {
+  //       name: "Google Gemini 2.5 Flash (development)",
+  //     },
+  //     {
+  //       name: "Google Med-PaLM 2 (production)",
+  //     },
+  //     {
+  //       name: "Docker",
+  //     },
+  //   ],
+  //   image: diagnostic_code,
+  //   source_code_link: "https://jbc-devportfolio.vercel.app",
+  // },
   // {
   //   name: "Prescription Refill Predictor",
   //   description:
