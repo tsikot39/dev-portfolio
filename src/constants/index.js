@@ -418,9 +418,9 @@ const projects = [
     description:
       "A comprehensive, full-stack invoice and payment management system built with modern web technologies. This application provides complete automation for invoice creation, payment tracking, customer management, and financial reporting with real-time analytics and intelligent status management.",
     tags: [
-      {
-        name: " ",
-      },
+      // {
+      //   name: " ",
+      // },
     ],
     image: invoice,
     source_code_link: "https://jbc-invoice-system.vercel.app/",
@@ -430,45 +430,45 @@ const projects = [
     description:
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "Vite + React + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "Node.js + Fastify + TypeScript",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "MongoDB",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-            {
-        name: "Socket.IO",
-      },
-      {
-        name: "Resend",
-      },
-      {
-        name: "Stripe",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Docker",
-      },
+      // {
+      //   name: " ",
+      // },
+      // {
+      //   name: "Vite + React + TypeScript",
+      // },
+      // {
+      //   name: "Tailwind CSS + Shadcn UI",
+      // },
+      // {
+      //   name: "Node.js + Fastify + TypeScript",
+      // },
+      // {
+      //   name: "REST API",
+      // },
+      // {
+      //   name: "MongoDB",
+      // },
+      // {
+      //   name: "JWT",
+      // },
+      // {
+      //   name: "OpenAPI/Swagger",
+      // },
+      //       {
+      //   name: "Socket.IO",
+      // },
+      // {
+      //   name: "Resend",
+      // },
+      // {
+      //   name: "Stripe",
+      // },
+      // {
+      //   name: "Redis",
+      // },
+      // {
+      //   name: "Docker",
+      // },
     ],
     image: crm,
     source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
@@ -478,54 +478,54 @@ const projects = [
     description:
       "A comprehensive Event Management and Ticketing Platform that allows organizers to create and manage events while providing attendees with an intuitive way to discover and purchase tickets. A full-stack web application that bridges the gap between event organizers and attendees.",
     tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "Next.js + App Router + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      { 
-        name: "Node.js + TypeScript",
-      },
-      { 
-        name: "REST API",
-      },
-      { 
-        name: "MongoDB",
-      },
-      { 
-        name: "Google OAuth",
-      },
-      { 
-        name: "NextAuth.js",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Socket.IO",
-      },
-      {
-        name: "Resend",
-      },
-      {
-        name: "Stripe",
-      },
-      {
-        name: "Unsplash API",
-      },
-      {
-        name: "Next.js SSR",
-      },
-      { 
-        name: "Docker",
-      },
+      // {
+      //   name: " ",
+      // },
+      // {
+      //   name: "Next.js + App Router + TypeScript",
+      // },
+      // {
+      //   name: "Tailwind CSS + Shadcn UI",
+      // },
+      // { 
+      //   name: "Node.js + TypeScript",
+      // },
+      // { 
+      //   name: "REST API",
+      // },
+      // { 
+      //   name: "MongoDB",
+      // },
+      // { 
+      //   name: "Google OAuth",
+      // },
+      // { 
+      //   name: "NextAuth.js",
+      // },
+      // {
+      //   name: "JWT",
+      // },
+      // {
+      //   name: "OpenAPI/Swagger",
+      // },
+      // {
+      //   name: "Socket.IO",
+      // },
+      // {
+      //   name: "Resend",
+      // },
+      // {
+      //   name: "Stripe",
+      // },
+      // {
+      //   name: "Unsplash API",
+      // },
+      // {
+      //   name: "Next.js SSR",
+      // },
+      // { 
+      //   name: "Docker",
+      // },
     ],
     image: event_management,
     source_code_link: "https://jbc-event-management.vercel.app/",
@@ -535,45 +535,45 @@ const projects = [
     description:
       "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
     tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "Next.js + App Router + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "Node.js + TypeScript",
-      },
-            {
-        name: "REST API",
-      },
-      {
-        name: "MongoDB",
-      },
-      {
-        name: "Google OAuth",
-      },
-      {
-        name: "NextAuth.js",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Resend",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Docker",
-      },
+      // {
+      //   name: " ",
+      // },
+      // {
+      //   name: "Next.js + App Router + TypeScript",
+      // },
+      // {
+      //   name: "Tailwind CSS + Shadcn UI",
+      // },
+      // {
+      //   name: "Node.js + TypeScript",
+      // },
+      //       {
+      //   name: "REST API",
+      // },
+      // {
+      //   name: "MongoDB",
+      // },
+      // {
+      //   name: "Google OAuth",
+      // },
+      // {
+      //   name: "NextAuth.js",
+      // },
+      // {
+      //   name: "JWT",
+      // },
+      // {
+      //   name: "OpenAPI/Swagger",
+      // },
+      // {
+      //   name: "Resend",
+      // },
+      // {
+      //   name: "Redis",
+      // },
+      // {
+      //   name: "Docker",
+      // },
     ],
     image: invoice_generator,
     source_code_link: "https://jbc-invoice-generator.vercel.app/",
@@ -583,51 +583,51 @@ const projects = [
     description:
       "A production-ready, enterprise-grade SaaS application designed for content creators, marketers, business, and writers who want to enhance their written communication. Built with modern web technologies and powered by Google’s Gemini AI, this platform offers a complete suite of content optimization tools in a user-friendly interface.",
     tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "Next.js + App Router + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "Node.js + TypeScript",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "MongoDB",
-      },
-      {
-        name: "Google OAuth",
-      },
-      {
-        name: "NextAuth.js",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Resend",
-      },
-      {
-        name: "Stripe",
-      },
-      {
-        name: "Google Gemini API",
-      },
-      {
-        name: "Next.js SSR & ISR",
-      },
-      {
-        name: "Docker",
-      },
+      // {
+      //   name: " ",
+      // },
+      // {
+      //   name: "Next.js + App Router + TypeScript",
+      // },
+      // {
+      //   name: "Tailwind CSS + Shadcn UI",
+      // },
+      // {
+      //   name: "Node.js + TypeScript",
+      // },
+      // {
+      //   name: "REST API",
+      // },
+      // {
+      //   name: "MongoDB",
+      // },
+      // {
+      //   name: "Google OAuth",
+      // },
+      // {
+      //   name: "NextAuth.js",
+      // },
+      // {
+      //   name: "JWT",
+      // },
+      // {
+      //   name: "OpenAPI/Swagger",
+      // },
+      // {
+      //   name: "Resend",
+      // },
+      // {
+      //   name: "Stripe",
+      // },
+      // {
+      //   name: "Google Gemini API",
+      // },
+      // {
+      //   name: "Next.js SSR & ISR",
+      // },
+      // {
+      //   name: "Docker",
+      // },
     ],
     image: rephrasing_tool,
     source_code_link: "https://jbc-rephrasing-tool.vercel.app/",
@@ -637,45 +637,45 @@ const projects = [
     description:
       "A cutting-edge, enterprise-grade andproduction-ready real-time messaging platform that combines modern web technologies with enterprise-level features. Built with performance, scalability, and user experience at its core, NexusChat delivers seamless communication with advanced privacy controls, comprehensive monitoring, and bulletproof reliability.",
     tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "Next.js + App Router + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "Node.js + TypeScript",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "MongoDB",
-      },
-      {
-        name: "Google OAuth",
-      },
-      {
-        name: "NextAuth.js",
-      },
-      {
-        name: "JWT",
-      },
-      {
-        name: "OpenAPI/Swagger",
-      },
-      {
-        name: "Socket.IO",
-      },
-      {
-        name: "Next.js CSR",
-      },
-      {
-        name: "Docker",
-      },
+      // {
+      //   name: " ",
+      // },
+      // {
+      //   name: "Next.js + App Router + TypeScript",
+      // },
+      // {
+      //   name: "Tailwind CSS + Shadcn UI",
+      // },
+      // {
+      //   name: "Node.js + TypeScript",
+      // },
+      // {
+      //   name: "REST API",
+      // },
+      // {
+      //   name: "MongoDB",
+      // },
+      // {
+      //   name: "Google OAuth",
+      // },
+      // {
+      //   name: "NextAuth.js",
+      // },
+      // {
+      //   name: "JWT",
+      // },
+      // {
+      //   name: "OpenAPI/Swagger",
+      // },
+      // {
+      //   name: "Socket.IO",
+      // },
+      // {
+      //   name: "Next.js CSR",
+      // },
+      // {
+      //   name: "Docker",
+      // },
     ],
     image: nexuschat,
     source_code_link: "https://jbc-chat-app.vercel.app/",
@@ -685,33 +685,33 @@ const projects = [
     description:
       "A comprehensive web application designed to help users manage their personal finances by tracking expenses, categorizing spending, and visualizing financial data. Built with modern web technologies, this application provides an intuitive interface for users to monitor their spending habits and make informed financial decisions.",
     tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "Next.js + App Router + TypeScript",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "Recharts",
-      },
-      {
-        name: "NextAuth.js",
-      },
-      {
-        name: "Node.js",
-      },
-      {
-        name: "REST API",
-      },
-      {
-        name: "MongoDB",
-      },
-      {
-        name: "Docker",
-      }      ,
+      // {
+      //   name: " ",
+      // },
+      // {
+      //   name: "Next.js + App Router + TypeScript",
+      // },
+      // {
+      //   name: "Tailwind CSS + Shadcn UI",
+      // },
+      // {
+      //   name: "Recharts",
+      // },
+      // {
+      //   name: "NextAuth.js",
+      // },
+      // {
+      //   name: "Node.js",
+      // },
+      // {
+      //   name: "REST API",
+      // },
+      // {
+      //   name: "MongoDB",
+      // },
+      // {
+      //   name: "Docker",
+      // }      ,
     ],
     image: expense_tracker,
     source_code_link: "https://jbc-expense-tracker.vercel.app/",
@@ -737,7 +737,7 @@ const projects = [
         name: "MS SQL",
       },
       {
-        name: "Windows Forms",
+        name: "WinForms",
       },
     ],
     image: inventory,
@@ -764,7 +764,7 @@ const projects = [
         name: "MS SQL",
       },
       {
-        name: "Windows Forms",
+        name: "WinForms",
       }
     ],
     image: tasktool,
@@ -794,7 +794,7 @@ const projects = [
         name: "SAP Crystal Reports",
       },
       {
-        name: "Windows Forms",
+        name: "WinForms",
       }
     ],
     image: pms,
@@ -960,7 +960,7 @@ const projects = [
         name: "SAP Crystal Reports",
       },
       {
-        name: "Windows Forms",
+        name: "WinForms",
       },
     ],
     image: ris,
@@ -990,7 +990,7 @@ const projects = [
         name: "SAP Crystal Reports",
       },
       {
-        name: "Windows Forms",
+        name: "WinForms",
       }
     ],
     image: ris,
@@ -1020,7 +1020,7 @@ const projects = [
         name: "SAP Crystal Reports",
       },
       {
-        name: "Windows Forms",
+        name: "WinForms",
       }
     ],
     image: ris,
@@ -1050,7 +1050,7 @@ const projects = [
         name: "SAP Crystal Reports",
       },
       {
-        name: "Windows Forms",
+        name: "WinForms",
       }
     ],
     image: ris,
