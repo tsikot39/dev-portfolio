@@ -68,6 +68,7 @@ import {
   prescription_refill,
   medical_note,
   medical_chatbot,
+  invoice,
 } from "../assets";
 
 export const navLinks = [
@@ -412,6 +413,18 @@ const projects = [
   //   image: appointment_pro,
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
+  {
+    name: "Invoice and Payment Automation System",
+    description:
+      "A comprehensive, full-stack invoice and payment management system built with modern web technologies. This application provides complete automation for invoice creation, payment tracking, customer management, and financial reporting with real-time analytics and intelligent status management.",
+    tags: [
+      {
+        name: " ",
+      },
+    ],
+    image: invoice,
+    source_code_link: "https://jbc-invoice-system.vercel.app/",
+  },
   {
     name: "Customer Relationship Management (CRM)",
     description:
