@@ -23,7 +23,7 @@ const Hero = () => {
             I'm <span className="text-[#915EFF]">Johnson</span>, a<br/><span className="sm:whitespace-nowrap">.NET Developer.</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            React | C# | ASP.NET Core | Azure
+            React | C# | ASP.NET Core | MS SQL, PostgreSQL, MongoDB | Azure
           </p>
           {/* <p
             className={`text-[#dfd9ff] font-medium mt-2 lg:text-[24px] sm:text-[20px] xs:text-[18px] text-[16px] lg:leading-[36px] sm:leading-[28px] leading-[24px]`}
