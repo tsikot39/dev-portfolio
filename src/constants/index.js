@@ -418,9 +418,30 @@ const projects = [
     description:
       "A comprehensive, full-stack invoice and payment management system built with modern web technologies. This application provides complete automation for invoice creation, payment tracking, customer management, and financial reporting with real-time analytics and intelligent status management.",
     tags: [
-      // {
-      //   name: " ",
-      // },
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "TanStack Query",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "ASP.NET Core",
+      },
+      {
+        name: "Entity Framework Core",
+      },
+      {
+        name: "MS SQL Server",
+      }
     ],
     image: invoice,
     source_code_link: "https://jbc-invoice-system.vercel.app/",
