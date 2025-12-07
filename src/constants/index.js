@@ -431,6 +431,9 @@ const projects = [
         name: "TanStack Query",
       },
       {
+        name: "FluentValidation",
+      },
+      {
         name: "JWT Authentication",
       },
       {
@@ -451,27 +454,33 @@ const projects = [
     description:
       "An enterprise-grade CRM SaaS application built with modern technologies and best practices. The platform provides comprehensive customer relationship management features including contact management, sales pipeline, activity tracking, and analytics.",
     tags: [
-      // {
-      //   name: " ",
-      // },
-      // {
-      //   name: "Vite + React + TypeScript",
-      // },
-      // {
-      //   name: "Tailwind CSS + Shadcn UI",
-      // },
-      // {
-      //   name: "Node.js + Fastify + TypeScript",
-      // },
-      // {
-      //   name: "REST API",
-      // },
-      // {
-      //   name: "MongoDB",
-      // },
-      // {
-      //   name: "JWT",
-      // },
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Custom UI",
+      },
+      {
+        name: "Zustand",
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Node.js + Express.js",
+      },
+      {
+        name: "Native MongoDB Driver",
+      },
+      {
+        name: "MongoDB",
+      },
       // {
       //   name: "OpenAPI/Swagger",
       // },
