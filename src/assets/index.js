@@ -59,7 +59,6 @@ import nexuschat from "./nexuschat.png";
 import invoice_generator from "./invoice_generator.png";
 import b2b from "./b2b.png";
 import paw_smart from "./paw_smart.png";
-import telemed from "./telemed.png";
 import emr from "./emr.png";
 import payflow from "./payflow.png";
 import digital_signature from "./digital_signature.png";
@@ -69,6 +68,7 @@ import prescription_refill from "./prescription_refill.png";
 import medical_note from "./medical_note.png";
 import medical_chatbot from "./medical_chatbot.png";
 import invoice from "./invoice.png";
+import telemedicine from "./telemedicine.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -161,7 +161,6 @@ export {
   crm,
   b2b,
   paw_smart,
-  telemed,
   emr,
   payflow,
   digital_signature,
@@ -171,4 +170,5 @@ export {
   medical_note,
   medical_chatbot,
   invoice,
+  telemedicine,
 };

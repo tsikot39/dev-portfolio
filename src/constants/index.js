@@ -59,7 +59,7 @@ import {
   crm,
   b2b,
   paw_smart,
-  telemed,
+
   emr,
   payflow,
   digital_signature,
@@ -69,6 +69,7 @@ import {
   medical_note,
   medical_chatbot,
   invoice,
+  telemedicine,
 } from "../assets";
 
 export const navLinks = [
@@ -414,6 +415,60 @@ const projects = [
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
   {
+    name: "Telemedicine Platform",
+    description: 
+      "A full-stack, enterprise-grade healthcare automation system that revolutionizes remote medical consultations by connecting patients with healthcare professionals through secure, HIPAA-compliant video calls, real-time messaging, and comprehensive health record management. This production-ready platform automates the entire telemedicine workflow—from appointment scheduling and reminders to payment processing and follow-up care—addressing the growing demand for accessible, convenient, and efficient healthcare delivery in the digital age.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native",
+      },
+      {
+        name: "Expo",
+      },
+      {
+        name: "Node.js + Fastify",
+      },
+      {
+        name: "Prisma",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Azure Blob Storage",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "JWT",
+      },
+      {
+        name: "Socket.io",
+      },
+      {
+        name: "WebRTC",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: telemedicine,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+    },
+  {
     name: "Invoice and Payment Automation System",
     description:
       "A comprehensive, full-stack invoice and payment management system built with modern web technologies. This application provides complete automation for invoice creation, payment tracking, customer management, and financial reporting with real-time analytics and intelligent status management.",
@@ -422,7 +477,7 @@ const projects = [
         name: " ",
       },
       {
-        name: "React 18 + TypeScript + Vite",
+        name: "React 19 + TypeScript + Vite",
       },
       {
         name: "Tailwind CSS + Shadcn UI",
