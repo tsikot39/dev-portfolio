@@ -417,7 +417,7 @@ const projects = [
   {
     name: "Telemedicine Platform",
     description: 
-      "A full-stack, enterprise-grade healthcare automation system that revolutionizes remote medical consultations by connecting patients with healthcare professionals through secure, HIPAA-compliant video calls, real-time messaging, and comprehensive health record management. This production-ready platform automates the entire telemedicine workflow—from appointment scheduling and reminders to payment processing and follow-up care—addressing the growing demand for accessible, convenient, and efficient healthcare delivery in the digital age.",
+      "An enterprise-grade healthcare automation system that revolutionizes remote medical consultations by connecting patients with healthcare professionals through secure, HIPAA-compliant video calls, real-time messaging, and comprehensive health record management. This production-ready platform automates the entire telemedicine workflow, from appointment scheduling and reminders to payment processing and follow-up care, addressing the growing demand for accessible, convenient, and efficient healthcare delivery in the digital age.",
     tags: [
       {
         name: " ",
@@ -433,6 +433,15 @@ const projects = [
       },
       {
         name: "Expo",
+      },
+            {
+        name: "TanStack Query + Zustand"
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
       },
       {
         name: "Node.js + Fastify",
@@ -453,13 +462,16 @@ const projects = [
         name: "Stripe",
       },
       {
-        name: "JWT",
-      },
-      {
         name: "Socket.io",
       },
       {
         name: "WebRTC",
+      },
+      {
+        name: "Nodemailer",
+      },
+      {
+        name: "Twilio",
       },
       {
         name: "Docker",
@@ -499,7 +511,22 @@ const projects = [
       },
       {
         name: "MS SQL Server",
-      }
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "SignalR",
+      },
+      {
+        name: "MailKit",
+      },
+      {
+        name: "Docker",
+      },
     ],
     image: invoice,
     source_code_link: "https://jbc-invoice-system.vercel.app/",
@@ -535,6 +562,18 @@ const projects = [
       },
       {
         name: "MongoDB",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "Socket.io",
+      },
+      {
+        name: "Nodemailer",
+      },
+      {
+        name: "Docker",
       },
       // {
       //   name: "OpenAPI/Swagger",
