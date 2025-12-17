@@ -70,6 +70,7 @@ import {
   medical_chatbot,
   invoice,
   telemedicine,
+  supply_chain,
 } from "../assets";
 
 export const navLinks = [
@@ -300,6 +301,7 @@ const projects = [
   //   image: medical_chatbot,
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
+  
   // {
   //   name: "Medical Note Transcriber",
   //   description:
@@ -387,33 +389,63 @@ const projects = [
   //   image: prescription_refill,
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
-  // {
-  //   name: "Appointment Scheduler",
-  //   description:
-  //     "An intelligent appointment scheduler with AI-powered optimization, designed for service-based businesses of all sizes. A modern, full-stack appointment scheduling solution that streamlines the booking process for businesses and their clients. Built with cutting-edge technology, it offers real-time scheduling, intelligent optimization, and seamless user experiences across all devices.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //     name: "React + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //   ],
-  //   image: appointment_pro,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
+  {
+    name: "Supply Chain Management System",
+    description:
+      "A comprehensive, enterprise-grade SaaS (Software as a Service) platform designed to streamline and optimize supply chain operations for businesses of any size. Built with modern technologies and best practices, it provides real-time visibility into inventory, orders, shipments, and supplier relationships across multiple warehouses and locations.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React native"
+      },
+      {
+        name: "Expo",
+      },
+      {
+        name: "TanStack Query"
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Node.js + Fastify",
+      },
+      {
+        name: "Drizzle ORM",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "Nodemailer",
+      },
+      {
+        name: "Twilio",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: supply_chain,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
   {
     name: "Telemedicine Platform",
     description: 
