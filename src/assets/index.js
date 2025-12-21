@@ -70,6 +70,7 @@ import medical_chatbot from "./medical_chatbot.png";
 import invoice from "./invoice.png";
 import telemedicine from "./telemedicine.png";
 import supply_chain from "./supply_chain.png";
+import wms from "./wms.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -173,4 +174,5 @@ export {
   invoice,
   telemedicine,
   supply_chain,
+  wms,
 };

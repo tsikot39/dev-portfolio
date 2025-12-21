@@ -71,6 +71,7 @@ import {
   invoice,
   telemedicine,
   supply_chain,
+  wms,
 } from "../assets";
 
 export const navLinks = [
@@ -390,6 +391,66 @@ const projects = [
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
   {
+    name: "Warehouse Management System",
+    description:
+      "A production-ready, enterprise-grade warehouse management system providing real-time inventory tracking, order fulfillment, and advanced analytics. Built with React, FastAPI, and PostgreSQL, featuring 60+ REST APIs, webhooks, WebSocket real-time updates, and comprehensive third-party integrations for ERP, e-commerce, and accounting systems.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native"
+      },
+      {
+        name: "Expo",
+      },
+      {
+        name: "TanStack Query"
+      },
+      {
+        name: "Zod"
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Python + FastAPI",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "smtplib",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Docker",
+      }
+    ],
+    image: wms,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
+  {
     name: "Supply Chain Management System",
     description:
       "A comprehensive, enterprise-grade SaaS (Software as a Service) platform designed to streamline and optimize supply chain operations for businesses of any size. Built with modern technologies and best practices, it provides real-time visibility into inventory, orders, shipments, and supplier relationships across multiple warehouses and locations.",
@@ -404,7 +465,7 @@ const projects = [
         name: "Tailwind CSS + Shadcn UI",
       },
       {
-        name: "React native"
+        name: "React Native"
       },
       {
         name: "Expo",
