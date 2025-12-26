@@ -72,6 +72,7 @@ import {
   telemedicine,
   supply_chain,
   wms,
+  icd10,
 } from "../assets";
 
 export const navLinks = [
@@ -333,63 +334,60 @@ const projects = [
   //   image: medical_note,
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
-  // {
-  //   name: "Diagnostic Code Assistant",
-  //   description:
-  //     "An AI-powered diagnostic code assistant built with modern technologies to help healthcare professionals find, validate, and manage diagnostic codes efficiently",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //     name: "React 19 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "Fastify + Node.js",
-  //     },
-  //     {
-  //       name: "Google Gemini 2.5 Flash (development)",
-  //     },
-  //     {
-  //       name: "Google Med-PaLM 2 (production)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //   ],
-  //   image: diagnostic_code,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
-  // {
-  //   name: "Prescription Refill Predictor",
-  //   description:
-  //     "A web application that leverages artificial intelligence to predict prescription refill patterns, helping pharmacies optimize inventory management and improve patient care. This AI-powered prescription refill intelligence combines modern web technologies with machine learning to deliver actionable insights for pharmaceutical operations.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //     name: "React + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "FastAPI + Python",
-  //     },
-  //     {
-  //       name: "PostgreSQL",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //   ],
-  //   image: prescription_refill,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
+  {
+    name: "Diagnostic Code Assistant",
+    description:
+      "A comprehensive, production-ready AI-powered full-stack application for managing, searching, and analyzing diagnostic codes across medical, technical, and organizational contexts. Built with modern technologies and enterprise-grade features, this application streamlines diagnostic code management with an intuitive interface, powerful backend capabilities, and optional Google Gemini AI integration for natural language search.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+      name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native + Expo",
+      },
+      {
+        name: "Tanstack Query",
+      },
+      {
+        name: "React Context API",
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Python + FastAPI",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Google Gemini 3 Flash AI",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Docker",
+      },
+    ],
+    image: icd10,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
+  },
   {
     name: "Warehouse Management System",
     description:
@@ -405,10 +403,7 @@ const projects = [
         name: "Tailwind CSS + Shadcn UI",
       },
       {
-        name: "React Native"
-      },
-      {
-        name: "Expo",
+        name: "React Native + Expo",
       },
       {
         name: "TanStack Query"
@@ -465,10 +460,7 @@ const projects = [
         name: "Tailwind CSS + Shadcn UI",
       },
       {
-        name: "React Native"
-      },
-      {
-        name: "Expo",
+        name: "React Native + Expo",
       },
       {
         name: "TanStack Query"
@@ -522,12 +514,9 @@ const projects = [
         name: "Tailwind CSS + Shadcn UI",
       },
       {
-        name: "React Native",
+        name: "React Native + Expo",
       },
       {
-        name: "Expo",
-      },
-            {
         name: "TanStack Query + Zustand"
       },
       {
