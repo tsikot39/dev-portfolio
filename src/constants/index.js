@@ -384,6 +384,18 @@ const projects = [
       {
         name: "Docker",
       },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      }
     ],
     image: icd10,
     source_code_link: "https://jbc-devportfolio.vercel.app",
@@ -440,6 +452,18 @@ const projects = [
       },
       {
         name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
       }
     ],
     image: wms,
@@ -494,6 +518,18 @@ const projects = [
       },
       {
         name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
       },
     ],
     image: supply_chain,
@@ -558,6 +594,18 @@ const projects = [
       {
         name: "Docker",
       },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      },
     ],
     image: telemedicine,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
@@ -609,6 +657,18 @@ const projects = [
       {
         name: "Docker",
       },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      },
     ],
     image: invoice,
     source_code_link: "https://jbc-invoice-system.vercel.app/",
@@ -657,24 +717,12 @@ const projects = [
       {
         name: "Docker",
       },
-      // {
-      //   name: "OpenAPI/Swagger",
-      // },
-      //       {
-      //   name: "Socket.IO",
-      // },
-      // {
-      //   name: "Resend",
-      // },
-      // {
-      //   name: "Stripe",
-      // },
-      // {
-      //   name: "Redis",
-      // },
-      // {
-      //   name: "Docker",
-      // },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- AWS App Runner (Frontend & Backend)",
+      },
     ],
     image: crm,
     source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
