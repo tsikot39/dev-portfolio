@@ -20,7 +20,7 @@ const Hero = () => {
         {/* Centered Content */}
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            I'm <span className="text-[#915EFF]">Johnson</span>, a<br/><span className="sm:whitespace-nowrap">Software Engineer.</span>
+            I'm <span className="text-[#915EFF]">Johnson</span>, a<br/><span className="sm:whitespace-nowrap">Software Developer.</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             React | React Native | Node.js | Python | ASP.NET Core
