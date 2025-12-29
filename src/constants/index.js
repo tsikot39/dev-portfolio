@@ -923,54 +923,6 @@ const projects = [
     source_code_link: "https://jbc-expense-tracker.vercel.app/",
   },
   {
-    name: "Invoice Generator",
-    description:
-      "An enterprise-grade and production-ready Invoice Generator SaaS application that transforms how businesses handle invoice management. Built with Next.js 15 and featuring advanced Redis caching, automated email workflows, comprehensive testing, and enterprise-level security - this platform delivers the performance and reliability that modern businesses demand.",
-    tags: [
-      // {
-      //   name: " ",
-      // },
-      // {
-      //   name: "Next.js + App Router + TypeScript",
-      // },
-      // {
-      //   name: "Tailwind CSS + Shadcn UI",
-      // },
-      // {
-      //   name: "Node.js + TypeScript",
-      // },
-      //       {
-      //   name: "REST API",
-      // },
-      // {
-      //   name: "MongoDB",
-      // },
-      // {
-      //   name: "Google OAuth",
-      // },
-      // {
-      //   name: "NextAuth.js",
-      // },
-      // {
-      //   name: "JWT",
-      // },
-      // {
-      //   name: "OpenAPI/Swagger",
-      // },
-      // {
-      //   name: "Resend",
-      // },
-      // {
-      //   name: "Redis",
-      // },
-      // {
-      //   name: "Docker",
-      // },
-    ],
-    image: invoice_generator,
-    source_code_link: "https://jbc-invoice-generator.vercel.app/",
-  },
-  {
     name: "Inventory Management System",
     description:
       "Helps store managers efficiently track products, monitor stock levels, and generate reports for streamlined inventory control.",
