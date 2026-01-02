@@ -72,6 +72,7 @@ import telemedicine from "./telemedicine.png";
 import supply_chain from "./supply_chain.png";
 import wms from "./wms.png";
 import icd10 from "./icd10.png";
+import medicalResident from "./medicalResident.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -177,4 +178,5 @@ export {
   supply_chain,
   wms,
   icd10,
+  medicalResident,
 };

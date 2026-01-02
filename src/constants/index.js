@@ -73,6 +73,7 @@ import {
   supply_chain,
   wms,
   icd10,
+  medicalResident,
 } from "../assets";
 
 export const navLinks = [
@@ -274,37 +275,6 @@ const testimonials = [
 
 const projects = [
   // {
-  //   name: "Medical Chatbot",
-  //   description:
-  //     "A modern medical chatbot providing instant AI-powered health information and guidance through an intuitive chat interface. Built for accessibility and ease of use with anonymous access.",
-  //   tags: [
-  //     {
-  //       name: " ",
-  //     },
-  //     {
-  //       name: "React 19 + TypeScript",
-  //     },
-  //     {
-  //       name: "RESTful API",
-  //     },
-  //     {
-  //       name: "Fastify + Node.js",
-  //     },
-  //     {
-  //       name: "Google Gemini 2.5 Flash (development)",
-  //     },
-  //     {
-  //       name: "Google Med-PaLM 2 (production)",
-  //     },
-  //     {
-  //       name: "Docker",
-  //     },
-  //   ],
-  //   image: medical_chatbot,
-  //   source_code_link: "https://jbc-devportfolio.vercel.app",
-  // },
-  
-  // {
   //   name: "Medical Note Transcriber",
   //   description:
   //     "An AI-powered healthcare documentation web application designed to streamline the process of converting medical audio recordings into accurate, structured text documentation. This application leverages OpenAI's Whisper technology to provide efficient and accurate medical record transcription for healthcare professionals.",
@@ -334,6 +304,72 @@ const projects = [
   //   image: medical_note,
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
+  {
+    name: "Medical Resident Elections",
+    description:
+      "A comprehensive, production-ready web application designed to streamline the election process for medical residency programs. The system provides secure, transparent, and efficient digital voting with real-time results, comprehensive analytics, and full audit trails.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native + Expo",
+      },
+      {
+        name: "React Context API",
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Node.js + Fastify",
+      },
+      {
+        name: "Prisma",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Socket.io",
+      },
+      {
+        name: "Nodemaler",
+      },
+      {
+        name: "Cloudinary",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      },
+    ],
+      image: medicalResident,
+      source_code_link: "https://jbc-devportfolio.vercel.app",
+    },
   {
     name: "Diagnostic Code Assistant",
     description:
