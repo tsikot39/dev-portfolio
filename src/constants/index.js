@@ -305,273 +305,6 @@ const projects = [
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
   {
-    name: "Medical Resident Elections",
-    description:
-      "A comprehensive, production-ready web application designed to streamline the election process for medical residency programs. The system provides secure, transparent, and efficient digital voting with real-time results, comprehensive analytics, and full audit trails.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 19 + TypeScript + Vite",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "React Native + Expo",
-      },
-      {
-        name: "React Context API",
-      },
-      {
-        name: "Zod",
-      },
-      {
-        name: "JWT Authentication",
-      },
-      {
-        name: "Node.js + Fastify",
-      },
-      {
-        name: "Prisma",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Socket.io",
-      },
-      {
-        name: "Nodemaler",
-      },
-      {
-        name: "Cloudinary",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment",
-      },
-      {
-        name: "- Azure Static Web Apps (Frontend)",
-      },
-      {
-        name: "- Azure App Service (Backend)",
-      },
-      {
-        name: "- Azure Database for PostgreSQL",
-      },
-    ],
-      image: medicalResident,
-      source_code_link: "https://jbc-devportfolio.vercel.app",
-    },
-  {
-    name: "Diagnostic Code Assistant",
-    description:
-      "A comprehensive, production-ready AI-powered full-stack application for managing, searching, and analyzing diagnostic codes across medical, technical, and organizational contexts. Built with modern technologies and enterprise-grade features, this application streamlines diagnostic code management with an intuitive interface, powerful backend capabilities, and optional Google Gemini AI integration for natural language search.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-      name: "React 19 + TypeScript + Vite",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "React Native + Expo",
-      },
-      {
-        name: "Tanstack Query",
-      },
-      {
-        name: "React Context API",
-      },
-      {
-        name: "Zod",
-      },
-      {
-        name: "JWT Authentication",
-      },
-      {
-        name: "Python + FastAPI",
-      },
-      {
-        name: "SQLAlchemy",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Google Gemini 3 Flash AI",
-      },
-      {
-        name: "Pydantic",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment",
-      },
-      {
-        name: "- Azure Static Web Apps (Frontend)",
-      },
-      {
-        name: "- Azure App Service (Backend)",
-      },
-      {
-        name: "- Azure Database for PostgreSQL",
-      }
-    ],
-    image: icd10,
-    source_code_link: "https://jbc-devportfolio.vercel.app",
-  },
-  {
-    name: "Warehouse Management System",
-    description:
-      "A production-ready, enterprise-grade warehouse management system providing real-time inventory tracking, order fulfillment, and advanced analytics. Built with React, FastAPI, and PostgreSQL, featuring 60+ REST APIs, webhooks, WebSocket real-time updates, and comprehensive third-party integrations for ERP, e-commerce, and accounting systems.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 18 + TypeScript + Vite",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "React Native + Expo",
-      },
-      {
-        name: "TanStack Query"
-      },
-      {
-        name: "Zod"
-      },
-      {
-        name: "JWT Authentication",
-      },
-      {
-        name: "Python + FastAPI",
-      },
-      {
-        name: "SQLAlchemy",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Stripe",
-      },
-      {
-        name: "smtplib",
-      },
-      {
-        name: "WebSocket",
-      },
-      {
-        name: "Pydantic",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment",
-      },
-      {
-        name: "- Azure Static Web Apps (Frontend)",
-      },
-      {
-        name: "- Azure App Service (Backend)",
-      },
-      {
-        name: "- Azure Database for PostgreSQL",
-      }
-    ],
-    image: wms,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
-  },
-  {
-    name: "Supply Chain Management System",
-    description:
-      "A comprehensive, enterprise-grade SaaS (Software as a Service) platform designed to streamline and optimize supply chain operations for businesses of any size. Built with modern technologies and best practices, it provides real-time visibility into inventory, orders, shipments, and supplier relationships across multiple warehouses and locations.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 19 + TypeScript + Vite",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "React Native + Expo",
-      },
-      {
-        name: "TanStack Query"
-      },
-      {
-        name: "Zod",
-      },
-      {
-        name: "JWT Authentication",
-      },
-      {
-        name: "Node.js + Fastify",
-      },
-      {
-        name: "Drizzle ORM",
-      },
-      {
-        name: "PostgreSQL",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Stripe",
-      },
-      {
-        name: "Nodemailer",
-      },
-      {
-        name: "Twilio",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment",
-      },
-      {
-        name: "- Azure Static Web Apps (Frontend)",
-      },
-      {
-        name: "- Azure App Service (Backend)",
-      },
-      {
-        name: "- Azure Database for PostgreSQL",
-      },
-    ],
-    image: supply_chain,
-    source_code_link: "https://jbc-devportfolio.vercel.app/",
-  },
-  {
     name: "Telemedicine Platform",
     description: 
       "An enterprise-grade healthcare automation system that revolutionizes remote medical consultations by connecting patients with healthcare professionals through secure, HIPAA-compliant video calls, real-time messaging, and comprehensive health record management. This production-ready platform automates the entire telemedicine workflow, from appointment scheduling and reminders to payment processing and follow-up care, addressing the growing demand for accessible, convenient, and efficient healthcare delivery in the digital age.",
@@ -645,7 +378,142 @@ const projects = [
     ],
     image: telemedicine,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
-    },
+    },  
+    {
+    name: "Supply Chain Management System",
+    description:
+      "A comprehensive, enterprise-grade SaaS (Software as a Service) platform designed to streamline and optimize supply chain operations for businesses of any size. Built with modern technologies and best practices, it provides real-time visibility into inventory, orders, shipments, and supplier relationships across multiple warehouses and locations.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native + Expo",
+      },
+      {
+        name: "TanStack Query"
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Node.js + Fastify",
+      },
+      {
+        name: "Drizzle ORM",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "Nodemailer",
+      },
+      {
+        name: "Twilio",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      },
+    ],
+    image: supply_chain,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
+  {
+    name: "Warehouse Management System",
+    description:
+      "A production-ready, enterprise-grade warehouse management system providing real-time inventory tracking, order fulfillment, and advanced analytics. Built with React, FastAPI, and PostgreSQL, featuring 60+ REST APIs, webhooks, WebSocket real-time updates, and comprehensive third-party integrations for ERP, e-commerce, and accounting systems.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 18 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native + Expo",
+      },
+      {
+        name: "TanStack Query"
+      },
+      {
+        name: "Zod"
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Python + FastAPI",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "smtplib",
+      },
+      {
+        name: "WebSocket",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      }
+    ],
+    image: wms,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  }, 
   {
     name: "Invoice and Payment Automation System",
     description:
@@ -762,6 +630,138 @@ const projects = [
     ],
     image: crm,
     source_code_link: "https://3u3db7q2ku.us-west-2.awsapprunner.com/",
+  },
+  {
+    name: "Medical Resident Election System",
+    description:
+      "A comprehensive, production-ready web application designed to streamline the election process for medical residency programs. The system provides secure, transparent, and efficient digital voting with real-time results, comprehensive analytics, and full audit trails.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native + Expo",
+      },
+      {
+        name: "React Context API",
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Node.js + Fastify",
+      },
+      {
+        name: "Prisma",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Socket.io",
+      },
+      {
+        name: "Nodemaler",
+      },
+      {
+        name: "Cloudinary",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      },
+    ],
+      image: medicalResident,
+      source_code_link: "https://jbc-devportfolio.vercel.app",
+    },
+    {
+    name: "Diagnostic Code Assistant",
+    description:
+      "A comprehensive, production-ready AI-powered full-stack application for managing, searching, and analyzing diagnostic codes across medical, technical, and organizational contexts. Built with modern technologies and enterprise-grade features, this application streamlines diagnostic code management with an intuitive interface, powerful backend capabilities, and optional Google Gemini AI integration for natural language search.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+      name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native + Expo",
+      },
+      {
+        name: "Tanstack Query",
+      },
+      {
+        name: "React Context API",
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Python + FastAPI",
+      },
+      {
+        name: "SQLAlchemy",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Google Gemini 3 Flash AI",
+      },
+      {
+        name: "Pydantic",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      }
+    ],
+    image: icd10,
+    source_code_link: "https://jbc-devportfolio.vercel.app",
   },
   {
     name: "Event and Ticketing Management",
