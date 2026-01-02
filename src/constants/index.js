@@ -361,6 +361,9 @@ const projects = [
         name: "Twilio",
       },
       {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
         name: "Docker",
       },
       {
@@ -425,6 +428,9 @@ const projects = [
       },
       {
         name: "Twilio",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
         name: "Docker",
@@ -496,6 +502,9 @@ const projects = [
         name: "Pydantic",
       },
       {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
         name: "Docker",
       },
       {
@@ -559,6 +568,9 @@ const projects = [
         name: "MailKit",
       },
       {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
         name: "Docker",
       },
       {
@@ -619,6 +631,9 @@ const projects = [
         name: "Nodemailer",
       },
       {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
         name: "Docker",
       },
       {
@@ -677,6 +692,9 @@ const projects = [
       },
       {
         name: "Cloudinary",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
         name: "Docker",
@@ -743,6 +761,9 @@ const projects = [
       },
       {
         name: "Pydantic",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
         name: "Docker",
