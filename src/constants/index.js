@@ -220,8 +220,18 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Software Developer (Co-op)",
+    company_name: "Resilient Hearts, Calgary, Alberta, Canada",
+    date: "January 2025 - April 2025",
+    icon: starbucks,
+    iconBg: "#383E56",
+    points: [
+      "Designed and developed EmpowerED, a virtual learning platform using Wix to deliver real-world skillbuilding experiences for individuals with developmental and intellectual disabilities, fostering independent living and peer connections.",
+    ],
+  },
+  {
     title: "Software Developer",
-    company_name: "Philippine Children's Medical Center",
+    company_name: "Philippine Children's Medical Center, Quezon City, Philippines",
     date: "November 2006 - July 2023",
     icon: starbucks,
     iconBg: "#383E56",
@@ -234,7 +244,7 @@ const experiences = [
   },
   {
     title: "System Administrator",
-    company_name: "Woodfields Consultants Inc.",
+    company_name: "Woodfields Consultants Inc., Quezon City, Philippines",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "July 2001 - September 2006",
