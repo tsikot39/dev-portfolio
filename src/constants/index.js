@@ -371,6 +371,21 @@ const projects = [
         name: "Twilio",
       },
       {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
+      },
+      {
         name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
@@ -438,6 +453,21 @@ const projects = [
       },
       {
         name: "Twilio",
+      },
+      {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
       },
       {
         name: "CI/CD Pipelines (GitHub Actions)",
@@ -512,6 +542,21 @@ const projects = [
         name: "Pydantic",
       },
       {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
+      },
+      {
         name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
@@ -578,6 +623,21 @@ const projects = [
         name: "MailKit",
       },
       {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
+      },
+      {
         name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
@@ -641,6 +701,21 @@ const projects = [
         name: "Nodemailer",
       },
       {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
+      },
+      {
         name: "CI/CD Pipelines (GitHub Actions)",
       },
       {
@@ -702,6 +777,21 @@ const projects = [
       },
       {
         name: "Cloudinary",
+      },
+      {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
       },
       {
         name: "CI/CD Pipelines (GitHub Actions)",
@@ -771,6 +861,21 @@ const projects = [
       },
       {
         name: "Pydantic",
+      },
+      {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
       },
       {
         name: "CI/CD Pipelines (GitHub Actions)",
