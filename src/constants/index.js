@@ -74,6 +74,7 @@ import {
   wms,
   icd10,
   medicalResident,
+  hris,
 } from "../assets";
 
 export const navLinks = [
@@ -314,6 +315,93 @@ const projects = [
   //   image: medical_note,
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
+  {
+    name: "HRIS - Human Resource Information System",
+    description:
+      "A comprehensive, AI-powered, full-stack Human Resource Information System built with modern technologies to streamline HR operations, employee management, and organizational workflows. Leveraging Google Gemini AI, the system provides intelligent automation, predictive analytics, and natural language processing capabilities. With extensive third-party integration support through REST API, GraphQL, OAuth2, and webhooks, it seamlessly connects with external software like accounting systems, communication platforms (Slack, Teams), email providers, and calendar applications. Designed for enterprise-level scalability, security, and performance.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native + Expo",
+      },
+      {
+        name: "TanStack Query + Zustand"
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Node.js + Fastify",
+      },
+      {
+        name: "Prisma",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Websocket",
+      },
+      {
+        name: "Google Gemini AI",
+      },
+      {
+        name: "Nodemailer",
+      },
+      {
+        name: "Twilio",
+      },
+      {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      }
+    ],
+    image: hris,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },
   {
     name: "Telemedicine Platform",
     description: 
