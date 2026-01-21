@@ -75,7 +75,9 @@ import {
   icd10,
   medicalResident,
   hris,
+  immmunization,
 } from "../assets";
+import { n } from "maath/dist/index-43782085.esm";
 
 export const navLinks = [
   {
@@ -316,54 +318,45 @@ const projects = [
   //   source_code_link: "https://jbc-devportfolio.vercel.app",
   // },
   {
-    name: "HRIS - Human Resource Information System",
+    name: "Immunization Tracking System",
     description:
-      "A comprehensive, AI-powered, full-stack Human Resource Information System built with modern technologies to streamline HR operations, employee management, and organizational workflows. Leveraging Google Gemini AI, the system provides intelligent automation, predictive analytics, and natural language processing capabilities. With extensive third-party integration support through REST API, GraphQL, OAuth2, and webhooks, it seamlessly connects with external software like accounting systems, communication platforms (Slack, Teams), email providers, and calendar applications. Designed for enterprise-level scalability, security, and performance.",
+      "A comprehensive web-based application designed to digitize and streamline the management of immunization programs in healthcare facilities across the Philippines. The system supports the complete lifecycle of vaccine administration, from patient registration to growth monitoring and comprehensive reporting.",
     tags: [
       {
         name: " ",
       },
       {
-        name: "React 19 + TypeScript + Vite",
+        name: "Angular 17 + TypeScript",
       },
       {
-        name: "Tailwind CSS + Shadcn UI",
+        name: "PrimeNG",
       },
       {
-        name: "React Native + Expo",
+        name: "PrimeFlex",
       },
       {
-        name: "TanStack Query + Zustand"
+        name: "Angular Material Icons",
       },
       {
-        name: "Zod",
+        name: "RxJS",
       },
       {
-        name: "JWT Authentication",
+        name: "Angular Forms",
       },
       {
-        name: "Node.js + Fastify",
+        name: ".NET 8 Web API",
       },
       {
-        name: "Prisma",
+        name: "Entity Framework Core",
       },
       {
         name: "PostgreSQL",
       },
       {
-        name: "Redis",
+        name: "JWT authentication",
       },
       {
-        name: "Websocket",
-      },
-      {
-        name: "Google Gemini AI",
-      },
-      {
-        name: "Nodemailer",
-      },
-      {
-        name: "Twilio",
+        name: "Repository pattern",
       },
       {
         name: "Tests",
@@ -397,12 +390,12 @@ const projects = [
       },
       {
         name: "- Azure Database for PostgreSQL",
-      }
+      },
     ],
-    image: hris,
+    image: immmunization,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
-  },
-  {
+    },
+    {
     name: "Telemedicine Platform",
     description: 
       "An enterprise-grade healthcare automation system that revolutionizes remote medical consultations by connecting patients with healthcare professionals through secure, HIPAA-compliant video calls, real-time messaging, and comprehensive health record management. This production-ready platform automates the entire telemedicine workflow, from appointment scheduling and reminders to payment processing and follow-up care, addressing the growing demand for accessible, convenient, and efficient healthcare delivery in the digital age.",
@@ -494,7 +487,94 @@ const projects = [
     ],
     image: telemedicine,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
-    },  
+    },
+  {
+    name: "HRIS - Human Resource Information System",
+    description:
+      "A comprehensive, AI-powered, full-stack Human Resource Information System built with modern technologies to streamline HR operations, employee management, and organizational workflows. Leveraging Google Gemini AI, the system provides intelligent automation, predictive analytics, and natural language processing capabilities. With extensive third-party integration support through REST API, GraphQL, OAuth2, and webhooks, it seamlessly connects with external software like accounting systems, communication platforms (Slack, Teams), email providers, and calendar applications. Designed for enterprise-level scalability, security, and performance.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "React Native + Expo",
+      },
+      {
+        name: "TanStack Query + Zustand"
+      },
+      {
+        name: "Zod",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: "Node.js + Fastify",
+      },
+      {
+        name: "Prisma",
+      },
+      {
+        name: "PostgreSQL",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Websocket",
+      },
+      {
+        name: "Google Gemini AI",
+      },
+      {
+        name: "Nodemailer",
+      },
+      {
+        name: "Twilio",
+      },
+      {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      }
+    ],
+    image: hris,
+    source_code_link: "https://jbc-devportfolio.vercel.app/",
+  },  
     {
     name: "Supply Chain Management System",
     description:

@@ -74,6 +74,7 @@ import wms from "./wms.png";
 import icd10 from "./icd10.png";
 import medicalResident from "./medicalResident.png";
 import hris from "./hris.png";
+import immmunization from "./immunization.png";
 
 import python from "./tech/python.png";
 import postgresql from "./tech/postgresql.png";
@@ -181,4 +182,5 @@ export {
   icd10,
   medicalResident,
   hris,
+  immmunization,
 };
