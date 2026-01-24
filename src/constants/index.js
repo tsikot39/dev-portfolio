@@ -326,7 +326,7 @@ const projects = [
         name: " ",
       },
       {
-        name: "Angular 17 + TypeScript",
+        name: "Angular 17 + TypeScript + Vite",
       },
       {
         name: "PrimeNG",
@@ -394,6 +394,87 @@ const projects = [
     ],
     image: immmunization,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
+    },
+    {
+    name: "Invoice and Payment Automation System",
+    description:
+      "A comprehensive, full-stack invoice and payment management system built with modern web technologies. This application provides complete automation for invoice creation, payment tracking, customer management, and financial reporting with real-time analytics and intelligent status management.",
+    tags: [
+      {
+        name: " ",
+      },
+      {
+        name: "React 19 + TypeScript + Vite",
+      },
+      {
+        name: "Tailwind CSS + Shadcn UI",
+      },
+      {
+        name: "TanStack Query",
+      },
+      {
+        name: "FluentValidation",
+      },
+      {
+        name: "JWT Authentication",
+      },
+      {
+        name: ".NET 8 Web API",
+      },
+      {
+        name: "Entity Framework Core",
+      },
+      {
+        name: "MS SQL Server",
+      },
+      {
+        name: "Redis",
+      },
+      {
+        name: "Stripe",
+      },
+      {
+        name: "SignalR",
+      },
+      {
+        name: "MailKit",
+      },
+      {
+        name: "Tests",
+      },
+      {
+        name: "- Unit Test",
+      },
+      {
+        name: "- Compoenent Test",
+      },
+      {
+        name: "- Integration Test",
+      },
+      {
+        name: "- E2E Test",
+      },
+      {
+        name: "CI/CD Pipelines (GitHub Actions)",
+      },
+      {
+        name: "Docker",
+      },
+      {
+        name: "Deployment",
+      },
+      {
+        name: "- Azure Static Web Apps (Frontend)",
+      },
+      {
+        name: "- Azure App Service (Backend)",
+      },
+      {
+        name: "- Azure Database for PostgreSQL",
+      },
+    ],
+    image: invoice,
+    source_code_link: "https://jbc-invoice-system.vercel.app/",
     },
     {
     name: "Telemedicine Platform",
@@ -746,87 +827,6 @@ const projects = [
     image: wms,
     source_code_link: "https://jbc-devportfolio.vercel.app/",
   }, 
-  {
-    name: "Invoice and Payment Automation System",
-    description:
-      "A comprehensive, full-stack invoice and payment management system built with modern web technologies. This application provides complete automation for invoice creation, payment tracking, customer management, and financial reporting with real-time analytics and intelligent status management.",
-    tags: [
-      {
-        name: " ",
-      },
-      {
-        name: "React 19 + TypeScript + Vite",
-      },
-      {
-        name: "Tailwind CSS + Shadcn UI",
-      },
-      {
-        name: "TanStack Query",
-      },
-      {
-        name: "FluentValidation",
-      },
-      {
-        name: "JWT Authentication",
-      },
-      {
-        name: "ASP.NET Core",
-      },
-      {
-        name: "Entity Framework Core",
-      },
-      {
-        name: "MS SQL Server",
-      },
-      {
-        name: "Redis",
-      },
-      {
-        name: "Stripe",
-      },
-      {
-        name: "SignalR",
-      },
-      {
-        name: "MailKit",
-      },
-      {
-        name: "Tests",
-      },
-      {
-        name: "- Unit Test",
-      },
-      {
-        name: "- Compoenent Test",
-      },
-      {
-        name: "- Integration Test",
-      },
-      {
-        name: "- E2E Test",
-      },
-      {
-        name: "CI/CD Pipelines (GitHub Actions)",
-      },
-      {
-        name: "Docker",
-      },
-      {
-        name: "Deployment",
-      },
-      {
-        name: "- Azure Static Web Apps (Frontend)",
-      },
-      {
-        name: "- Azure App Service (Backend)",
-      },
-      {
-        name: "- Azure Database for PostgreSQL",
-      },
-    ],
-    image: invoice,
-    source_code_link: "https://jbc-invoice-system.vercel.app/",
-  },
   {
     name: "Customer Relationship Management (CRM)",
     description:
